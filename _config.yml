@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "José Carlos Hernández Azucena"
 title_separator          : "-"
 name                     : &name "José Carlos Hernández Azucena"
-description              : &description "Ph.D. Candidate @The University of Arkansas"
+description              : &description "Ph.D. Candidate, Department of Industrial Engineering, University of Arkansas"
 url                      : https://kvothesfs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kvothesfs/kvothesfs.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "José Carlos Hernández Azucena"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "pp.jpg"
+  bio              : "Ph.D. Candidate, Department of Industrial Engineering, University of Arkansas"
   location         : "Fayetteville, AR"
-  employer         : "The University of Arkansas"
+  employer         : #"The University of Arkansas"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zVCdoCEAAAAJ&hl=es"
-  email            :
+  email            : jch051@uark.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jcha14/"
+  linkedin         : "jcha14"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
