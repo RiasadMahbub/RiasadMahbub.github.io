@@ -18,7 +18,7 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 -->
-- **Azucena, J.C.H.** and Liao, H.T., <q>Implementing a Quantum Gate Circuit to Estimate All-Terminal Network Reliability</q>,  NSF Site Visit: DART Student Poster Session, Little Rock, AR, September 18, 2023
+- **Azucena, J.C.H.** and Liao, H.T., <q>Implementing a Quantum Gate Circuit to Estimate All-Terminal Network Reliability</q>,  NSF Site Visit: DART Student Poster Session, Little Rock, AR. September 18, 2023
 - **Azucena, J.C.H.**, Hashemian, F. and Liao, H.T. <q>Need-based Sampling and Training in Machine Learning with Application to All-terminal Network Reliability Assessment</q>. IISE Annual Conference and Expo 2023. New Orleans, LA. May 20-23, 2023
 - **Azucena, J.C.H.**, Kheirandish, M., and Hashemian, F. <q>Causal Inference for Predicting Treatment Outcome in Breast Cancer - DAIS Data Challenge</q>.  IISE Annual Conference and Expo 2023. New Orleans, LA. May 20-23, 2023
 - **Azucena, J.C.H.**, Hashemian, F., Liao, H.T. and Pohl, E.A.  <q>Applying Machine Learning to Improve All-Terminal Network Reliability</q>. The 69<sup>th</sup> Annual Reliability and Maintainability Symposium. Orlando, FL. January 23-26, 2023

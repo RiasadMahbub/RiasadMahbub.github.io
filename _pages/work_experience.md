@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Education"
-permalink: /education/
+title: "Work Experience"
+permalink: /work_experience/
 author_profile: true
 ---
 
@@ -11,26 +11,63 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## University of Arkansas
-### Fayetteville, AR
+## Senior Graduate Research Assistant
+#### University of Arkansas. Department of Industrial Engineering 
+##### Fayetteville, AR
+##### January 2018 to present
 
-- Ph.D. in Industrial Engineering. Expected for Fall 2023
-	- Advisor: Dr. Haitao Liao
-- M.Sc. in Industrial Engineering. Fall 2022
+- Research focused on Data Analytics and Machine Learning methods
+- Worked on research projects and publications related to 
+	- Deep Learning
+	- Machine Learning
+	- Data Analytics
+- Relevant courses include 
+	- Deep Learning
+	- Artificial Intelligence
+	- Data Mining
+	- Computational Statistics
+	- Modern Statistical Techniques
+- The current research includes
+	- Machine Learning
+	- Deep Learning
+	- Computer Vision
+	- Natural Language Processing
+	-Quantum Computing and Optimization
+	-and Statistical Analysis
+- Explored applications in 
+	- Reliability Engineering
+	- Logistics and Transportation
+	- Disaster Relief
+	- Maintenance and Prognostics	
 
-## Lehigh University
-### Bethlehem, PA
+## Business Intelligence Coordinator
+#### Termoencogibles S.A. de C.V. B2B Sales Team
+##### La Libertad, El Salvador
+##### November 2015 to January 2018
 
-- Gene Golub SIAM Summer School (G2S3)on Quantum Computing and Optimization. July 31<sup>st</sup> to August 11<sup>th</sup>
+- Data and insights support for the B2B sales team
+- Automation of reports
+- Market intelligence analysis
+- Sales forecasts
+- Budget, and sales goals monitoring and control
 
-## Escuela Superior de Economía y Negocios
-### La Libertad, El Salvador
+## Management Information Systems Coordinator
+#### Grupo Editorial Altamirano S.A. de C.V. Finances
+##### San Salvador, El Salvador
+##### January 2015 to November 2015
 
-- Post-Graduate Diploma on Quantitative Methods for Business and Economics. February 2015
-- Business Engineering B.Sc. January 2014
-	- Magna Cum Laude
+- Creating KPI reports for the CFO and CEO 
+- Extracting insights about productivity, efficiency, sales performance, cost analysis, ROI
+- Automation of information extraction with Oracle PL/SQL
+- Automation of report creation with Microsoft VBA
+- Part of the CEO Rotational Trainee Program
 
-## Hochschule Furtwangen University
-### Baden-Württemberg, Germany
+## Management Information Systems Coordinator
+#### Grupo Editorial Altamirano S.A. de C.V. Distribution and Logistics
+##### San Salvador, El Salvador
+##### April 2014 to November 2014
 
-- International Engineering: Visiting Student. Winter 2012
+- Cost and lost sales analysis for the Distribution Manager and CEO
+- Extracting insights about impact of price structures on sales potential, sales cost analysis, and distribution structures
+- Started a project for POS data collection using cellphone apps
+- Part of the CEO Rotational Trainee Program
