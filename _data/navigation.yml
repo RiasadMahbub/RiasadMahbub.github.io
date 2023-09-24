@@ -3,11 +3,17 @@ main:
   - title: "Education"
     url: /education/
     
-  - title: "Professional Experience"
-    url: /professional_experience/    
+  - title: "Work Experience"
+    url: /work_experience/    
+
+  - title: "Competencies"
+    url: /competencies/
     
   - title: "Publications"
     url: /publications/
+
+  - title: "Awards"
+    url: /awards/
 
   - title: "Teaching"
     url: /teaching/    
@@ -15,8 +21,7 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Awards"
-    url: /awards/    
+    
 
 
     
