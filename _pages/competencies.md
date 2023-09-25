@@ -54,7 +54,7 @@ author_profile: true
 - PL/SQL
 - Java
 - Scala
-- $$\\(\LaTeX\\)$$
+- $\LaTeX$
 - VBA
 - Julia
 
