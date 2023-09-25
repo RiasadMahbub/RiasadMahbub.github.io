@@ -11,14 +11,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Interpersonal Communication
+## Interpersonal Communication
 - Experience doing collaboration in multidisciplinary and diverse teams
 - Proactive and curiosity-driven
 - Intercultural Communication skills
 - Empathic Listening
+
 ------
 
-# Teaching and Mentoring
+## Teaching and Mentoring
 - Experience as independent instructor. Creating syllabus, course materials, evaluations, and grading
 - Experience as teaching assistant. Creating recitation materials, drills, individual sessions, and grading
 - Coordinated the completion of three undergrad research projects during Summer 2023
@@ -27,23 +28,27 @@ author_profile: true
 	- Trained the students in Deep Learning methods for Computer Vision 
 	- Data collection using UAVs: infrarred imaging, aerial photography, and telemetry
 	- Part of an NSF grant Research Undergrad Experience (REU)
-------
-# Insights and Decision Making
-- Experience translating data analysis to actionable insights for VPs and Directors
-- Experience adjusting results from research for different stakeholders
+	
 ------
 
-# Scientific Communication
+## Insights and Decision Making
+- Experience translating data analysis to actionable insights for VPs and Directors
+- Experience adjusting results from research for different stakeholders
+
+------
+
+## Scientific Communication
 - Journal Articles
 - Conference Proceedings
 - Research Reports
 - Technical presentations
 - Experience presenting for federal and state agencies: NSF, AEDC
+
 ------
 
-# Information Science
+## Information Science
 
-## Programming Languages
+### Programming Languages
 - Python
 - R
 - PL/SQL
@@ -53,7 +58,7 @@ author_profile: true
 - VBA
 - Julia
 
-## Domains Explored
+### Domains Explored
 - Data Analytics
 - Machine Learning
 - Database Management
@@ -64,50 +69,50 @@ author_profile: true
 - Probabilistic Programming
 - Quantum Computing
 
-### Data Analytics
+#### Data Analytics
 - Bayesian Statistics
 - Geo-spatial Analysis
 - Time Series Analysis
 - Stochastic Variational Inference,
 
-### Machine Learning
+#### Machine Learning
 - SciKit Learn
 - XGBoost
 - H2O
 
-### Artificial Intelligence
+#### Artificial Intelligence
 - Computer Vision
 - Natural Language Processing
 - Deep Reinforcement Learning 
 
-### Operations Research and Optimization
+#### Operations Research and Optimization
 - Bayesian Optimization 
 - Quantum Computing for
 Optimization
 - Google OR-Tools: TSP, VRP, Capacitated Time Window VRP
 
-### Deep Learning
+#### Deep Learning
 - PyTorch
 - Tensorflow
 - OpenAI-Gym
  
-### Database Management
+#### Database Management
 - Oracle PL/SQL
 - MongoDB
 
-### Simulation
-- NetLogo
-- Java Simulation Library (JSL)
+#### Simulation
+- NetLogo: Agent-based simulation with Geo-spatial components
+- Java Simulation Library (JSL): Discrete Event Simulation
 
-### Probabilistic Programming
+#### Probabilistic Programming
 - Pyro and NumPyro
 - PyMC3
 - STAN
 
-### Systems Reliability
+#### Systems Reliability
 - ReliaSoft: BlockSim, Weibull++
 
-### Quantum Computing
+#### Quantum Computing
 - IBM Qiskit for Universal Gate Circuits
 - D-Wave for Quantum Annealing
 

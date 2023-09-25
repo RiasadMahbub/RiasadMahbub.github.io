@@ -22,7 +22,7 @@ author_profile: true
 ## Lehigh University
 #### Bethlehem, PA
 
-- Gene Golub SIAM Summer School (G2S3)on Quantum Computing and Optimization. July 31<sup>st</sup> to August 11<sup>th</sup>
+- Gene Golub SIAM Summer School (G2S3) on Quantum Computing and Optimization. July 31<sup>st</sup> to August 11<sup>th</sup>
 
 ## Escuela Superior de Economía y Negocios
 #### La Libertad, El Salvador
