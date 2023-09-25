@@ -28,7 +28,7 @@ author_profile: true
 	- Trained the students in Deep Learning methods for Computer Vision 
 	- Data collection using UAVs: infrarred imaging, aerial photography, and telemetry
 	- Part of an NSF grant Research Undergrad Experience (REU)
-	
+
 ------
 
 ## Insights and Decision Making
@@ -54,7 +54,7 @@ author_profile: true
 - PL/SQL
 - Java
 - Scala
-- $$\LaTeX$$
+- $$\\(\LaTeX\\)$$
 - VBA
 - Julia
 
