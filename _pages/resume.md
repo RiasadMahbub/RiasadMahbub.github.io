@@ -13,6 +13,6 @@ author_profile: true
 
 Resume in PDF form:
 
-- [Short Version](http://kvothesfs.github.io/files/Jose_Azucena_CV_Industry_202308.pdf)
+- [Short Version](http://kvothesfs.github.io/files/Jose_Azucena_CV_Short.pdf)
 
 - [Long Version](http://kvothesfs.github.io/files/Jose_Azucena_CV_Industry_202308.pdf)
