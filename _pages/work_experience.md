@@ -32,8 +32,8 @@ author_profile: true
 	- Deep Learning
 	- Computer Vision
 	- Natural Language Processing
-	-Quantum Computing and Optimization
-	-and Statistical Analysis
+	- Quantum Computing and Optimization
+	- Statistical Analysis
 - Explored applications in 
 	- Reliability Engineering
 	- Logistics and Transportation
