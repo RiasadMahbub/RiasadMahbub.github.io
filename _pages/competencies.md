@@ -15,7 +15,10 @@ author_profile: true
 - Experience doing collaboration in multidisciplinary and diverse teams
 - Proactive and curiosity-driven
 - Intercultural Communication skills
+- Native Spanish speaker
+- Beginner German speaker
 - Empathic Listening
+
 
 ------
 
