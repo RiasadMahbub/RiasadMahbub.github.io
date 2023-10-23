@@ -62,12 +62,12 @@ author_profile: true
 - Automation of report creation with Microsoft VBA
 - Part of the CEO Rotational Trainee Program
 
-## Management Information Systems Coordinator
+## Distribution and Logistics Data Analyst
 #### Grupo Editorial Altamirano S.A. de C.V. Distribution and Logistics
 ##### San Salvador, El Salvador
 ##### April 2014 to November 2014
 
-- Cost and lost sales analysis for the Distribution Manager and CEO
+- Cost and lost sales analysis for the Distribution and Logistics Manager and CEO
 - Extracting insights about impact of price structures on sales potential, sales cost analysis, and distribution structures
 - Started a project for POS data collection using cellphone apps
 - Part of the CEO Rotational Trainee Program

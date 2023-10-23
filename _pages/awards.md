@@ -12,6 +12,7 @@ author_profile: true
 {% endfor %}
 -->
 
+- **Azucena, J.C.H.**, Hashemian, F., Liao, H.T. and Pohl, E.A. The Thomas L. Fagan, Jr. Award for Best Student Paper for <q>Applying Machine Learning to Improve All-Terminal Network Reliability</q>. Presented at the 69<sup>th</sup> Annual Reliability and Mantainability Symposyum. (01/2023) Orlando, FL. 
 - KaggleX BIPOC Mentorship Program. Mentee in Cohort 3  (08/2023-11/2023). Mentor: Cole Ingraham 
 - **Azucena, J.C.H.**, Kheirandish, M., and Hashemian, F. (05/2023) Finalist of IISE DAIS Data Challenge: Causal Inference for Predicting Treatment Outcome in Breast Cancer. New Orleans, LA
 - Outstanding Graduate Student 2023 (04/2023). Department of Industrial Engineering, University of Arkansas. Fayetteville, AR
