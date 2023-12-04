@@ -14,7 +14,7 @@ author_profile: true
 ## University of Arkansas
 #### Fayetteville, AR
 
-- Ph.D. in Industrial Engineering. Expected for Fall 2023
+- Ph.D. in Industrial Engineering. Fall 2023
 	- Advisor: Dr. Haitao Liao
 	- Dissertation Title: <q>Reliability Modeling and Improvement of Critical Infrastructures: Theory, Simulation, and Computational Methods</q>
 - M.Sc. in Industrial Engineering. Fall 2022

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José Carlos Hernández Azucena"
+title                    : "José Carlos Hernández Azucena, Ph.D."
 title_separator          : "-"
-name                     : &name "José Carlos Hernández Azucena"
-description              : &description "Ph.D. Candidate \ Department of Industrial Engineering \ University of Arkansas"
+name                     : &name "José Carlos Hernández Azucena, Ph.D."
+description              : &description "Postdoctoral Fellow \ Department of Industrial Engineering \ University of Arkansas"
 url                      : https://kvothesfs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kvothesfs/kvothesfs.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "José Carlos Hernández Azucena"
+  name             : "José Carlos Hernández Azucena, Ph.D."
   avatar           : "pp.jpg"
-  bio              : "Ph.D. Candidate<br />Department of Industrial Engineering<br />University of Arkansas"
+  bio              : "Postdoctoral Fellow<br />Department of Industrial Engineering<br />University of Arkansas"
   location         : "Fayetteville, AR"
   employer         : #"The University of Arkansas"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

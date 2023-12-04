@@ -17,6 +17,7 @@ author_profile: true
 ### Department of Industrial Engineering, University of Arkansas
 #### Fayetteville, AR
 - 	Engineering Economic Analysis. Summer 2021
+	- Instructor evaluation mean: 4.7 out of 5
 - 	Engineering Economic Analysis. Summer 2020
 
 ## Teaching Assistant
