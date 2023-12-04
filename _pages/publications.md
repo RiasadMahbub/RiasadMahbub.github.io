@@ -40,13 +40,12 @@ author_profile: true
 - Bipasha, T., **Azucena, J.C.H.**, Alkhaleel, B., Liao, H. and Nachtmann, H.,  [<q>Hybrid Simulation to Support Interdependence Modeling of a Multimodal Transportation Network</q>](https://ieeexplore.ieee.org/abstract/document/9004813), Proceedings of the 2019 Winter Simulation Conference. National Harbor, MD. December 8-11, 2019	
 - **Azucena, J.C.H.** and Liao, H., <q>Prognostic Using Dual-Stage Attention-Based Recurrent Neural Networks</q>, Proceedings of the 11<sup>th</sup> International Conference on Mathematical Methods in Reliability. Hong Kong. June 3-7, 2019
 
+<!--
+### Accepted
+### Submitted
+-->
+
 ## Working Articles
 
 - Hashemian, F., **Azucena, J.C.H.**, Liao, H. and Pohl, E.A.,  <q>Convolutional Graph Neural Networks for Reliability Improvement of All-terminal Networks</q>. _Reliability Engineering and Systems Safety_. Forthcoming.
-<!--
-### Accepted
--->
 
-<!--
-### Submitted
--->
