@@ -10,11 +10,19 @@ author_profile: true
 {% for post in site.education reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+## Postdoctoral Fellow
+#### University of Arkansas. Department of Industrial Engineering 
+##### Fayetteville, AR
+##### January 2024 to present
+- Research activities on collaborative projects and publications
+- Teaching at a graduate level 
+	- Course: Design of Industrial Experiments
+	- M.Sc. and Ph.D. Engineering students from multiple departments
 
 ## Senior Graduate Research Assistant
 #### University of Arkansas. Department of Industrial Engineering 
 ##### Fayetteville, AR
-##### January 2018 to present
+##### January 2018 to December 2023
 
 - Research focused on Data Analytics and Machine Learning methods
 - Worked on research projects and publications related to 
