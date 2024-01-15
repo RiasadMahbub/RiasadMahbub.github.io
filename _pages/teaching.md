@@ -16,6 +16,8 @@ author_profile: true
 ## Instructor
 ### Department of Industrial Engineering, University of Arkansas
 #### Fayetteville, AR
+- 	Design of Industrial Experiments. Spring 2024 (Current)
+	- Teaching M.Sc. and Ph.D. students in multiple engineering departments
 - 	Engineering Economic Analysis. Summer 2021
 	- Instructor evaluation mean: 4.7 out of 5
 - 	Engineering Economic Analysis. Summer 2020
