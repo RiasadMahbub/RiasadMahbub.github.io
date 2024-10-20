@@ -29,7 +29,7 @@ I strive to add value through curiosity-driven research efforts. I thrive when f
 ## Bio
 
 
-Dr. Azucena is a Postdoctoral Fellow in the Industrial Engineering Department at the University of Arkansas. In 2014, he received a B.Sc. degree in Business Engineering from ESEN, Santa Tecla, El Salvador. In 2022, he received an M.Sc. degree in Industrial Engineering from the University of Arkansas. In 2023, he completed his Ph.D. in Industrial Engineering from the University of Arkansas. His research interests include Network Reliability, Deep Learning, and Quantum Information Science.
+Dr. Azucena is an Assistant Professor at the Industrial and Systems Engineering Department at North Carolina Agricultural and Technical State University. In 2014, he received a B.Sc. degree in Business Engineering from ESEN, Santa Tecla, El Salvador. In 2022, he received an M.Sc. degree in Industrial Engineering from the University of Arkansas. In 2023, he completed his Ph.D. in Industrial Engineering from the University of Arkansas. His research interests include Network Reliability, Deep Learning, and Quantum Information Science.
 
 <!--
 ### Short Version

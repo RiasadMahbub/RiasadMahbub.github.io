@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "José Carlos Hernández Azucena, Ph.D."
 title_separator          : "-"
 name                     : &name "José Carlos Hernández Azucena, Ph.D."
-description              : &description "Postdoctoral Fellow \ Department of Industrial Engineering \ University of Arkansas"
+description              : &description "Assistant Professor \ Industrial and Systems Engineering \ North Carolina A&T State University"
 url                      : https://kvothesfs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kvothesfs/kvothesfs.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "José Carlos Hernández Azucena, Ph.D."
-  avatar           : "pp.jpg"
-  bio              : "Postdoctoral Fellow<br />Department of Industrial Engineering<br />University of Arkansas"
-  location         : "Fayetteville, AR"
+  avatar           : "hs.jpg"
+  bio              : "Assistant Professor <br /> Industrial and Systems Engineering <br /> North Carolina A&T State University"
+  location         : "Greensboro, NC"
   employer         : #"The University of Arkansas"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zVCdoCEAAAAJ&hl=es"
-  email            : jch051@uark.edu
+  email            : jhernandezazucena@ncat.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jcha14"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8497-4360"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
