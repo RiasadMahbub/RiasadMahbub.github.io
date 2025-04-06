@@ -17,11 +17,11 @@ I strive to add value through curiosity-driven research efforts. I thrive when f
 ------
 
 ## Research Interests
-- Systems Reliability and Resilience
-- Information Science
-- Machine Learning
-- Deep Learning and Reinforcement Learning
-- Quantum Information Science
+- Geographic Information System
+- Eddy Covariance
+- Remote Sensing
+- Environmental Data Science and Machine learning
+- Ecological Modeling 
 
 ------
 
