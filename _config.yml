@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "José Carlos Hernández Azucena, Ph.D."
+title                    : "Riasad Bin Mahbub"
 title_separator          : "-"
-name                     : &name "José Carlos Hernández Azucena, Ph.D."
-description              : &description "Assistant Professor \ Industrial and Systems Engineering \ North Carolina A&T State University"
-url                      : https://kvothesfs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Riasad Bin Mahbub"
+description              : &description "Senior Graduate Assistant \ Biological and Agricultural Engineering \ University of Arkansas"
+url                      : https://RiasadMahbub.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kvothesfs/kvothesfs.github.io"
+repository               : "RiasadMahbub/RiasadMahbub.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "José Carlos Hernández Azucena, Ph.D."
+  name             : "Riasad Bin Mahbub"
   avatar           : "hs.jpg"
-  bio              : "Assistant Professor <br /> Industrial and Systems Engineering <br /> North Carolina A&T State University"
-  location         : "Greensboro, NC"
+  bio              : "Senior Graduate Assistant <br /> Biological and Agricultural Engineering <br /> University of Arkansas"
+  location         : "Fayetteville, AR"
   employer         : #"The University of Arkansas"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=zVCdoCEAAAAJ&hl=es"
-  email            : jhernandezazucena@ncat.edu
+  googlescholar    : "https://scholar.google.com/citations?user=28SIlsMAAAAJ&hl=en&oi=ao"
+  email            : rbmahbub@uark.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kvothesfs"
+  github           : "RiasadMahbub"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jcha14"
+  linkedin         : "https://www.linkedin.com/in/riasad-bin-mahbub-504048ba"
   orcid            : "https://orcid.org/0000-0001-8497-4360"
   pinterest        :
   soundcloud       :
