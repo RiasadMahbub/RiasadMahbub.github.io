@@ -17,10 +17,15 @@ author_profile: true
 {% endfor %}
 -->
 
-## Refereed Journal Articles
+## Publications in Peer Reviewed Journals
 
-- **Azucena, J.C.H.**, Wang, H., Jin, Y. and Liao, H.,  <q>Modeling and analysis of two Normal populations based on an unlabeled paired sample</q>. _Communications in Statistics - Simulation and Computation_. 2022. DOI: [https://doi.org/10.1080/03610918.2022.2134895](https://doi.org/10.1080/03610918.2022.2134895)
-- **Azucena, J.C.H.**, Alkhaleel, B., Liao, H. and Nachtmann, H.,  <q>Hybrid simulation to support interdependence modeling of a multimodal transportation network</q>, _Simulation Modelling Practice and Theory_, Vol. 107, pp. 102237, 2021. DOI: [https://doi.org/10.1016/j.simpat.2020.102237](https://doi.org/10.1016/j.simpat.2020.102237)
+-Ahmed, N., **Mahbub, R. B.**, & Rahman, R. M., <q>Learning to extract buildings from ultra-high-resolution drone images and noisy labels</q>. International Journal of Remote Sensing, 41(21), pp. 8216–8237, 2020. DOI: https://doi.org/10.1080/01431161.2020.1763496 (IF: 3.151) (Taylor & Francis)
+
+-**Mahbub, R. B.**, Ahmed, N., & Yeasmin, F., <q>Towards reducing the data gap in the conservation efforts for sea turtles in Bangladesh</q>. Regional Studies in Marine Science, Vol. 35, 2020. DOI: https://doi.org/10.1016/j.rsma.2020.101151 (IF: 2.166) (ELSEVIER)
+
+-Ahmed, N., **Mahbub, R. B.**, Hossain, M. M., & Sujauddin, M., <q>Modelling spatio-temporal changes of forest cover in the northeastern region of Bangladesh: context of traditional and co-management paradigms</q>. Journal of Tropical Forest Science, 32(1), 2019. DOI: https://doi.org/10.26525/jtfs32.1.42 (IF: 0.77) (JSTOR)
+
+-**Mahbub, R. B.**, Ahmed, N., Rahman, S., Hossain, M. M., & Sujauddin, M., <q>Human appropriation of net primary production in Bangladesh, 1700–2100</q>. Land Use Policy, Vol. 87, 104067, 2019. DOI: https://doi.org/10.1016/j.landusepol.2019.104067 (IF: 6.189) (ELSEVIER)
 
 <!--
 ### Published
@@ -29,23 +34,32 @@ author_profile: true
 -->
 
 
-## Articles in Refereed Conference Proceedings
-
-### Published
-
-- Aghamohammadghasem, M., **Azucena, J.C.H.**, Hashemian, F., Liao, H., Zhang, S., and Nachtmann, H.L.,  <q>System Simulation and Machine Learning-Based Maintenance Optimization for an Inland Waterway Transportation System</q>, Proceedings of the 2023 Winter Simulation Conference. San Antonio, TX. December 10-13, 2023
-- Aghamohammadghasem, M., **Azucena, J.C.H.**, Hashemian, F., Liao, H., Zhang, S., and Nachtmann, H.L.,  <q>Preventive Maintenance Planning for an Inland Waterway Transportation System Using Deep Reinforcement Learning</q>, Proceedings of the IISE Annual Conference and Expo 2023. New Orleans, LA. May 20-23, 2023
-- **Azucena, J.C.H.**, Hashemian, F., Liao, H. and Pohl, E.A.,  [<q>Applying Machine Learning to Improve All-Terminal Network Reliability</q>](https://ieeexplore.ieee.org/abstract/document/10088254), Proceedings of the 69<sup>th</sup> Annual Reliability and Maintainability Symposium. Orlando, FL. January 23-26, 2023
-- **Azucena, J.C.H.**, Wells, H., Liao, H., Sullivan, K. and Pohl, E.A.,  [<q>Applying Deep Reinforcement Learning to Improve the Reliability of an Infrastructure Network</q>](https://nottingham-repository.worktribe.com/index.php/OutputFile/9903151#page=49), Proceedings of the 60<sup>th</sup> ESReDA Seminar: Advances in Modelling to Improve Network Resilience. France. May 4-5, 2022
-- Bipasha, T., **Azucena, J.C.H.**, Alkhaleel, B., Liao, H. and Nachtmann, H.,  [<q>Hybrid Simulation to Support Interdependence Modeling of a Multimodal Transportation Network</q>](https://ieeexplore.ieee.org/abstract/document/9004813), Proceedings of the 2019 Winter Simulation Conference. National Harbor, MD. December 8-11, 2019	
-- **Azucena, J.C.H.** and Liao, H., <q>Prognostic Using Dual-Stage Attention-Based Recurrent Neural Networks</q>, Proceedings of the 11<sup>th</sup> International Conference on Mathematical Methods in Reliability. Hong Kong. June 3-7, 2019
+## Manuscripts under Review
+Mahbub, R. B., Reba, M., Runkle, B. R., (2025). Magnitude, Drivers, and Patterns of Gross Primary Productivity of Rice in Arkansas Using a Calibrated Vegetation Photosynthesis Model. Submitted to Agriculture and Forest Meteorology
 
 <!--
 ### Accepted
 ### Submitted
 -->
 
-## Working Articles
+## Manuscripts Under Preparation
+**Mahbub, R. B.**, Reba, M., & Runkle, B. R., <q>Evaluating the potential of vegetation indices and in-situ data in parameterizing the LUE to improve the prediction of GPP</q>. Planned submission: Environmental Research Letters, 2025.
 
-- Hashemian, F., **Azucena, J.C.H.**, Liao, H. and Pohl, E.A.,  <q>Convolutional Graph Neural Networks for Reliability Improvement of All-terminal Networks</q>. _Reliability Engineering and Systems Safety_. Forthcoming.
+**Mahbub, R. B.**, Moreno-Garcia, B., Peter, B. G., Reba, M., & Runkle, B., <q>Predicting planting and harvesting date of rice in Arkansas using satellite images and machine learning algorithms</q>. Planned submission: Remote Sensing of Environment, 2025.
+
+Carroll, S. R., Moreno-Garcia, B., **Mahbub, R. B.**, Reba, M., & Runkle, B., <q>Fish cultivation in fallow season rice fields: effects on CH₄ emissions</q>. Planned submission: Agriculture, Ecosystems & Environment (AEE), 2025.
+
+Richardson, W. P., Koparan, C., **Mahbub, R.**, Carroll, S., Guan, K., & Runkle, B. R. K., <q>Preliminary evaluation of an open-source wide-range multispectral sensor for precision agriculture</q>. Planned submission: [Journal TBD], 2025.
+
+## Conferences and Talks
+**Mahbub, R. B.**, Reba, M. L., Tang, R., & Runkle, B. R. K. (2024). Inferring spatial information of rice growing season length and gross primary productivity from space and site-scale instruments. ASABE State Section Meeting, Fayetteville, Arkansas.
+Richardson, W. P.; Koparan, C.; **Mahbub, R.**; Carroll, S.; Guan, K.; Runkle, B. R. K. (2024). Preliminary Evaluation of an Open-Source Wide-Range Multispectral Sensor for Precision Agriculture, Poster Presentation at ASABE Annual, AIM, CA, United States.
+Carroll, S. R., **Mahbub, R. B.**, Moreno-Garcia, B., Reba, M. L., Runkle, B. R. (2024, January). Fish Cultivation in Fallow Season Rice Fields: Effects on CH4 Emissions. Arkansas Soil and Water Conference and Irrigation EXPO. Jonesboro, AR.
+**Mahbub, R. B.**, Moreno-Garcia, B., Peter, B. G., Reba, M., & Runkle, B.  (January 2024). Predicting planting and harvesting date of rice in Arkansas using satellite images and machine learning algorithms. American Geophysical Union, United States. [Conference presentation, attended online].
+**Mahbub, R. B.**, Reba, M., Runkle, B. R., (December 2022). The potential of in-situ phenology data to estimate satellite driven gross primary productivity of rice in Arkansas, American Geophysical Union, Chicago Convention Center, Chicago, IL, United States. 
+**Mahbub, R. B.**, Reba, M., Runkle, B. R., (September 2022). " Evaluating the potential of in-situ phenology data on improving the estimation of satellite driven gross primary productivity of rice in Arkansas,” AmeriFlux Annual Meeting, virtual poster session. 
+Magdaleno Hernandez, G., **Mahbub, R. B.**, Runkle, B. R., (July 13, 2022) "Furrow-Irrigated Rice from Space: A Case Study from Arkansas," AWRC Annual Meeting, Fayetteville, AR, United States. 
+**Mahbub, R. B.**, Reba, M., Runkle, B. R., (January 2022) Arkansas Soil and Water Education Conference, "Estimating the gross primary productivity of rice in Arkansas using satellite-driven biogeochemical model." Fayetteville, AR, United States. 
+Invited Speaker to share TA experience: Big TA Training Workshop (2024, University of Arkansas, Fayetteville, AR, United States)
+
 
