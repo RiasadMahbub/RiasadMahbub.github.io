@@ -9,10 +9,10 @@ redirect_from:
 ---
 {% include base_path %}
 
-Through curiosity-driven research, I add value to multidisciplinary teams with my experience in collaborative research on Data Analytics, Systems Reliability, Deep Learning, Simulation, and Quantum Information Science 
+Riasad's current research centers on improving the understanding of methane and GPP prediction of rice crops in Arkansas, particularly on developing spatial dataset of growing season length, GPP, and ideal site-specific adaptable parameters on prediction. His research explores the role of different vegetation indices to predict GPP, and growing season length in Arkansas. Riasad also works on analyzing post processing Eddy covariance data and calibration of the instruments. Riasad is interested to work with agricultural developmental organizations like FAO, World Bank, WWF focusing on mediterranean and tropical ecosystems. 
 
 ## Professional Goals
-I strive to add value through curiosity-driven research efforts. I thrive when facing challenging objectives with ample learning opportunities, and in environments that fosters collaboration and celebrates diversity of ideas. I enjoy work that allows me to code the day away, develop algorithms, and explore innovative ideas. I am passionate about adapting information science concepts in an existing domain to different fields, innovating in perspectives.
+I strive to add value through data-driven research efforts. I thrive when facing challenging objectives with ample learning opportunities, and in environments that fosters collaboration and celebrates diversity of ideas. I enjoy work that allows me to code the day away, develop algorithms, and explore innovative ideas. I am passionate about adapting information science concepts in an existing domain to different fields, innovating in perspectives.
 
 ------
 
@@ -40,16 +40,9 @@ Mr. Azucena is a Ph.D. student in the Industrial Engineering Department at the U
 ------
 
 ## Affiliations
-- INFORMS
-- IISE
-- SRE
-- SIAM
-- Alpha Pi Mu
+- FLUXNET-Early Career Scientist Network
+- American Geophysical Union student membership
 
-*[INFORMS]: The Institute for Operations Research and the Management Sciences
-*[IISE]: Institute of Industrial and Systems Engineers
-*[SIAM]: Society for Industrial and Applied Mathematics
-*[SRE]: Society of Reliability Engineers
 ------
 
 <!--
