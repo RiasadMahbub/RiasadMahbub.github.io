@@ -10,35 +10,27 @@ author_profile: true
 {% for post in site.education reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-## Postdoctoral Fellow
-#### University of Arkansas. Department of Industrial Engineering 
-##### Fayetteville, AR
-##### January 2024 to present
-- Research activities on collaborative projects and publications
-- Teaching at a graduate level 
-	- Course: Design of Industrial Experiments
-	- M.Sc. and Ph.D. Engineering students from multiple departments
 
 ## Senior Graduate Research Assistant
-#### University of Arkansas. Department of Industrial Engineering 
+#### University of Arkansas. Department of Biological and Agircultural Engineering 
 ##### Fayetteville, AR
-##### January 2018 to December 2023
+##### January 2021 to December 2025
 
-- Research focused on Data Analytics and Machine Learning methods
+- Research focused on Satellite image analysis of rice photosynthesis
 - Worked on research projects and publications related to 
-	- Deep Learning
-	- Machine Learning
-	- Data Analytics
-- Relevant courses include 
+	- Remote Sensing
+	- Carbon Flux Measurement
+	- Geospatial Analysis
+- Computational Tools used
 	- Deep Learning
 	- Artificial Intelligence
 	- Data Mining
 	- Computational Statistics
 	- Modern Statistical Techniques
-- The current research includes
-	- Machine Learning
-	- Deep Learning
-	- Computer Vision
+- Field data collection and Experimental studies include
+	- Calibration of 7500 sensor
+	- Calibration of 7700 sensor
+	- 
 	- Natural Language Processing
 	- Quantum Computing and Optimization
 	- Statistical Analysis
@@ -48,10 +40,10 @@ author_profile: true
 	- Disaster Relief
 	- Maintenance and Prognostics	
 
-## Business Intelligence Coordinator
-#### Termoencogibles S.A. de C.V. B2B Sales Team
-##### La Libertad, El Salvador
-##### November 2015 to January 2018
+## Teaching Assitant
+#### University of Arkansas. Department of Biological and Agircultural Engineering 
+##### Fayetteville, AR
+##### January 2021 to December 2025
 
 - Data and insights support for the B2B sales team
 - Automation of reports
