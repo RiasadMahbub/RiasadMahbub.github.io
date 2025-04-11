@@ -53,13 +53,21 @@ Richardson, W. P., Koparan, C., **Mahbub, R.**, Carroll, S., Guan, K., & Runkle,
 
 ## Conferences and Talks
 **Mahbub, R. B.**, Reba, M. L., Tang, R., & Runkle, B. R. K. (2024). Inferring spatial information of rice growing season length and gross primary productivity from space and site-scale instruments. ASABE State Section Meeting, Fayetteville, Arkansas.
+
 Richardson, W. P.; Koparan, C.; **Mahbub, R.**; Carroll, S.; Guan, K.; Runkle, B. R. K. (2024). Preliminary Evaluation of an Open-Source Wide-Range Multispectral Sensor for Precision Agriculture, Poster Presentation at ASABE Annual, AIM, CA, United States.
+
 Carroll, S. R., **Mahbub, R. B.**, Moreno-Garcia, B., Reba, M. L., Runkle, B. R. (2024, January). Fish Cultivation in Fallow Season Rice Fields: Effects on CH4 Emissions. Arkansas Soil and Water Conference and Irrigation EXPO. Jonesboro, AR.
+
 **Mahbub, R. B.**, Moreno-Garcia, B., Peter, B. G., Reba, M., & Runkle, B.  (January 2024). Predicting planting and harvesting date of rice in Arkansas using satellite images and machine learning algorithms. American Geophysical Union, United States. [Conference presentation, attended online].
+
 **Mahbub, R. B.**, Reba, M., Runkle, B. R., (December 2022). The potential of in-situ phenology data to estimate satellite driven gross primary productivity of rice in Arkansas, American Geophysical Union, Chicago Convention Center, Chicago, IL, United States. 
+
 **Mahbub, R. B.**, Reba, M., Runkle, B. R., (September 2022). " Evaluating the potential of in-situ phenology data on improving the estimation of satellite driven gross primary productivity of rice in Arkansas,” AmeriFlux Annual Meeting, virtual poster session. 
+
 Magdaleno Hernandez, G., **Mahbub, R. B.**, Runkle, B. R., (July 13, 2022) "Furrow-Irrigated Rice from Space: A Case Study from Arkansas," AWRC Annual Meeting, Fayetteville, AR, United States. 
+
 **Mahbub, R. B.**, Reba, M., Runkle, B. R., (January 2022) Arkansas Soil and Water Education Conference, "Estimating the gross primary productivity of rice in Arkansas using satellite-driven biogeochemical model." Fayetteville, AR, United States. 
+
 Invited Speaker to share TA experience: Big TA Training Workshop (2024, University of Arkansas, Fayetteville, AR, United States)
 
 
