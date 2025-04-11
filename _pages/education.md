@@ -27,6 +27,7 @@ author_profile: true
 	- Cum Laude
  - 
 ## Workshop Attendance
+
 High Performance Computing Workshop, Arkansas High Performance Computing Center, University of Arkansas, 2024
 
 Linking Optical and Energy Fluxes Workshop, FLUXNET Coordination Project, Boulder, Colorado, 2023
