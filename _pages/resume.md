@@ -13,6 +13,6 @@ author_profile: true
 
 Resume in PDF form:
 
-- [Academic Version](http://kvothesfs.github.io/files/CV_Riasad Bin Mahbub_v4_2025-1-18.docx)
+- [Academic Version](http://kvothesfs.github.io/files/CV_Riasad_2025_academic.pdf)
 
 - [Industry Version](http://kvothesfs.github.io/files/Jose_Azucena_CV_202401I.pdf)
