@@ -25,4 +25,10 @@ author_profile: true
 - BS in Environmental Science. Fall 2018
 	- Understanding the transition from forest ecosystem to agroecosystem through the lens of human appropriation of net primary productivity (HANPP): a historical case study of Bangladesh from 1700- 2016</q>
 	- Cum Laude
+ - 
+## Workshop Attendance
+High Performance Computing Workshop, Arkansas High Performance Computing Center, University of Arkansas, 2024
+Linking Optical and Energy Fluxes Workshop, FLUXNET Coordination Project, Boulder, Colorado, 2023
+Big Teaching Assistantship Workshop, College of Engineering, University of Arkansas, 2023
+Eddy Covariance Training at LI-COR Biosciences, Lincoln, Nebraska, 2022
 
