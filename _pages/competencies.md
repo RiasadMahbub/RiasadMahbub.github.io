@@ -15,8 +15,10 @@ author_profile: true
 - Experience doing collaboration in multidisciplinary and diverse teams
 - Proactive and curiosity-driven
 - Intercultural Communication skills
-- Native Spanish speaker
-- Beginner German speaker
+- Native Bengali speaker
+- Advanced English speaker
+- Intermediate French speaker
+- Beginner Arabic speaker
 - Empathic Listening
 
 
@@ -52,14 +54,16 @@ author_profile: true
 ## Information Science
 
 ### Programming Languages
-- Python
 - R
-- PL/SQL
-- Java
-- Scala
-- $\LaTeX$
-- VBA
-- Julia
+- Javascript (Google Earth Engine)
+- Python
+- Latex
+
+### Software
+- QGIS
+- ArcGIS
+- Eddy Pro
+- MS Office
 
 ### Domains Explored
 - Data Analytics
@@ -73,49 +77,25 @@ author_profile: true
 - Quantum Computing
 
 #### Data Analytics
-- Bayesian Statistics
 - Geo-spatial Analysis
 - Time Series Analysis
-- Stochastic Variational Inference,
+- Descriptive Statistics
 
-#### Machine Learning
+
+#### Machine Learning and Deep Learning
 - SciKit Learn
 - XGBoost
-- H2O
+- PyTorch
+- Tensorflow
 
-#### Artificial Intelligence
-- Computer Vision
-- Natural Language Processing
-- Deep Reinforcement Learning 
-
-#### Operations Research and Optimization
-- Bayesian Optimization 
-- Quantum Computing for
-Optimization
-- Google OR-Tools: TSP, VRP, Capacitated Time Window VRP
+#### Field sensor deployment and calibration
+- LI 7500 
+- LI 7700
+- Campbell Sonic aenonometer
 
 #### Deep Learning
 - PyTorch
 - Tensorflow
 - OpenAI-Gym
  
-#### Database Management
-- Oracle PL/SQL
-- MongoDB
-
-#### Simulation
-- NetLogo: Agent-based simulation with Geo-spatial components
-- Java Simulation Library (JSL): Discrete Event Simulation
-
-#### Probabilistic Programming
-- Pyro and NumPyro
-- PyMC3
-- STAN
-
-#### Systems Reliability
-- ReliaSoft: BlockSim, Weibull++
-
-#### Quantum Computing
-- IBM Qiskit for Universal Gate Circuits
-- D-Wave for Quantum Annealing
 
