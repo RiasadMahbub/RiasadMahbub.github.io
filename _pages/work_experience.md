@@ -51,23 +51,29 @@ author_profile: true
 - Sales forecasts
 - Budget, and sales goals monitoring and control
 
-## Management Information Systems Coordinator
-#### Grupo Editorial Altamirano S.A. de C.V. Finances
+## Intern
+#### Co-Operation for Resource Efficiency Lab (CORE Lab)
 ##### San Salvador, El Salvador
-##### January 2015 to November 2015
+##### January 2018 to November 2019
 
-- Creating KPI reports for the CFO and CEO 
-- Extracting insights about productivity, efficiency, sales performance, cost analysis, ROI
-- Automation of information extraction with Oracle PL/SQL
-- Automation of report creation with Microsoft VBA
-- Part of the CEO Rotational Trainee Program
+Co-Operation for Resource Efficiency Lab (CORE Lab)
+Employer: Professor Mohammad Mosharraf Hossain, PhD
+Research project:
+ Developing industrial symbiotic networks 
+ Determining the hotspots of air pollution in Bangladesh 
 
-## Distribution and Logistics Data Analyst
-#### Grupo Editorial Altamirano S.A. de C.V. Distribution and Logistics
-##### San Salvador, El Salvador
-##### April 2014 to November 2014
 
-- Cost and lost sales analysis for the Distribution and Logistics Manager and CEO
-- Extracting insights about impact of price structures on sales potential, sales cost analysis, and distribution structures
-- Started a project for POS data collection using cellphone apps
-- Part of the CEO Rotational Trainee Program
+## Program Associate
+#### Bay of Bengal sea turtle program 
+##### Save Our Sea
+Research project:
+-Exploring the pattern of sea turtle nesting, beach profile and land cover 
+
+## Research Assistant
+#### Decoupling Lab, Department of Environmental Science and Management 
+##### North South University
+Employer: Dr. Mohammad Sujauddin, Assistant Professor
+Research project:
+ Land use change of Bangladesh, 1700-2100
+ Forest area modelling and estimation of functional diversity and 
+aboveground biomass of Sylhet forest division
