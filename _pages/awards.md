@@ -13,15 +13,26 @@ author_profile: true
 - KaggleX BIPOC Mentorship Program. Mentee in Cohort 3  (08/2023-11/2023). Mentor: Cole Ingraham 
 -->
 
-- **Azucena, J.C.H.**, Hashemian, F., Liao, H. and Pohl, E.A. The Thomas L. Fagan, Jr. RAMS Student Paper Award. Third Place for <q>Applying Machine Learning to Improve All-Terminal Network Reliability</q>. Presented at the 69<sup>th</sup> Annual Reliability and Mantainability Symposyum. (01/2023) Orlando, FL. 
-- Department of Industrial Engineering Scholarship. Fall 2023
-- **Azucena, J.C.H.**, Kheirandish, M., and Hashemian, F. (05/2023) Finalist of IISE DAIS Data Challenge: Causal Inference for Predicting Treatment Outcome in Breast Cancer. New Orleans, LA
-- Outstanding Graduate Student 2023. Department of Industrial Engineering, University of Arkansas. Fayetteville, AR
-- Society of Reliability Engineers (SRE) Hans Reiche RAMS Scholarship. At the 69<sup>th</sup> Annual Reliability and Mantainability Symposyum. (01/2023) Orlando, FL. 
-- **Azucena, J.C.H.**, Hashemian, F., Liao, H. and Pohl, E.A. Society of Reliability Engineers (SRE) Stan Ofsthun Best Student Paper Award for <q>Applying Machine Learning to Improve All-Terminal Network Reliability</q>. At the 69<sup>th</sup> Annual Reliability and Mantainability Symposyum. (01/2023) Orlando, FL. 
-- Harvey, W., **Azucena, J.C.H.**, Stubblefield, J. and Saldivar, C. (04/2022) Student Award Presentation at NSF EPSCoR Workshop: Artificial Intelligence (AI) with No-Boundary Thinking
-(NBT). Little Rock, AR
-- Alkhaleel, B. and **Azucena, J.C.H.** (11/2019) Jack Buffington Outstanding Student Poster Award, Mack-Blackwell Transportation Center, University of Arkansas. Fayetteville, AR
-- **Azucena, J.C.H.**, Ruiz, C., and Jin, Y. (10/2019) Finalist of INFORMS QSR Data Challenge. Seattle, WA
-- Distinguished Doctoral Fellowship (01/2018-05/2022). University of Arkansas. Fayetteville, AR
-- Scholarship to the Excellence (2011-2013). Escuela Superior de Economía y Negocios. La Libertad, El Salvador
+Doctoral Academic Fellow
+Amount: $48000
+Funding agency: Graduate School and International Education, University of Arkansas
+Graduate Student Travel Grant Application for Linking Optical and Energy Fluxes Workshop, Boulder, Colorado, 2023
+Amount: $1100
+Funding agency: Graduate School and International Education, University of Arkansas
+Proposal submitted: Determining the drivers and magnitude of methane emissions of the fallow season of rice in Arkansas, Spring 2023 [Declined]
+Amount: $1100
+Funding agency: Graduate Professional Student Congress
+Graduate Student Travel Grant Application for American geophysical conference, 2022
+Amount: $1100
+Funding agency: Graduate School and International Education, University of Arkansas
+Graduate Student Travel Grant Application for Eddy Covariance Training at LI-COR Biosciences, Lincoln, Nebraska, 2022
+Amount: $1100
+Funding agency: Graduate School and International Education, University of Arkansas
+Graduate Student Award [2nd Author of the poster] in Arkansas Soil and Water Education Conference and Irrigation EXPO, 2024
+Amount: $200
+NSF style proposal written for PhD comprehensive exam: Predicting spatial information of rice growing season length and gross primary productivity from space and site-scale instruments (accessible link)
+
+  In news
+  https://www.ricefarming.com/departments/breaking-news/arkansas-agriculture-connected-to-2-8b-usda-climate-smart-commodities-initiative/
+  https://arkansasengineer.uark.edu/2022/10/14/climate-smart-rice/
+  https://www.northsouth.edu/research-office/nsu-research-profile/student-research-highlights.html
