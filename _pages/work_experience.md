@@ -21,24 +21,27 @@ author_profile: true
 	- Remote Sensing
 	- Carbon Flux Measurement
 	- Geospatial Analysis
-- Computational Tools used
-	- Deep Learning
-	- Artificial Intelligence
-	- Data Mining
-	- Computational Statistics
-	- Modern Statistical Techniques
 - Field data collection and Experimental studies include
 	- Calibration of 7500 sensor
 	- Calibration of 7700 sensor
-	- 
-	- Natural Language Processing
-	- Quantum Computing and Optimization
-	- Statistical Analysis
-- Explored applications in 
-	- Reliability Engineering
-	- Logistics and Transportation
-	- Disaster Relief
-	- Maintenance and Prognostics	
+	- Aid in data collection and installation from Campbell Scientific datalogger sensor 
+
+###### Undergraduate Research Mentorship and Supervision  
+##### Grecia Aida Magdaleno Hernandez (Summer 2022)
+- Mentored a U.S. National Science Foundation REU (Research Experiences for Undergraduates) student on analyzing furrow and conventional irrigated rice systems using Google Earth Engine for remote sensing data extraction and R for statistical descriptive analysis.
+
+##### Katie Skiles (2021-2022)
+- Mentored undergraduate honors thesis student Katie Skiles in using Google Earth Engine to extract and analyze MODIS GPP and NDVI data through custom scripting and cloud masking techniques. Thesis available at: https://scholarworks.uark.edu/baeguht/95/
+
+##### Maria De Los Angeles Vergara Murillo (2022-2024) and Kevin Durden (2024-2025)
+- Guided the use of Eddy Pro software for converting high-frequency (20 Hz) eddy covariance data to 30-minute flux data.
+- Taught data conversion techniques using Campbell Scientific datalogger software (TOA5 ASCII to CSV).
+- Provided training in Python for data plotting and analysis, with regular weekly check-ins and feedback.
+
+##### Conor Germann (2022-2023)
+- Mentored in organizing soil chemistry, methane/carbon flux, meteorological data, and metadata by decoding instrument output structures.
+- Guided MODIS EVI analysis for 128 rice fields, helping identify seasonal max and min peaks to understand crop growth dynamics.
+
 
 ## Teaching Assitant
 #### University of Arkansas. Department of Biological and Agircultural Engineering 
