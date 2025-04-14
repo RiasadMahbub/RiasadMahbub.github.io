@@ -80,3 +80,15 @@ Research project:
  Land use change of Bangladesh, 1700-2100
  Forest area modelling and estimation of functional diversity and 
 aboveground biomass of Sylhet forest division
+
+##### Supervised Student Research Projects (R and GIS Analysis)
+Trained and mentored students in  R and ArcGIS techniques, including ArcGIS ModelBuilder and Iteration for large-scale mapping and R-based descriptive statistics. Supported data extraction and processing from sources such as FAOSTAT and Sentinel-5P.
+-Farzin Fardu
+-Sadik Shihab Enan
+-Afra Bashira
+
+
+
+
+
+
