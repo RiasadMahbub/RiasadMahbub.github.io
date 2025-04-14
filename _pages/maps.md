@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Maps"
-permalink: /publications/
+permalink: /maps/
 author_profile: true
 ---
 
