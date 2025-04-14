@@ -10,44 +10,41 @@ author_profile: true
 Here are some maps and visualizations:
 
 ### Dhaka-Chittagong Map
-![Dhkctg222](/files/Dhkctg222.jpg)
+<img src="/files/Dhkctg222.jpg" alt="Dhkctg222" style="width: 60%; max-width: 600px;" />
 - [Download Dhkctg222.jpg](/files/Dhkctg222.jpg)
 
 ### District HANPP 2050
-![districthanpp2050updated](/files/districthanpp2050updated.JPG)
+<img src="/files/districthanpp2050updated.JPG" alt="District HANPP 2050" style="width: 60%; max-width: 600px;" />
 - [Download districthanpp2050updated.JPG](/files/districthanpp2050updated.JPG)
 
 ### Figure 3
-![fig_3](/files/fig_3.jpg)
+<img src="/files/fig_3.jpg" alt="Figure 3" style="width: 60%; max-width: 600px;" />
 - [Download fig_3.jpg](/files/fig_3.jpg)
 
 ### Growth Rate
-![growthrate2](/files/growthrate2.jpg)
+<img src="/files/growthrate2.jpg" alt="Growth Rate" style="width: 60%; max-width: 600px;" />
 - [Download growthrate2.jpg](/files/growthrate2.jpg)
 
 ### LGED CHT Map
-![lgedcht](/files/lgedcht.jpg)
+<img src="/files/lgedcht.jpg" alt="LGED CHT" style="width: 60%; max-width: 600px;" />
 - [Download lgedcht.jpg](/files/lgedcht.jpg)
 
 ### Population Density
-![pop_density](/files/pop_density.jpg)
+<img src="/files/pop_density.jpg" alt="Population Density" style="width: 60%; max-width: 600px;" />
 - [Download pop_density.jpg](/files/pop_density.jpg)
 
 ### Rajshahi Map 1
-![rajnew1](/files/rajnew1.jpg)
+<img src="/files/rajnew1.jpg" alt="Rajshahi Map 1" style="width: 60%; max-width: 600px;" />
 - [Download rajnew1.jpg](/files/rajnew1.jpg)
 
 ### Rajshahi Map 2
-![rajnew2](/files/rajnew2.jpg)
+<img src="/files/rajnew2.jpg" alt="Rajshahi Map 2" style="width: 60%; max-width: 600px;" />
 - [Download rajnew2.jpg](/files/rajnew2.jpg)
 
 ### Rohingya Project Map
-![Rohingya Project](/files/Rohingya%20project%20Suja%20sir.jpg)
+<img src="/files/Rohingya%20project%20Suja%20sir.jpg" alt="Rohingya Project Map" style="width: 60%; max-width: 600px;" />
 - [Download Rohingya project Suja sir.jpg](/files/Rohingya%20project%20Suja%20sir.jpg)
 
 ### Dotted Year Visualization
-![years dotted](/files/years%20dotted.jpg)
+<img src="/files/years%20dotted.jpg" alt="Years Dotted" style="width: 60%; max-width: 600px;" />
 - [Download years dotted.jpg](/files/years%20dotted.jpg)
-
-
-
