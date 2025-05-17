@@ -48,11 +48,9 @@ author_profile: true
 ##### Fayetteville, AR
 ##### January 2021 to December 2025
 
-- Data and insights support for the B2B sales team
-- Automation of reports
-- Market intelligence analysis
-- Sales forecasts
-- Budget, and sales goals monitoring and control
+- Graded exam and assignment scripts for sustainable watershed management course
+- Helped professor in designing the Biophysics course
+- Supervised students in senior design projects
 
 ## Intern
 #### Co-Operation for Resource Efficiency Lab (CORE Lab)
