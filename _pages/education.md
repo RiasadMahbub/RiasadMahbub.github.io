@@ -14,10 +14,14 @@ author_profile: true
 ## University of Arkansas
 #### Fayetteville, AR
 
-- Ph.D. in Environmental Dynamics. Fall 2025 (Expected)
-	- Advisor: Dr. Benjamin Runkle
-	- Dissertation Title: <q>Predicting spatial information of rice growing season length and gross primary productivity from space and site-scale instruments</q>
-- M.Sc. in Environmental Dynamics. Spring 2023
+- Ph.D. in Environmental Dynamics. Fall 2025 (Expected)  
+	- Advisor: [Dr. Benjamin Runkle](https://runkle.uark.edu/)  
+	- Dissertation Title: "Predicting spatial information of rice growing season length and gross primary productivity from space and site-scale instruments"  
+- M.Sc. in Environmental Dynamics. Spring 2023  
+	- Advisor: [Dr. Benjamin Runkle](https://runkle.uark.edu/)
+	- Dissertation Title: "Estimation of Gross Primary Productivity of Rice in Arkansas Using the Vegetation Photosynthesis Model"  
+	- Access link: [https://www.proquest.com/docview/2861133679?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses](https://www.proquest.com/docview/2861133679?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+
 
 ## North South University
 #### Dhaka, Bangladesh
