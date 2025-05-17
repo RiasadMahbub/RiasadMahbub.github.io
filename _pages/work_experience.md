@@ -64,11 +64,14 @@ Research project:
  Determining the hotspots of air pollution in Bangladesh 
 
 
-## Program Associate
-#### Bay of Bengal sea turtle program 
-##### Save Our Sea
-Research project:
--Exploring the pattern of sea turtle nesting, beach profile and land cover 
+## Program Associate  
+#### Bay of Bengal Sea Turtle Program  
+##### Save Our Sea  
+
+**Research project:**  
+- Exploring the pattern of sea turtle nesting, beach profile, and land cover  
+- Also authored a report on the shark status in Bangladesh, which can be accessed [here](https://drive.google.com/file/d/1g-yQo2jES-QbwhrLZo9l4j3CrWWFEmhU/view?usp=sharing)
+
 
 ## Research Assistant
 #### Decoupling Lab, Department of Environmental Science and Management 
@@ -81,6 +84,7 @@ aboveground biomass of Sylhet forest division
 
 ##### Supervised Student Research Projects (R and GIS Analysis)
 Trained and mentored students in  R and ArcGIS techniques, including ArcGIS ModelBuilder and Iteration for large-scale mapping and R-based descriptive statistics. Supported data extraction and processing from sources such as FAOSTAT and Sentinel-5P.
+
 -Farzin Fardu
 -Sadik Shihab Enan
 -Afra Bashira
