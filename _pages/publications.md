@@ -19,6 +19,8 @@ author_profile: true
 
 ## Publications in Peer Reviewed Journals
 
+-**Mahbub, R. B.**, Reba, M. L., & Runkle, B. R. K., "Magnitude, drivers, and patterns of gross primary productivity of rice in Arkansas using a calibrated vegetation photosynthesis model." *Agricultural and Forest Meteorology*, Vol. 369, 2025. DOI: https://doi.org/10.1016/j.agrformet.2025.110583 (IF: 5.6) (ELSEVIER)
+
 -Ahmed, N., **Mahbub, R. B.**, & Rahman, R. M., <q>Learning to extract buildings from ultra-high-resolution drone images and noisy labels</q>. International Journal of Remote Sensing, 41(21), pp. 8216–8237, 2020. DOI: https://doi.org/10.1080/01431161.2020.1763496 (IF: 3.151) (Taylor & Francis)
 
 -**Mahbub, R. B.**, Ahmed, N., & Yeasmin, F., <q>Towards reducing the data gap in the conservation efforts for sea turtles in Bangladesh</q>. Regional Studies in Marine Science, Vol. 35, 2020. DOI: https://doi.org/10.1016/j.rsma.2020.101151 (IF: 2.166) (ELSEVIER)
@@ -33,9 +35,6 @@ author_profile: true
 ### Submitted
 -->
 
-
-## Manuscripts under Review
-Mahbub, R. B., Reba, M., Runkle, B. R., (2025). Magnitude, Drivers, and Patterns of Gross Primary Productivity of Rice in Arkansas Using a Calibrated Vegetation Photosynthesis Model. Submitted to Agriculture and Forest Meteorology
 
 <!--
 ### Accepted
