@@ -65,17 +65,6 @@ author_profile: true
 - Eddy Pro
 - MS Office
 
-### Domains Explored
-- Data Analytics
-- Machine Learning
-- Database Management
-- Systems Reliability
-- Systems Simulation
-- Artificial Intelligence
-- Operations Research and optimization
-- Probabilistic Programming
-- Quantum Computing
-
 #### Data Analytics
 - Geo-spatial Analysis
 - Time Series Analysis
