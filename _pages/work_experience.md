@@ -54,7 +54,7 @@ author_profile: true
 
 ## Intern
 #### Co-Operation for Resource Efficiency Lab (CORE Lab)
-##### San Salvador, El Salvador
+##### Chittagong, Bangladesh
 ##### January 2018 to November 2019
 
 Co-Operation for Resource Efficiency Lab (CORE Lab)
@@ -66,6 +66,7 @@ Research project:
 
 ## Program Associate  
 #### Bay of Bengal Sea Turtle Program  
+##### Cox's Bazar and Dhaka, Bangladesh
 ##### Save Our Sea  
 
 **Research project:**  

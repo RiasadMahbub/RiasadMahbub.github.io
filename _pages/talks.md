@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and Presentations"
+title: "Data Analysis and Infographics"
 permalink: /talks/
 author_profile: true
 ---
