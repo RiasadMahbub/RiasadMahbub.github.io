@@ -13,6 +13,14 @@ Here are some maps and visualizations:
 <img src="/files/Dhkctg222.jpg" alt="Dhkctg222" style="width: 60%; max-width: 600px;" />
 - [Download Dhkctg222.jpg](/files/Dhkctg222.jpg)
 
+### Phosphorus Production across the districts of Bangladesh
+<img src="/files/PProduction.png" alt="PProduction" style="width: 60%; max-width: 600px;" />
+- [Download PProduction.png](/files/PProduction.png)
+
+### Change in Phosphorus Production across the divisions of Bangladesh
+<img src="/files/PProduction_changeinStock.png" alt="PProduction Change in Stock" style="width: 60%; max-width: 600px;" />
+- [Download PProduction_changeinStock.png](/files/PProduction_changeinStock.png)
+
 ### District HANPP 2050
 <img src="/files/districthanpp2050updated.JPG" alt="District HANPP 2050" style="width: 60%; max-width: 600px;" />
 - [Download districthanpp2050updated.JPG](/files/districthanpp2050updated.JPG)
