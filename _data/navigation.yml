@@ -2,9 +2,6 @@
 main:
   - title: "Education"
     url: /education/
-
-  - title: "Resume"
-    url: /resume/  
     
   - title: "Work Experience"
     url: /work_experience/    
@@ -20,7 +17,9 @@ main:
 
   - title: "Infographics"
     url: /infographics/
-  
+
+  - title: "Resume"
+    url: /resume/    
     
   - title: "Map"
     url: /maps/    
