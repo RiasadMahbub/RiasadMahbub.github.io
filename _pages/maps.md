@@ -58,6 +58,8 @@ Here are some maps and visualizations:
 - [Download years dotted.jpg](/files/years%20dotted.jpg)
 
 ### Global Substitutability of Recovered Phosphorus by Country
-A global overview of the potential to replace conventional phosphorus with phosphorus recovered from the waste sector, illustrated using decoupling factors (values are indicated in parentheses for each country).
+A global overview of the potential to replace conventional phosphorus with phosphorus recovered from the waste sector, illustrated using decoupling factors (values are indicated in parentheses for each country).  
+This figure is published in a peer-reviewed scientific article and can be accessed at: [https://doi.org/10.1016/j.resconrec.2019.01.022](https://doi.org/10.1016/j.resconrec.2019.01.022)
+
 <img src="/files/phosphorus_1.jpg" alt="Global Phosphorus Substitutability" style="width: 60%; max-width: 600px;" />
 - [Download phosphorus_1.jpg](/files/phosphorus_1.jpg)
