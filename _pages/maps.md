@@ -56,3 +56,8 @@ Here are some maps and visualizations:
 ### Dotted Year Visualization
 <img src="/files/years%20dotted.jpg" alt="Years Dotted" style="width: 60%; max-width: 600px;" />
 - [Download years dotted.jpg](/files/years%20dotted.jpg)
+
+### Global Substitutability of Recovered Phosphorus by Country
+A global overview of the potential to replace conventional phosphorus with phosphorus recovered from the waste sector, illustrated using decoupling factors (values are indicated in parentheses for each country).
+<img src="/files/phosphorus_1.jpg" alt="Global Phosphorus Substitutability" style="width: 60%; max-width: 600px;" />
+- [Download phosphorus_1.jpg](/files/phosphorus_1.jpg)
