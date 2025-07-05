@@ -69,11 +69,11 @@ This figure is published in a peer-reviewed scientific article and can be access
 <img src="/files/rajnew2.jpg" alt="Rajshahi Map 2" style="width: 60%; max-width: 600px;" />
 - [Download rajnew2.jpg](/files/rajnew2.jpg)
 
-### Rohingya Project Map
+### Rohingya Refugee Camp Spots
 <img src="/files/Rohingya%20project%20Suja%20sir.jpg" alt="Rohingya Project Map" style="width: 40%; max-width: 400px;" />
 - [Download Rohingya project Suja sir.jpg](/files/Rohingya%20project%20Suja%20sir.jpg)
 
-### Dotted Year Visualization
+### Presence of Otters across the Northern Disctricts of Banglades
 <img src="/files/years%20dotted.jpg" alt="Years Dotted" style="width: 60%; max-width: 600px;" />
 - [Download years dotted.jpg](/files/years%20dotted.jpg)
 
