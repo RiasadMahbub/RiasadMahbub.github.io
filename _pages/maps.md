@@ -43,7 +43,6 @@ This figure is published in a peer-reviewed scientific article and can be access
 - [Download phosphorus_1.jpg](/files/phosphorus_1.jpg)
 
 
-
 ### Time series graph showing past and predicted future Human Appropriation of Net Primary Production (HANPP) in each district of Bangladesh. HANPP measures how much of the Earth’s natural resources are used or affected by people
 <img src="/files/districthanpp2050updated.JPG" alt="District HANPP 2050" style="width: 60%; max-width: 600px;" />
 - [Download districthanpp2050updated.JPG](/files/districthanpp2050updated.JPG)
@@ -82,10 +81,10 @@ This figure is published in a peer-reviewed scientific article and can be access
 
 ### Phosphorus production levels in different districts of Bangladesh
 <img src="/files/PProduction.png" alt="PProduction" style="width: 60%; max-width: 600px;" />
-- [Download PProduction.png](/files/PProduction.jpg)
+- [Download PProduction.png](/files/PProduction.png)
 
 ### Changes in Phosphorus Production across Bangladesh's divisions
 <img src="/files/PProduction_changeinStock.png" alt="PProduction Change in Stock" style="width: 60%; max-width: 600px;" />
-- [Download PProduction_changeinStock.png](/files/PProduction_changeinStock.jpg)
+- [Download PProduction_changeinStock.png](/files/PProduction_changeinStock.png)
 
 
