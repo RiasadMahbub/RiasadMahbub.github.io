@@ -46,6 +46,9 @@ Here are some infographics and visualizations:
 - [Download EVIspatial.png](/files/EVIspatial.png)
 
 ### Rice Fields vs. LSWI Comparison
+Histogram of the clay content of the rice fields in Arkansas
+How the relationship between water status and rice plant photosynthesis changes across clay content
+How the relationship between rice growing frequency and the residuals from the model of water status (LSWI) and rice plant photosynthesis changes across clay content
 <img src="/files/ricelswi.png" alt="Rice LSWI" style="width: 60%; max-width: 600px;" />
 - [Download ricelswi.png](/files/ricelswi.png)
 
