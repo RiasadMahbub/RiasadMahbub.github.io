@@ -45,9 +45,8 @@ author_profile: true
 ## Scientific Communication
 - Journal Articles
 - Conference Proceedings
-- Research Reports
-- Technical presentations
-- Experience presenting for federal and state agencies: NSF, AEDC
+- Group Meetings 
+- Technical Data Documentation
 
 ------
 
@@ -69,13 +68,18 @@ author_profile: true
 - Geo-spatial Analysis
 - Time Series Analysis
 - Descriptive Statistics
+- Process Based Models: Vegetation Photosynthesis Model
 
 
-#### Machine Learning and Deep Learning
+#### Machine Learning and Statistical Analysis
+- Random Forest
 - SciKit Learn
 - XGBoost
-- PyTorch
-- Tensorflow
+- Linear Regression
+- Double Logistic Regression Analysis
+- Harmonic Function Analysis
+- Non Linear Regression 
+- GAM Regression
 
 #### Field sensor deployment and calibration
 - LI 7500 
@@ -85,6 +89,6 @@ author_profile: true
 #### Deep Learning
 - PyTorch
 - Tensorflow
-- OpenAI-Gym
+-
  
 
