@@ -9,6 +9,26 @@ author_profile: true
 
 Here are some maps and visualizations:
 
+### Cumulative VPM Across Years
+<img src="/files/VPMcumulativearranged.png" alt="VPM Cumulative Arranged" style="width: 60%; max-width: 600px;" />
+- [Download VPMcumulativearranged.png](/files/VPMcumulativearranged.png)
+
+### GPP and Yield Correlation Significance Map
+<img src="/files/mapgppyieldsignificance.jpg" alt="Map GPP Yield Significance" style="width: 60%; max-width: 600px;" />
+- [Download mapgppyieldsignificance.jpg](/files/mapgppyieldsignificance.jpg)
+
+### GPP, Rice Price, and Production by Region
+<img src="/files/GPPriceproductionregion.png" alt="GPP Price Production Region" style="width: 60%; max-width: 600px;" />
+- [Download GPPriceproductionregion.png](/files/GPPriceproductionregion.png)
+
+### Rice Growing Frequency
+<img src="/files/RiceGrowFreq.png" alt="Rice Grow Frequency" style="width: 60%; max-width: 600px;" />
+- [Download RiceGrowFreq.png](/files/RiceGrowFreq.png)
+
+### Spatial Distribution of EVI
+<img src="/files/EVIspatial.png" alt="EVI Spatial" style="width: 60%; max-width: 600px;" />
+- [Download EVIspatial.png](/files/EVIspatial.png)
+
 ### Dhaka-Chittagong Map
 <img src="/files/Dhkctg222.jpg" alt="Dhkctg222" style="width: 60%; max-width: 600px;" />
 - [Download Dhkctg222.jpg](/files/Dhkctg222.jpg)

@@ -9,9 +9,7 @@ author_profile: true
 
 Here are some infographics and visualizations:
 
-### Cumulative VPM Across Years
-<img src="/files/VPMcumulativearranged.png" alt="VPM Cumulative Arranged" style="width: 60%; max-width: 600px;" />
-- [Download VPMcumulativearranged.png](/files/VPMcumulativearranged.png)
+
 
 ### Yield and Area under VPM Classification
 <img src="/files/VPMyieldArea.png" alt="VPM Yield Area" style="width: 60%; max-width: 600px;" />
@@ -21,9 +19,7 @@ Here are some infographics and visualizations:
 <img src="/files/vpmtemporalgpp2.png" alt="Temporal GPP VPM" style="width: 60%; max-width: 600px;" />
 - [Download vpmtemporalgpp2.png](/files/vpmtemporalgpp2.png)
 
-### GPP and Yield Correlation Significance Map
-<img src="/files/mapgppyieldsignificance.jpg" alt="Map GPP Yield Significance" style="width: 60%; max-width: 600px;" />
-- [Download mapgppyieldsignificance.jpg](/files/mapgppyieldsignificance.jpg)
+
 
 ### Interannual Trends of Yield and GPP
 <img src="/files/VPMinterannualYieldGPP.png" alt="VPM Interannual Yield GPP" style="width: 60%; max-width: 600px;" />
@@ -33,17 +29,6 @@ Here are some infographics and visualizations:
 <img src="/files/regionboxplot.png" alt="Region Boxplot" style="width: 60%; max-width: 600px;" />
 - [Download regionboxplot.png](/files/regionboxplot.png)
 
-### GPP, Rice Price, and Production by Region
-<img src="/files/GPPriceproductionregion.png" alt="GPP Price Production Region" style="width: 60%; max-width: 600px;" />
-- [Download GPPriceproductionregion.png](/files/GPPriceproductionregion.png)
-
-### Rice Growing Frequency
-<img src="/files/RiceGrowFreq.png" alt="Rice Grow Frequency" style="width: 60%; max-width: 600px;" />
-- [Download RiceGrowFreq.png](/files/RiceGrowFreq.png)
-
-### Spatial Distribution of EVI
-<img src="/files/EVIspatial.png" alt="EVI Spatial" style="width: 60%; max-width: 600px;" />
-- [Download EVIspatial.png](/files/EVIspatial.png)
 
 ### Rice Fields vs. LSWI Comparison
 Histogram of the clay content of the rice fields in Arkansas
