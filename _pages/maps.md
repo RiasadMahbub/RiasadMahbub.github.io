@@ -12,19 +12,19 @@ Here are some maps and visualizations:
 ### How rice plant photosynthesis varies across different parts of Arkansas
 Spatial profile of GPPcum_mean across the state from the VPMspatial_50percentpixel model, at 500-m resolution. (A) Map of the GPPcum_mean (2008–2020) of the rice layer in Arkansas. (B) Mean latitudinal distribution of GPPcum_mean (2008–2020)
 
-<img src="/files/VPMcumulativearranged.png" alt="VPM Cumulative Arranged" style="width: 60%; max-width: 600px;" />
+<img src="/files/VPMcumulativearranged.png" alt="VPM Cumulative Arranged" style="width: 100%; max-width: 600px;" />
 - [Download VPMcumulativearranged.png](/files/VPMcumulativearranged.png)
 
 ### GPP and Yield Correlation Significance Map
-<img src="/files/mapgppyieldsignificance.jpg" alt="Map GPP Yield Significance" style="width: 80%; max-width: 600px;" />
+<img src="/files/mapgppyieldsignificance.jpg" alt="Map GPP Yield Significance" style="width: 100%; max-width: 600px;" />
 - [Download mapgppyieldsignificance.jpg](/files/mapgppyieldsignificance.jpg)
 
 ### Comparing how much rice grows in different rice-farming areas of Arkansas
-<img src="/files/GPPriceproductionregion.png" alt="GPP Price Production Region" style="width: 80%; max-width: 600px;" />
+<img src="/files/GPPriceproductionregion.png" alt="GPP Price Production Region" style="width: 100%; max-width: 600px;" />
 - [Download GPPriceproductionregion.png](/files/GPPriceproductionregion.png)
 
 ### How often rice was grown in Arkansas fields from 2008 to 2020
-<img src="/files/RiceGrowFreq.png" alt="Rice Grow Frequency" style="width: 60%; max-width: 600px;" />
+<img src="/files/RiceGrowFreq.png" alt="Rice Grow Frequency" style="width: 100%; max-width: 600px;" />
 - [Download RiceGrowFreq.png](/files/RiceGrowFreq.png)
 
 ### Satellite-based map showing how green the rice plants are in different areas, using a vegetation index called EVI
@@ -57,7 +57,7 @@ This figure is published in a peer-reviewed scientific article and can be access
 - [Download growthrate2.jpg](/files/growthrate2.jpg)
 
 ### Map showing randomly selected sampling areas for a field survey, with brown lines marking roads connecting the points
-<img src="/files/lgedcht.jpg" alt="LGED CHT" style="width: 60%; max-width: 600px;" />
+<img src="/files/lgedcht.jpg" alt="LGED CHT" style="width: 40%; max-width: 400px;" />
 - [Download lgedcht.jpg](/files/lgedcht.jpg)
 
 ### Depicting how population density (circle size) relates to waterlogging events (circle color) across Bangladesh between 2001 and 2011. Blue-bordered areas represent urban regions
@@ -73,7 +73,7 @@ This figure is published in a peer-reviewed scientific article and can be access
 - [Download rajnew2.jpg](/files/rajnew2.jpg)
 
 ### Rohingya Project Map
-<img src="/files/Rohingya%20project%20Suja%20sir.jpg" alt="Rohingya Project Map" style="width: 60%; max-width: 600px;" />
+<img src="/files/Rohingya%20project%20Suja%20sir.jpg" alt="Rohingya Project Map" style="width: 40%; max-width: 400px;" />
 - [Download Rohingya project Suja sir.jpg](/files/Rohingya%20project%20Suja%20sir.jpg)
 
 ### Dotted Year Visualization
