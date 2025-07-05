@@ -10,16 +10,12 @@ author_profile: true
 Here are some maps and visualizations:
 
 ### How rice plant photosynthesis varies across different parts of Arkansas
-Spatial profile of GPPcum_mean across the state from the VPMspatial_50percentpixel model, at 500-m resolution. (A) Map of the GPPcum_mean (2008–2020) of the rice layer in Arkansas. (B) Mean latitudinal distribution of GPPcum_mean (2008–2020)
+Spatial profile of photosynthesis across the state from a mathematical model, at 500-m resolution. (A) Map of the mean (across years) cumulative (within year) photosynthesis (2008–2020) of the rice layer in Arkansas. (B) Mean latitudinal distribution of photosynthesis (2008–2020)
 
 <img src="/files/VPMcumulativearranged.png" alt="VPM Cumulative Arranged" style="width: 100%; max-width: 600px;" />
 - [Download VPMcumulativearranged.png](/files/VPMcumulativearranged.png)
 
-### GPP and Yield Correlation Significance Map
-<img src="/files/mapgppyieldsignificance.jpg" alt="Map GPP Yield Significance" style="width: 100%; max-width: 600px;" />
-- [Download mapgppyieldsignificance.jpg](/files/mapgppyieldsignificance.jpg)
-
-### Comparing how much rice grows in different rice-farming areas of Arkansas
+### Comparing how much rice phosynthesizes in different rice-farming areas of Arkansas
 <img src="/files/GPPriceproductionregion.png" alt="GPP Price Production Region" style="width: 100%; max-width: 600px;" />
 - [Download GPPriceproductionregion.png](/files/GPPriceproductionregion.png)
 
@@ -30,6 +26,11 @@ Spatial profile of GPPcum_mean across the state from the VPMspatial_50percentpix
 ### Satellite-based map showing how green the rice plants are in different areas, using a vegetation index called EVI
 <img src="/files/EVIspatial.png" alt="EVI Spatial" style="width: 80%; max-width: 600px;" />
 - [Download EVIspatial.png](/files/EVIspatial.png)
+
+### GPP and Yield Correlation and Significance Map
+<img src="/files/mapgppyieldsignificance.jpg" alt="Map GPP Yield Significance" style="width: 100%; max-width: 600px;" />
+- [Download mapgppyieldsignificance.jpg](/files/mapgppyieldsignificance.jpg)
+
 
 ### Map showing how many waterlogging incidents were reported in newspapers for each council area in Dhaka and Chittagong the two largest cities in Bangladesh
 <img src="/files/Dhkctg222.jpg" alt="Dhkctg222" style="width: 60%; max-width: 600px;" />
@@ -63,11 +64,8 @@ This figure is published in a peer-reviewed scientific article and can be access
 <img src="/files/pop_density.jpg" alt="Population Density" style="width: 60%; max-width: 600px;" />
 - [Download pop_density.jpg](/files/pop_density.jpg)
 
-### Rajshahi Map 1
-<img src="/files/rajnew1.jpg" alt="Rajshahi Map 1" style="width: 60%; max-width: 600px;" />
-- [Download rajnew1.jpg](/files/rajnew1.jpg)
 
-### Rajshahi Map 2
+### Where signs of Smooth Coated Otters were found in Rajshahi. A total of 62 signs were recorded across five survey areas (marked as transects), mostly along riverbanks and nearby land.
 <img src="/files/rajnew2.jpg" alt="Rajshahi Map 2" style="width: 60%; max-width: 600px;" />
 - [Download rajnew2.jpg](/files/rajnew2.jpg)
 

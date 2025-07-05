@@ -89,6 +89,5 @@ author_profile: true
 #### Deep Learning
 - PyTorch
 - Tensorflow
--
  
 
