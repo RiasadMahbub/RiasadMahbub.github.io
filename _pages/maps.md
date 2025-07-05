@@ -16,11 +16,11 @@ Spatial profile of GPPcum_mean across the state from the VPMspatial_50percentpix
 - [Download VPMcumulativearranged.png](/files/VPMcumulativearranged.png)
 
 ### GPP and Yield Correlation Significance Map
-<img src="/files/mapgppyieldsignificance.jpg" alt="Map GPP Yield Significance" style="width: 60%; max-width: 600px;" />
+<img src="/files/mapgppyieldsignificance.jpg" alt="Map GPP Yield Significance" style="width: 80%; max-width: 600px;" />
 - [Download mapgppyieldsignificance.jpg](/files/mapgppyieldsignificance.jpg)
 
 ### Comparing how much rice grows in different rice-farming areas of Arkansas
-<img src="/files/GPPriceproductionregion.png" alt="GPP Price Production Region" style="width: 60%; max-width: 600px;" />
+<img src="/files/GPPriceproductionregion.png" alt="GPP Price Production Region" style="width: 80%; max-width: 600px;" />
 - [Download GPPriceproductionregion.png](/files/GPPriceproductionregion.png)
 
 ### How often rice was grown in Arkansas fields from 2008 to 2020
@@ -28,20 +28,21 @@ Spatial profile of GPPcum_mean across the state from the VPMspatial_50percentpix
 - [Download RiceGrowFreq.png](/files/RiceGrowFreq.png)
 
 ### Satellite-based map showing how green the rice plants are in different areas, using a vegetation index called EVI
-<img src="/files/EVIspatial.png" alt="EVI Spatial" style="width: 60%; max-width: 600px;" />
+<img src="/files/EVIspatial.png" alt="EVI Spatial" style="width: 80%; max-width: 600px;" />
 - [Download EVIspatial.png](/files/EVIspatial.png)
 
 ### Map showing how many waterlogging incidents were reported in newspapers for each council area in Dhaka and Chittagong the two largest cities in Bangladesh
 <img src="/files/Dhkctg222.jpg" alt="Dhkctg222" style="width: 60%; max-width: 600px;" />
 - [Download Dhkctg222.jpg](/files/Dhkctg222.jpg)
 
-### Phosphorus production levels in different districts of Bangladesh
-<img src="/files/PProduction.png" alt="PProduction" style="width: 60%; max-width: 600px;" />
-- [Download PProduction.png](/files/PProduction.jpg)
+### Global Substitutability of Recovered Phosphorus by Country
+A global overview of the potential to replace conventional phosphorus with phosphorus recovered from the waste sector, illustrated using decoupling factors (values are indicated in parentheses for each country).  
+This figure is published in a peer-reviewed scientific article and can be accessed at: [https://doi.org/10.1016/j.resconrec.2019.01.022](https://doi.org/10.1016/j.resconrec.2019.01.022)
 
-### Changes in Phosphorus Production across Bangladesh's divisions
-<img src="/files/PProduction_changeinStock.png" alt="PProduction Change in Stock" style="width: 60%; max-width: 600px;" />
-- [Download PProduction_changeinStock.png](/files/PProduction_changeinStock.jpg)
+<img src="/files/phosphorus_1.jpg" alt="Global Phosphorus Substitutability" style="width: 60%; max-width: 600px;" />
+- [Download phosphorus_1.jpg](/files/phosphorus_1.jpg)
+
+
 
 ### Time series graph showing past and predicted future Human Appropriation of Net Primary Production (HANPP) in each district of Bangladesh. HANPP measures how much of the Earth’s natural resources are used or affected by people
 <img src="/files/districthanpp2050updated.JPG" alt="District HANPP 2050" style="width: 60%; max-width: 600px;" />
@@ -51,15 +52,15 @@ Spatial profile of GPPcum_mean across the state from the VPMspatial_50percentpix
 <img src="/files/fig_3.jpg" alt="Figure 3" style="width: 60%; max-width: 600px;" />
 - [Download fig_3.jpg](/files/fig_3.jpg)
 
-### Growth Rate
+### Depicting how population growth (circle size) relates to waterlogging events (circle color) across Bangladesh between 2001 and 2011. Blue-bordered areas represent urban regions
 <img src="/files/growthrate2.jpg" alt="Growth Rate" style="width: 60%; max-width: 600px;" />
 - [Download growthrate2.jpg](/files/growthrate2.jpg)
 
-### LGED CHT Map
+### Map showing randomly selected sampling areas for a field survey, with brown lines marking roads connecting the points
 <img src="/files/lgedcht.jpg" alt="LGED CHT" style="width: 60%; max-width: 600px;" />
 - [Download lgedcht.jpg](/files/lgedcht.jpg)
 
-### Population Density
+### Depicting how population density (circle size) relates to waterlogging events (circle color) across Bangladesh between 2001 and 2011. Blue-bordered areas represent urban regions
 <img src="/files/pop_density.jpg" alt="Population Density" style="width: 60%; max-width: 600px;" />
 - [Download pop_density.jpg](/files/pop_density.jpg)
 
@@ -79,9 +80,12 @@ Spatial profile of GPPcum_mean across the state from the VPMspatial_50percentpix
 <img src="/files/years%20dotted.jpg" alt="Years Dotted" style="width: 60%; max-width: 600px;" />
 - [Download years dotted.jpg](/files/years%20dotted.jpg)
 
-### Global Substitutability of Recovered Phosphorus by Country
-A global overview of the potential to replace conventional phosphorus with phosphorus recovered from the waste sector, illustrated using decoupling factors (values are indicated in parentheses for each country).  
-This figure is published in a peer-reviewed scientific article and can be accessed at: [https://doi.org/10.1016/j.resconrec.2019.01.022](https://doi.org/10.1016/j.resconrec.2019.01.022)
+### Phosphorus production levels in different districts of Bangladesh
+<img src="/files/PProduction.png" alt="PProduction" style="width: 60%; max-width: 600px;" />
+- [Download PProduction.png](/files/PProduction.jpg)
 
-<img src="/files/phosphorus_1.jpg" alt="Global Phosphorus Substitutability" style="width: 60%; max-width: 600px;" />
-- [Download phosphorus_1.jpg](/files/phosphorus_1.jpg)
+### Changes in Phosphorus Production across Bangladesh's divisions
+<img src="/files/PProduction_changeinStock.png" alt="PProduction Change in Stock" style="width: 60%; max-width: 600px;" />
+- [Download PProduction_changeinStock.png](/files/PProduction_changeinStock.jpg)
+
+
