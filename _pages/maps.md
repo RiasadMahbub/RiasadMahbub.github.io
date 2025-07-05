@@ -9,7 +9,9 @@ author_profile: true
 
 Here are some maps and visualizations:
 
-### Cumulative VPM Across Years
+### How rice plant photosynthesis varies across different parts of Arkansas
+Spatial profile of GPPcum_mean across the state from the VPMspatial_50percentpixel model, at 500-m resolution. (A) Map of the GPPcum_mean (2008–2020) of the rice layer in Arkansas. (B) Mean latitudinal distribution of GPPcum_mean (2008–2020)
+
 <img src="/files/VPMcumulativearranged.png" alt="VPM Cumulative Arranged" style="width: 60%; max-width: 600px;" />
 - [Download VPMcumulativearranged.png](/files/VPMcumulativearranged.png)
 
@@ -17,31 +19,31 @@ Here are some maps and visualizations:
 <img src="/files/mapgppyieldsignificance.jpg" alt="Map GPP Yield Significance" style="width: 60%; max-width: 600px;" />
 - [Download mapgppyieldsignificance.jpg](/files/mapgppyieldsignificance.jpg)
 
-### GPP, Rice Price, and Production by Region
+### Comparing how much rice grows in different rice-farming areas of Arkansas
 <img src="/files/GPPriceproductionregion.png" alt="GPP Price Production Region" style="width: 60%; max-width: 600px;" />
 - [Download GPPriceproductionregion.png](/files/GPPriceproductionregion.png)
 
-### Rice Growing Frequency
+### How often rice was grown in Arkansas fields from 2008 to 2020
 <img src="/files/RiceGrowFreq.png" alt="Rice Grow Frequency" style="width: 60%; max-width: 600px;" />
 - [Download RiceGrowFreq.png](/files/RiceGrowFreq.png)
 
-### Spatial Distribution of EVI
+### Satellite-based map showing how green the rice plants are in different areas, using a vegetation index called EVI
 <img src="/files/EVIspatial.png" alt="EVI Spatial" style="width: 60%; max-width: 600px;" />
 - [Download EVIspatial.png](/files/EVIspatial.png)
 
-### Dhaka-Chittagong Map
+### Map showing how many waterlogging incidents were reported in newspapers for each council area in Dhaka and Chittagong the two largest cities in Bangladesh
 <img src="/files/Dhkctg222.jpg" alt="Dhkctg222" style="width: 60%; max-width: 600px;" />
 - [Download Dhkctg222.jpg](/files/Dhkctg222.jpg)
 
-### Phosphorus Production across the districts of Bangladesh
+### Phosphorus production levels in different districts of Bangladesh
 <img src="/files/PProduction.png" alt="PProduction" style="width: 60%; max-width: 600px;" />
-- [Download PProduction.png](/files/PProduction.png)
+- [Download PProduction.png](/files/PProduction.jpg)
 
-### Change in Phosphorus Production across the divisions of Bangladesh
+### Changes in Phosphorus Production across Bangladesh's divisions
 <img src="/files/PProduction_changeinStock.png" alt="PProduction Change in Stock" style="width: 60%; max-width: 600px;" />
-- [Download PProduction_changeinStock.png](/files/PProduction_changeinStock.png)
+- [Download PProduction_changeinStock.png](/files/PProduction_changeinStock.jpg)
 
-### District HANPP 2050
+### Time series graph showing past and predicted future Human Appropriation of Net Primary Production (HANPP) in each district of Bangladesh. HANPP measures how much of the Earth’s natural resources are used or affected by people
 <img src="/files/districthanpp2050updated.JPG" alt="District HANPP 2050" style="width: 60%; max-width: 600px;" />
 - [Download districthanpp2050updated.JPG](/files/districthanpp2050updated.JPG)
 
