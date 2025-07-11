@@ -89,4 +89,25 @@ This figure is published in a peer-reviewed scientific article and can be access
 <img src="/files/PProduction_changeinStock.png" alt="PProduction Change in Stock" style="width: 60%; max-width: 600px;" />
 - [Download PProduction_changeinStock.png](/files/PProduction_changeinStock.png)
 
+### Map showing waterlogging incidents with city names and rivers marked  
+Map showing how many waterlogging incidents were reported in newspapers for each council area in Dhaka and Chittagong, with rivers and city names annotated.  
+<img src="/files/Dhkctg222_riverandcitymarked.jpg" alt="Dhkctg222 River and City Marked" style="width: 60%; max-width: 600px;" />  
+- [Download Dhkctg222_riverandcitymarked.jpg](/files/Dhkctg222_riverandcitymarked.jpg)
+
+### Depicting how population growth (circle size) relates to waterlogging events (circle color) across Bangladesh (updated version)  
+Updated version showing population growth between 2001 and 2011.  
+<img src="/files/Growth%20rate-002.jpg" alt="Growth Rate 002" style="width: 60%; max-width: 600px;" />  
+- [Download Growth rate-002.jpg](/files/Growth%20rate-002.jpg)
+
+### Depicting how population density (circle size) relates to waterlogging events (circle color) across Bangladesh (updated version)  
+Updated version showing population density distribution and related flood risk.  
+<img src="/files/Population%20density-002.jpg" alt="Population Density 002" style="width: 60%; max-width: 600px;" />  
+- [Download Population density-002.jpg](/files/Population%20density-002.jpg)
+
+### Study Area for Sea Turtle Conservation (Updated)  
+Updated version of the map showing study locations for sea turtle research.  
+<img src="/files/studyarea.jpg" alt="Study Area Map Updated" style="width: 40%; max-width: 400px;" />  
+- [Download studyarea.jpg](/files/studyarea.jpg)
+
+
 
