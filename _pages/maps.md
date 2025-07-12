@@ -53,8 +53,8 @@ This figure is published in a peer-reviewed scientific article and can be access
 - [Download fig_3.jpg](/files/fig_3.jpg)
 
 ### Depicting how population growth (circle size) relates to waterlogging events (circle color) across Bangladesh between 2001 and 2011. Blue-bordered areas represent urban regions
-<img src="/files/growthrate2.jpg" alt="Growth Rate" style="width: 60%; max-width: 600px;" />
-- [Download growthrate2.jpg](/files/growthrate2.jpg)
+<img src="/files/Population%20density-002.jpg" alt="Population Density 002" style="width: 60%; max-width: 600px;" />  
+- [Download Population density-002.jpg](/files/Population%20density-002.jpg)
 
 ### Map showing randomly selected sampling areas for a field survey, with brown lines marking roads connecting the points
 <img src="/files/lgedcht.jpg" alt="LGED CHT" style="width: 40%; max-width: 400px;" />
@@ -64,6 +64,9 @@ This figure is published in a peer-reviewed scientific article and can be access
 <img src="/files/pop_density.jpg" alt="Population Density" style="width: 60%; max-width: 600px;" />
 - [Download pop_density.jpg](/files/pop_density.jpg)
 
+<img src="/files/Growth%20rate-002.jpg" alt="Growth Rate 002" style="width: 60%; max-width: 600px;" />  
+- [Download Growth rate-002.jpg](/files/Growth%20rate-002.jpg)
+
 
 ### Where signs of Smooth Coated Otters were found in Rajshahi. A total of 62 signs were recorded across five survey areas (marked as transects), mostly along riverbanks and nearby land.
 <img src="/files/rajnew2.jpg" alt="Rajshahi Map 2" style="width: 60%; max-width: 600px;" />
@@ -72,6 +75,11 @@ This figure is published in a peer-reviewed scientific article and can be access
 ### Study Area Map of sea turtle conservation
 <img src="/files/studyarea.jpg" alt="Study Area Map" style="width: 40%; max-width: 400px;" />
 - [Download Rohingya project Suja sir.jpg](/files/studyarea.jpg)
+
+### Study Area for Sea Turtle Conservation  
+Updated version of the map showing study locations for sea turtle research.  
+<img src="/files/studyarea.jpg" alt="Study Area Map Updated" style="width: 40%; max-width: 400px;" />  
+- [Download studyarea.jpg](/files/studyarea.jpg)
 
 ### Rohingya Refugee Camp Spots    7
 <img src="/files/Rohingya%20project%20Suja%20sir.jpg" alt="Rohingya Project Map" style="width: 40%; max-width: 400px;" />
@@ -96,18 +104,10 @@ Map showing how many waterlogging incidents were reported in newspapers for each
 
 ### Depicting how population growth (circle size) relates to waterlogging events (circle color) across Bangladesh (updated version)  
 Updated version showing population growth between 2001 and 2011.  
-<img src="/files/Growth%20rate-002.jpg" alt="Growth Rate 002" style="width: 60%; max-width: 600px;" />  
-- [Download Growth rate-002.jpg](/files/Growth%20rate-002.jpg)
 
-### Depicting how population density (circle size) relates to waterlogging events (circle color) across Bangladesh (updated version)  
-Updated version showing population density distribution and related flood risk.  
-<img src="/files/Population%20density-002.jpg" alt="Population Density 002" style="width: 60%; max-width: 600px;" />  
-- [Download Population density-002.jpg](/files/Population%20density-002.jpg)
 
-### Study Area for Sea Turtle Conservation (Updated)  
-Updated version of the map showing study locations for sea turtle research.  
-<img src="/files/studyarea.jpg" alt="Study Area Map Updated" style="width: 40%; max-width: 400px;" />  
-- [Download studyarea.jpg](/files/studyarea.jpg)
+
+
 
 
 
