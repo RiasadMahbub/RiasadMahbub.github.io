@@ -24,25 +24,22 @@ Spatial profile of photosynthesis across the state from a mathematical model, at
 - [Download RiceGrowFreq.png](/files/RiceGrowFreq.png)
 
 ### Satellite-based map showing how green the rice plants are in different areas, using a vegetation index called EVI
-<img src="/files/EVIspatial.png" alt="EVI Spatial" style="width: 80%; max-width: 600px;" />
+<img src="/files/EVIspatial.png" alt="EVI Spatial" style="width: 100%; max-width: 600px;" />
 - [Download EVIspatial.png](/files/EVIspatial.png)
 
 ### GPP and Yield Correlation and Significance Map
 <img src="/files/mapgppyieldsignificance.jpg" alt="Map GPP Yield Significance" style="width: 100%; max-width: 600px;" />
 - [Download mapgppyieldsignificance.jpg](/files/mapgppyieldsignificance.jpg)
 
+### Global Substitutability of Recovered Phosphorus by Country
+A global overview of the potential to replace conventional phosphorus with phosphorus recovered from the waste sector, illustrated using decoupling factors (values are indicated in parentheses for each country).  
+This figure is published in a peer-reviewed scientific article and can be accessed at: [https://doi.org/10.1016/j.resconrec.2019.01.022](https://doi.org/10.1016/j.resconrec.2019.01.022)
+<img src="/files/phosphorus_1.jpg" alt="Global Phosphorus Substitutability" style="width: 60%; max-width: 600px;" />
+- [Download phosphorus_1.jpg](/files/phosphorus_1.jpg)
 
 ### Map showing how many waterlogging incidents were reported in newspapers for each council area in Dhaka and Chittagong the two largest cities in Bangladesh
 <img src="/files/Dhkctg222_riverandcitymarked.jpg" alt="Dhkctg222 River and City Marked" style="width: 60%; max-width: 600px;" />  
 - [Download Dhkctg222_riverandcitymarked.jpg](/files/Dhkctg222_riverandcitymarked.jpg)
-
-### Global Substitutability of Recovered Phosphorus by Country
-A global overview of the potential to replace conventional phosphorus with phosphorus recovered from the waste sector, illustrated using decoupling factors (values are indicated in parentheses for each country).  
-This figure is published in a peer-reviewed scientific article and can be accessed at: [https://doi.org/10.1016/j.resconrec.2019.01.022](https://doi.org/10.1016/j.resconrec.2019.01.022)
-
-<img src="/files/phosphorus_1.jpg" alt="Global Phosphorus Substitutability" style="width: 60%; max-width: 600px;" />
-- [Download phosphorus_1.jpg](/files/phosphorus_1.jpg)
-
 
 ### Time series graph showing past and predicted future Human Appropriation of Net Primary Production (HANPP) in each district of Bangladesh. HANPP measures how much of the Earth’s natural resources are used or affected by people
 <img src="/files/districthanpp2050updated.JPG" alt="District HANPP 2050" style="width: 60%; max-width: 600px;" />
