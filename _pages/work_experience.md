@@ -52,16 +52,15 @@ author_profile: true
 - Helped professor in designing the Biophysics course
 - Supervised students in senior design projects
 
-## Intern
-#### Co-Operation for Resource Efficiency Lab (CORE Lab)
-##### Chittagong, Bangladesh
-##### January 2018 to November 2019
 
-Co-Operation for Resource Efficiency Lab (CORE Lab)
-Employer: Professor Mohammad Mosharraf Hossain, PhD
-Research project:
- Developing industrial symbiotic networks 
- Determining the hotspots of air pollution in Bangladesh 
+## Intern  
+**Co-Operation for Resource Efficiency Lab (CORE Lab)**  
+**North South University**  
+**Supervisor:** [Professor Mohammad Mosharraf Hossain, PhD](https://cu.ac.bd/public_profile/index.php?ein=4167)  
+
+**Research Project:**  
+- Developing industrial symbiotic networks  
+- Determining the hotspots of air pollution in Bangladesh
 
 
 ## Program Associate  
@@ -74,14 +73,15 @@ Research project:
 - Also authored a report on the shark status in Bangladesh, which can be accessed [here](https://drive.google.com/file/d/1g-yQo2jES-QbwhrLZo9l4j3CrWWFEmhU/view?usp=sharing)
 
 
-## Research Assistant
-#### Decoupling Lab, Department of Environmental Science and Management 
-##### North South University
-Employer: Dr. Mohammad Sujauddin, Assistant Professor
-Research project:
- Land use change of Bangladesh, 1700-2100
- Forest area modelling and estimation of functional diversity and 
-aboveground biomass of Sylhet forest division
+## Research Assistant  
+**Decoupling Lab**, Department of Environmental Science and Management  
+**North South University**  
+**Supervisor:** [Dr. Mohammad Sujauddin](https://www.northsouth.edu/faculty-members/shls/esm/dr.-mohammad-sujauddin-sud.html), Assistant Professor  
+
+**Research Project:**  
+- Land use change of Bangladesh (1700–2100)  
+- Forest area modeling and estimation of functional diversity and aboveground biomass in the Sylhet Forest Division
+
 
 ##### Supervised Student Research Projects (R and GIS Analysis)
 Trained and mentored students in  R and ArcGIS techniques, including ArcGIS ModelBuilder and Iteration for large-scale mapping and R-based descriptive statistics. Supported data extraction and processing from sources such as FAOSTAT and Sentinel-5P.
