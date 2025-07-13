@@ -33,8 +33,8 @@ Spatial profile of photosynthesis across the state from a mathematical model, at
 
 
 ### Map showing how many waterlogging incidents were reported in newspapers for each council area in Dhaka and Chittagong the two largest cities in Bangladesh
-<img src="/files/Dhkctg222.jpg" alt="Dhkctg222" style="width: 60%; max-width: 600px;" />
-- [Download Dhkctg222.jpg](/files/Dhkctg222.jpg)
+<img src="/files/Dhkctg222_riverandcitymarked.jpg" alt="Dhkctg222 River and City Marked" style="width: 60%; max-width: 600px;" />  
+- [Download Dhkctg222_riverandcitymarked.jpg](/files/Dhkctg222_riverandcitymarked.jpg)
 
 ### Global Substitutability of Recovered Phosphorus by Country
 A global overview of the potential to replace conventional phosphorus with phosphorus recovered from the waste sector, illustrated using decoupling factors (values are indicated in parentheses for each country).  
@@ -76,10 +76,6 @@ This figure is published in a peer-reviewed scientific article and can be access
 <img src="/files/studyarea.jpg" alt="Study Area Map" style="width: 40%; max-width: 400px;" />
 - [Download Rohingya project Suja sir.jpg](/files/studyarea.jpg)
 
-### Study Area for Sea Turtle Conservation  
-Updated version of the map showing study locations for sea turtle research.  
-<img src="/files/studyarea.jpg" alt="Study Area Map Updated" style="width: 40%; max-width: 400px;" />  
-- [Download studyarea.jpg](/files/studyarea.jpg)
 
 ### Rohingya Refugee Camp Spots    7
 <img src="/files/Rohingya%20project%20Suja%20sir.jpg" alt="Rohingya Project Map" style="width: 40%; max-width: 400px;" />
@@ -97,13 +93,7 @@ Updated version of the map showing study locations for sea turtle research.
 <img src="/files/PProduction_changeinStock.png" alt="PProduction Change in Stock" style="width: 60%; max-width: 600px;" />
 - [Download PProduction_changeinStock.png](/files/PProduction_changeinStock.png)
 
-### Map showing waterlogging incidents with city names and rivers marked  
-Map showing how many waterlogging incidents were reported in newspapers for each council area in Dhaka and Chittagong, with rivers and city names annotated.  
-<img src="/files/Dhkctg222_riverandcitymarked.jpg" alt="Dhkctg222 River and City Marked" style="width: 60%; max-width: 600px;" />  
-- [Download Dhkctg222_riverandcitymarked.jpg](/files/Dhkctg222_riverandcitymarked.jpg)
 
-### Depicting how population growth (circle size) relates to waterlogging events (circle color) across Bangladesh (updated version)  
-Updated version showing population growth between 2001 and 2011.  
 
 
 
