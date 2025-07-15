@@ -28,7 +28,7 @@ author_profile: true
 
 - **B.S. in Environmental Science**, Fall 2018  
   - Cum Laude
-  - Undergraduate thesis: *Understanding the transition from forest ecosystem to agroecosystem through the lens of human appropriation of net primary productivity (HANPP): A historical case study of Bangladesh from 1700–2016*  
+  - Undergraduate thesis: "Understanding the transition from forest ecosystem to agroecosystem through the lens of human appropriation of net primary productivity (HANPP): A historical case study of Bangladesh from 1700–2016"  
   - A publication stemming from this thesis is available [here](https://www.sciencedirect.com/science/article/pii/S0264837719306799)  
 
 
