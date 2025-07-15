@@ -25,15 +25,17 @@ author_profile: true
 ------
 
 ## Teaching and Mentoring
-- Experience as independent instructor. Creating syllabus, course materials, evaluations, and grading
-- Experience as teaching assistant. Creating recitation materials, drills, individual sessions, and grading
-- Coordinated the completion of three undergrad research projects during Summer 2023
-	- Team included one Post-dooctoral resercher, three graduate students, and three undergrad students. Reporting to PI
-	- Trained the students to program in Python
-	- Trained the students in Deep Learning methods for Computer Vision 
-	- Data collection using UAVs: infrarred imaging, aerial photography, and telemetry
-	- Part of an NSF grant Research Undergrad Experience (REU)
+-Supported undergraduate teaching as both an independent instructor and teaching assistant, contributing to syllabus development, grading, recitation materials, and individual student support.
 
+-Contributed to curriculum design for courses such as Biophysics and Sustainable Watershed Management, and supervised student teams in senior design projects.
+
+-Mentored multiple undergraduate students through NSF REU, honors thesis, and independent research projects, offering training in remote sensing, GEE, R, and Python.
+
+-Guided students in processing eddy covariance flux data using EddyPro and Campbell Scientific software, and supported data analysis workflows using Python.
+
+-Coordinated an NSF-funded REU program in Summer 2023, overseeing UAV-based data collection, deep learning for computer vision, and programming instruction.
+
+-Provided hands-on training in GIS and remote sensing, including ArcGIS ModelBuilder, Sentinel-5P analysis, and large-scale land use and environmental datasets.
 
 ------
 
