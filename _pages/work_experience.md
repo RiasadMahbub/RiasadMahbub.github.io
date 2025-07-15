@@ -12,7 +12,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Senior Graduate Research Assistant
-#### University of Arkansas. Department of Biological and Agircultural Engineering 
+#### Department of Biological and Agricultural Engineering, University of Arkansas
 ##### Fayetteville, AR
 ##### January 2021 to December 2025
 
@@ -43,8 +43,8 @@ author_profile: true
 - Guided MODIS EVI analysis for 128 rice fields, helping identify seasonal max and min peaks to understand crop growth dynamics.
 
 
-## Teaching Assitant
-#### University of Arkansas. Department of Biological and Agircultural Engineering 
+## Teaching Assistant
+#### Department of Biological and Agricultural Engineering, University of Arkansas
 ##### Fayetteville, AR
 ##### January 2021 to December 2025
 

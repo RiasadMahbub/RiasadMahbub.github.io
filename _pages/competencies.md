@@ -34,11 +34,6 @@ author_profile: true
 	- Data collection using UAVs: infrarred imaging, aerial photography, and telemetry
 	- Part of an NSF grant Research Undergrad Experience (REU)
 
-------
-
-## Insights and Decision Making
-- Experience translating data analysis to actionable insights for VPs and Directors
-- Experience adjusting results from research for different stakeholders
 
 ------
 

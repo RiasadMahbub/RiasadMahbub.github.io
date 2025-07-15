@@ -28,9 +28,7 @@ I strive to contribute to a more sustainable future for our planet through data-
 
 
 
-<!--
 ### Short Version
-### Long Version
 
 Mr. Riasad is a Ph.D. candidate in the Environmental Dynamics program at the University of Arkansas. In 2018, he received a B.S. degree in Environmental Science from North South University, Dhaka, Bangladesh. He received his M.S. degree in Environmental Dynamics from the University of Arkansas. Currently, he is seeking opportunities in agricultural sustainability, carbon accounting, and environmental monitoring, where he can apply his expertise in coding, geospatial analysis, and data-driven research to support sustainable land management and climate resilience.
 
