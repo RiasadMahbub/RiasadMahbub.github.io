@@ -32,10 +32,15 @@ Spatial profile of photosynthesis across the state from a mathematical model, at
 - [Download mapgppyieldsignificance.jpg](/files/mapgppyieldsignificance.jpg)
 
 ### Global Substitutability of Recovered Phosphorus by Country
+
 A global overview of the potential to replace conventional phosphorus with phosphorus recovered from the waste sector, illustrated using decoupling factors (values are indicated in parentheses for each country).  
-This figure is published in a peer-reviewed scientific article and can be accessed at: [https://doi.org/10.1016/j.resconrec.2019.01.022](https://doi.org/10.1016/j.resconrec.2019.01.022)
-<img src="/files/phosphorus_1.jpg" alt="Global Phosphorus Substitutability" style="width: 60%; max-width: 600px;" />
-- [Download phosphorus_1.jpg](/files/phosphorus_1.jpg)
+This figure is published in a peer-reviewed scientific article and can be accessed at:  
+[https://doi.org/10.1016/j.resconrec.2019.01.022](https://doi.org/10.1016/j.resconrec.2019.01.022)
+
+![Global Phosphorus Substitutability](/files/phosphorus_1.jpg)
+
+[Download phosphorus_1.jpg](/files/phosphorus_1.jpg)
+
 
 ### Map showing how many waterlogging incidents were reported in newspapers for each council area in Dhaka and Chittagong the two largest cities in Bangladesh
 <img src="/files/Dhkctg222_riverandcitymarked.jpg" alt="Dhkctg222 River and City Marked" style="width: 60%; max-width: 600px;" />  

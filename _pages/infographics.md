@@ -25,7 +25,7 @@ Here are some infographics and visualizations:
 <img src="/files/VPMinterannualYieldGPP.png" alt="VPM Interannual Yield GPP" style="width: 60%; max-width: 600px;" />
 - [Download VPMinterannualYieldGPP.png](/files/VPMinterannualYieldGPP.png)
 
-### GPP COMPARISON of Rice Production Regions of Arkansas
+### GPP Comparison of Rice Production Regions of Arkansas
 <img src="/files/regionboxplot.png" alt="Region Boxplot" style="width: 60%; max-width: 600px;" />
 - [Download regionboxplot.png](/files/regionboxplot.png)
 
