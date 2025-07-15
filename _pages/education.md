@@ -23,13 +23,15 @@ author_profile: true
 	- Access link: [https://www.proquest.com/docview/2861133679?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses](https://www.proquest.com/docview/2861133679?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 
 
-## North South University
-#### Dhaka, Bangladesh
+## North South University  
+#### Dhaka, Bangladesh  
 
-- BS in Environmental Science. Fall 2018
-	- Understanding the transition from forest ecosystem to agroecosystem through the lens of human appropriation of net primary productivity (HANPP): a historical case study of Bangladesh from 1700- 2016</q>
-	- Cum Laude
- - 
+- **B.S. in Environmental Science**, Fall 2018  
+  - Cum Laude
+  - Undergraduate thesis: *Understanding the transition from forest ecosystem to agroecosystem through the lens of human appropriation of net primary productivity (HANPP): A historical case study of Bangladesh from 1700–2016*  
+  - A publication stemming from this thesis is available [here](https://www.sciencedirect.com/science/article/pii/S0264837719306799)  
+
+
 ## Workshop Attendance
 
 High Performance Computing Workshop, Arkansas High Performance Computing Center, University of Arkansas, 2024
