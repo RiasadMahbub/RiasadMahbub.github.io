@@ -57,7 +57,7 @@ author_profile: true
 ##### Co-Operation for Resource Efficiency Lab (CORE Lab), Chittagong, Bangladesh  
 ##### Supervisor: [Professor Mohammad Mosharraf Hossain, PhD](https://cu.ac.bd/public_profile/index.php?ein=4167)  
 
-**Research Project: 
+**Research Project:**
 - Developing industrial symbiotic networks  
 - Determining the hotspots of air pollution in Bangladesh
 
