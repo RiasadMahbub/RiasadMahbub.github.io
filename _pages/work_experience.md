@@ -54,11 +54,11 @@ author_profile: true
 
 
 ## Intern  
-##### Co-Operation for Resource Efficiency Lab (CORE Lab)**  
+##### Co-Operation for Resource Efficiency Lab (CORE Lab)  
 ##### North South University**  
-##### Supervisor:** [Professor Mohammad Mosharraf Hossain, PhD](https://cu.ac.bd/public_profile/index.php?ein=4167)  
+##### Supervisor: [Professor Mohammad Mosharraf Hossain, PhD](https://cu.ac.bd/public_profile/index.php?ein=4167)  
 
-**Research Project:**  
+**Research Project: 
 - Developing industrial symbiotic networks  
 - Determining the hotspots of air pollution in Bangladesh
 
@@ -74,9 +74,9 @@ author_profile: true
 
 
 ## Research Assistant  
-#### Decoupling Lab**, Department of Environmental Science and Management  
-##### North South University**  
-##### Supervisor:** [Dr. Mohammad Sujauddin](https://www.northsouth.edu/faculty-members/shls/esm/dr.-mohammad-sujauddin-sud.html), Assistant Professor  
+#### Decoupling Lab, Department of Environmental Science and Management  
+##### North South University
+##### Supervisor: [Dr. Mohammad Sujauddin](https://www.northsouth.edu/faculty-members/shls/esm/dr.-mohammad-sujauddin-sud.html), Assistant Professor  
 
 **Research Project:**  
 - Land use change of Bangladesh (1700–2100)  
