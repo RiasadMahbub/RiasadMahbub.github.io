@@ -54,8 +54,7 @@ author_profile: true
 
 
 ## Intern  
-##### Co-Operation for Resource Efficiency Lab (CORE Lab)  
-##### North South University**  
+##### Co-Operation for Resource Efficiency Lab (CORE Lab), Chittagong, Bangladesh  
 ##### Supervisor: [Professor Mohammad Mosharraf Hossain, PhD](https://cu.ac.bd/public_profile/index.php?ein=4167)  
 
 **Research Project: 
@@ -64,9 +63,8 @@ author_profile: true
 
 
 ## Program Associate  
-#### Bay of Bengal Sea Turtle Program  
+#### Bay of Bengal Sea Turtle Program, Save Our Sea  
 ##### Cox's Bazar and Dhaka, Bangladesh
-##### Save Our Sea  
 
 **Research project:**  
 - Exploring the pattern of sea turtle nesting, beach profile, and land cover  
@@ -74,7 +72,7 @@ author_profile: true
 
 
 ## Research Assistant  
-#### Decoupling Lab, Department of Environmental Science and Management  
+#### Decoupling Lab [https://www.researchgate.net/lab/Decoupling-Lab-Mohammad-Sujauddin], Department of Environmental Science and Management  
 ##### North South University
 ##### Supervisor: [Dr. Mohammad Sujauddin](https://www.northsouth.edu/faculty-members/shls/esm/dr.-mohammad-sujauddin-sud.html), Assistant Professor  
 
