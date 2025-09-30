@@ -39,8 +39,8 @@ How the relationship between rice growing frequency and the residuals from the m
 
 ---
 
-### Planting & Harvest Date Distribution – Violin and Boxplot
-<img src="/files/pd_hd_violin_box.png" alt="Planting Harvest Date Violin Boxplot" style="width: 60%; max-width: 600px;" />
+### Planting & Harvest Date Distribution 
+<img src="/files/combined_violin_lag_hist.png" alt="Planting Harvest Date Violin Boxplot" style="width: 60%; max-width: 600px;" />
 - [Download pd_hd_violin_box.png](/files/pd_hd_violin_box.png)
 
 ### Light Use Efficiency Across Time
