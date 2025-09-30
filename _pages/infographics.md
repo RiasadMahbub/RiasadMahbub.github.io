@@ -71,7 +71,6 @@ How the relationship between rice growing frequency and the residuals from the m
 <img src="/files/corr_plot.png" alt="Correlation Plot" style="width: 60%; max-width: 600px;" />
 - [Download corr_plot.png](/files/corr_plot.png)
 
-This heatmap shows pairwise correlation coefficients among planting/harvest dates, meteorological indicators, and vegetation indices derived from rice field observations. Strong positive correlations (yellow) are observed between phenological indicators such as start of season (SOS), end of season (EOS), and thermal variables (GDD, DD, soil temperature), indicating close seasonal alignment. In contrast, weaker or even slightly negative correlations (darker tones) appear between SOC_mean and most other variables, suggesting limited influence.
+This heatmap shows pairwise correlation coefficients among planting/harvest dates, meteorological indicators, and vegetation indices derived from rice field observations. Strong positive correlations (yellow) are observed between phenological indicators such as start of season (SOS), end of season (EOS), and thermal variables (GDD, DD, soil temperature). In contrast, weaker or even slightly negative correlations (darker tones) appear between SOC_mean and most other variables, suggesting limited influence.
 
-The plot was created using ggplot2 in R, which provides flexible tools for visualizing correlation matrices with customized color scales, annotations, and triangular layouts. By leveraging ggplot2 aesthetics, the figure clearly highlights variable interdependencies that are important for modeling rice growth dynamics.
-
+The plot was created using ggplot2 in R, which provides flexible tools for visualizing correlation matrices with customized color scales, annotations, and triangular layouts.
