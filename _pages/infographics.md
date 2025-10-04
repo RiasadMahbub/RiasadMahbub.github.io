@@ -98,3 +98,28 @@ All inputs are preprocessed and fed into the predictive model, which forecasts P
 
 The project concludes with an analysis of the predicted GPP, exploring its primary drivers and determining its correlation with various climatological, agronomic, and plant status variables.
 logical, agronomic, and plant status variables.
+
+### Conceptual Framework for Ecosystem Flux Scaling
+<img src="/files/AllEditedImagesSitetoStateScale600.png" alt="Conceptual Framework Site to State Scale" style="width: 60%; max-width: 600px;" />
+- [Download AllEditedImagesSitetoStateScale600.png](/files/AllEditedImagesSitetoStateScale600.png)
+
+**Caption:**  
+Conceptual framework illustrating the transition from site-level, high-frequency Eddy Covariance (EC) measurements of ecosystem fluxes (e.g., CH₄, NEE) to regional, state-scale High-Density (HD) predictive maps, leveraging multi-source environmental and agronomic data.
+
+**Detailed Description:**  
+
+- **Site-Scale Measurement:**  
+  Eddy Covariance (EC) sensors collect high-frequency (20 Hz) ground-truth data on gas exchange, specifically methane (CH₄) flux and Net Ecosystem Exchange (NEE), directly above flooded agricultural systems.  
+
+- **Environmental Drivers:**  
+  Flooding and elevated soil temperatures create anaerobic soil conditions that promote methanogen activity, generating methane flux detected by the EC system.  
+
+- **Predictor Integration:**  
+  The model incorporates three categories of predictors:  
+  - *Climatological* (Temperature, Precipitation)  
+  - *Plant Status* (EVI, NDVI)  
+  - *Agronomic* (Cultivar, Planting Date)  
+  to capture complex site-scale relationships.  
+
+- **Model Output:**  
+  Predictor variables are integrated into state-scale predictive models, scaling site-level measurements to generate High-Density (HD) maps of ecosystem fluxes for regional analysis.  
