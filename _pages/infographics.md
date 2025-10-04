@@ -77,7 +77,7 @@ The plot was created using ggplot2 in R, which provides flexible tools for visua
 
 
 ### Project Workflow and Predictive Modeling Framework for Spatial GPP, Growing Season Length, and CH₄
-<img src="/files/MethodologyProcessFlowDiagram.png" alt="Methodology Process Flow Diagram" style="width: 60%; max-width: 600px;" />
+<img src="/files/MethodologyProcessFlowDiagram.png" alt="Methodology Process Flow Diagram" style="width: 100%; max-width: 600px;" />
 - [Download MethodologyProcessFlowDiagram.png](/files/MethodologyProcessFlowDiagram.png)
 
 #### Flux in Arkansas Rice Paddies
@@ -100,7 +100,7 @@ The project concludes with an analysis of the predicted GPP, exploring its prima
 logical, agronomic, and plant status variables.
 
 ### Conceptual Framework for Ecosystem Flux Scaling
-<img src="/files/AllEditedImagesSitetoStateScale600.png" alt="Conceptual Framework Site to State Scale" style="width: 60%; max-width: 600px;" />
+<img src="/files/AllEditedImagesSitetoStateScale600.png" alt="Conceptual Framework Site to State Scale" style="width: 100%; max-width: 600px;" />
 - [Download AllEditedImagesSitetoStateScale600.png](/files/AllEditedImagesSitetoStateScale600.png)
 
 **Caption:**  
