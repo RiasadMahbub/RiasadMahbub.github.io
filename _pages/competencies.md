@@ -88,3 +88,19 @@ author_profile: true
 - Tensorflow
  
 
+#### Google Earth Engine Workflow  
+**Mapping Crop Rotation and Monoculture Patterns**
+
+This Google Earth Engine script identifies and visualizes crop rotation patterns using the USDA Cropland Data Layer (CDL) from 2008–2020. It employs the **agkit4ee** module to detect monoculture and rotation sequences (e.g., rice–soybean, corn–soybean) for major crops such as rice, corn, soybean, cotton, and wheat. The resulting output provides color-coded map layers showing where each cropping pattern occurs across the agricultural landscape.
+
+🔗 [Link to the Code](https://code.earthengine.google.com/222608fa0908401d18dcf4caa4b40ee5)
+ 
+**Modeling 2020 Crop Frequency and Intensity Across Arkansas**  
+
+This Google Earth Engine script models and visualizes the 2020 spatial distribution and frequency of major crops across Arkansas using multi-year data (2008–2020) from the USDA Cropland Data Layer (CDL). Using the **agkit4ee** module, it estimates occurrence frequencies for corn, cotton, rice, soybean, wheat, and double-cropped wheat–soybean systems.  
+
+The workflow produces color-coded frequency maps, generates histograms of rice distribution, and exports each crop’s 2020 intensity layer to Google Drive as GeoTIFFs. These outputs help assess spatial cropping intensity and dominant crop patterns across the state.  
+
+🔗 [Link to the Code](https://code.earthengine.google.com/4435fb668d82cfe4c54599b3bfb3574a)
+
+
