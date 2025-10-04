@@ -11,7 +11,7 @@ Here are some infographics and visualizations:
 
 
 
-### Relationship between Yield and Gross Primary Productivity (GPP)
+# Relationship between Yield and Gross Primary Productivity (GPP)
 <img src="/files/VPMyieldArea.png" alt="VPM Yield Area" style="width: 60%; max-width: 600px;" />
 - [Download VPMyieldArea.png](/files/VPMyieldArea.png)
 
@@ -21,7 +21,7 @@ Here are some infographics and visualizations:
 
 
 
-### Interannual Trends of Yield and GPP
+# Interannual Trends of Yield and GPP
 <img src="/files/VPMinterannualYieldGPP.png" alt="VPM Interannual Yield GPP" style="width: 60%; max-width: 600px;" />
 - [Download VPMinterannualYieldGPP.png](/files/VPMinterannualYieldGPP.png)
 
@@ -30,7 +30,7 @@ Here are some infographics and visualizations:
 - [Download regionboxplot.png](/files/regionboxplot.png)
 
 
-### LSWI Influence on GPP across Different Level of Clay Content
+# LSWI Influence on GPP across Different Level of Clay Content
 Histogram of the clay content of the rice fields in Arkansas
 How the relationship between water status and rice plant photosynthesis changes across clay content
 How the relationship between rice growing frequency and the residuals from the model of water status (LSWI) and rice plant photosynthesis changes across clay content
