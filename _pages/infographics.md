@@ -71,22 +71,22 @@ How the relationship between rice growing frequency and the residuals from the m
 <img src="/files/corr_plot.png" alt="Correlation Plot" style="width: 60%; max-width: 600px;" />
 - [Download corr_plot.png](/files/corr_plot.png)
 
-This heatmap shows pairwise correlation coefficients among planting/harvest dates, meteorological indicators, and vegetation indices derived from rice field observations. Strong positive correlations (yellow) are observed between phenological indicators such as start of season (SOS), end of season (EOS), and thermal variables (GDD, DD, soil temperature). In contrast, weaker or even slightly negative correlations (darker tones) appear between SOC_mean and most other variables, suggesting limited influence.
+This correlation shows pairwise correlation coefficients among planting/harvest dates, meteorological indicators, and vegetation indices derived from rice field observations. Strong positive correlations (yellow) are observed between phenological indicators such as start of season (SOS), end of season (EOS), and thermal variables (Growing degree day, soil temperature). In contrast, weaker or even slightly negative correlations (darker tones) appear between average soil organic carbon and most other variables, suggesting limited influence.
 
 The plot was created using ggplot2 in R, which provides flexible tools for visualizing correlation matrices with customized color scales, annotations, and triangular layouts.
 
 
 ### Project Workflow and Predictive Modeling Framework for Spatial GPP, Growing Season Length, and CH₄
-<img src="/files/MethodologyProcessFlowDiagram.png" alt="Methodology Process Flow Diagram" style="width: 100%; max-width: 600px;" />
+<img src="/files/MethodologyProcessFlowDiagram.png" alt="Methodology Process Flow Diagram" style="width: 100%; max-width: 1000px;" />
 - [Download MethodologyProcessFlowDiagram.png](/files/MethodologyProcessFlowDiagram.png)
 
 #### Flux in Arkansas Rice Paddies
-This project employs a dual-scale workflow to estimate annual methane (CH₄) flux and predict key agricultural metrics: Phenological Date (PD), Harvest Date (HD), and Gross Primary Productivity (GPP).
+This project employs a four data sources (ground truth eddy covariance data, gridded environmental spatial data, satellite reflectance data, and rice land cover data) to estimate state scale methane (CH₄) flux and predict key agricultural metrics: Phenological Date (PD), Harvest Date (HD), and Gross Primary Productivity (GPP).
 
 The framework is divided into two phases:
 
-**1. Site-Scale Validation and CH₄ Estimation (Purple Domain):**  
-This phase focuses on collecting high-fidelity ground truth data from specific sites (Eddy Covariance flux, PD/HD, climatology). The data is preprocessed, gap-filled, and used primarily to calculate the annual CH₄ flux and to provide essential validation inputs for the broader model.
+**1. Site-Scale Validation and CH₄ and GPP Estimation (Purple Domain):**  
+This phase focuses on collecting ground truth data from specific sites (Eddy Covariance flux, PD/HD, climatology). The data is preprocessed, gap-filled, and used primarily to calculate the annual CH₄ flux and GPP and to provide essential validation inputs for the broader model.
 
 **2. State-Scale Predictive Modeling (Blue Domain):**  
 This phase integrates three main data streams:  
@@ -94,17 +94,17 @@ This phase integrates three main data streams:
 - **Spatial Datasets** (Temperature, Soil, Agronomic data)  
 - **Rice Cropland Data Layer**  
 
-All inputs are preprocessed and fed into the predictive model, which forecasts PD, HD, and GPP across the state. The model’s results are validated against the ground truth PD/HD data.
+All inputs are preprocessed and fed into the predictive model at the site scale, which forecasts PD, HD, and GPP across the state. The model’s results are validated against the ground truth PD/HD data.
 
 The project concludes with an analysis of the predicted GPP, exploring its primary drivers and determining its correlation with various climatological, agronomic, and plant status variables.
 logical, agronomic, and plant status variables.
 
 ### Conceptual Framework for Ecosystem Flux Scaling
-<img src="/files/AllEditedImagesSitetoStateScale600.png" alt="Conceptual Framework Site to State Scale" style="width: 100%; max-width: 600px;" />
+<img src="/files/AllEditedImagesSitetoStateScale600.png" alt="Conceptual Framework Site to State Scale" style="width: 100%; max-width: 1000px;" />
 - [Download AllEditedImagesSitetoStateScale600.png](/files/AllEditedImagesSitetoStateScale600.png)
 
 **Caption:**  
-Conceptual framework illustrating the transition from site-level, high-frequency Eddy Covariance (EC) measurements of ecosystem fluxes (e.g., CH₄, NEE) to regional, state-scale High-Density (HD) predictive maps, leveraging multi-source environmental and agronomic data.
+Conceptual framework illustrating the upscaling from site-level, high-frequency Eddy Covariance (EC) measurements of ecosystem fluxes (e.g., CH₄, NEE) to regional, state-scale GPP and growing season length maps, leveraging multi-source environmental and agronomic data.
 
 **Detailed Description:**  
 
@@ -115,11 +115,12 @@ Conceptual framework illustrating the transition from site-level, high-frequency
   Flooding and elevated soil temperatures create anaerobic soil conditions that promote methanogen activity, generating methane flux detected by the EC system.  
 
 - **Predictor Integration:**  
-  The model incorporates three categories of predictors:  
+  The model incorporates three categories of predictors from satellite and gridded environmental data:  
   - *Climatological* (Temperature, Precipitation)  
-  - *Plant Status* (EVI, NDVI)  
+  - *Plant Status* (EVI, NDVI)
+  - *Water status Status* (LSWI)
   - *Agronomic* (Cultivar, Planting Date)  
   to capture complex site-scale relationships.  
 
 - **Model Output:**  
-  Predictor variables are integrated into state-scale predictive models, scaling site-level measurements to generate High-Density (HD) maps of ecosystem fluxes for regional analysis.  
+  Predictor variables are integrated into state-scale predictive models, scaling site-level measurements to generate maps of planting dates, GPP, and CH4 flux. 
