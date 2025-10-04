@@ -74,3 +74,27 @@ How the relationship between rice growing frequency and the residuals from the m
 This heatmap shows pairwise correlation coefficients among planting/harvest dates, meteorological indicators, and vegetation indices derived from rice field observations. Strong positive correlations (yellow) are observed between phenological indicators such as start of season (SOS), end of season (EOS), and thermal variables (GDD, DD, soil temperature). In contrast, weaker or even slightly negative correlations (darker tones) appear between SOC_mean and most other variables, suggesting limited influence.
 
 The plot was created using ggplot2 in R, which provides flexible tools for visualizing correlation matrices with customized color scales, annotations, and triangular layouts.
+
+
+### Project Workflow and Predictive Modeling Framework for Spatial GPP, Growing Season Length, and CH₄
+<img src="/files/MethodologyProcessFlowDiagram.png" alt="Methodology Process Flow Diagram" style="width: 60%; max-width: 600px;" />
+- [Download MethodologyProcessFlowDiagram.png](/files/MethodologyProcessFlowDiagram.png)
+
+#### Flux in Arkansas Rice Paddies
+This project employs a dual-scale workflow to estimate annual methane (CH₄) flux and predict key agricultural metrics: Phenological Date (PD), Harvest Date (HD), and Gross Primary Productivity (GPP).
+
+The framework is divided into two phases:
+
+**1. Site-Scale Validation and CH₄ Estimation (Purple Domain):**  
+This phase focuses on collecting high-fidelity ground truth data from specific sites (Eddy Covariance flux, PD/HD, climatology). The data is preprocessed, gap-filled, and used primarily to calculate the annual CH₄ flux and to provide essential validation inputs for the broader model.
+
+**2. State-Scale Predictive Modeling (Blue Domain):**  
+This phase integrates three main data streams:  
+- **Satellite Data** (Sentinel, Landsat, MODIS) to derive vegetation indices  
+- **Spatial Datasets** (Temperature, Soil, Agronomic data)  
+- **Rice Cropland Data Layer**  
+
+All inputs are preprocessed and fed into the predictive model, which forecasts PD, HD, and GPP across the state. The model’s results are validated against the ground truth PD/HD data.
+
+The project concludes with an analysis of the predicted GPP, exploring its primary drivers and determining its correlation with various climatological, agronomic, and plant status variables.
+logical, agronomic, and plant status variables.
