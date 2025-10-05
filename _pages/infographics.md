@@ -15,7 +15,7 @@ Here are some infographics and visualizations:
 <img src="/files/VPMyieldArea.png" alt="VPM Yield Area" style="width: 60%; max-width: 600px;" />
 - [Download VPMyieldArea.png](/files/VPMyieldArea.png)
 
-### GPP Temporal Dynamics
+### Time Series plot of GPP using three methods
 <img src="/files/vpmtemporalgpp2.png" alt="Temporal GPP VPM" style="width: 60%; max-width: 600px;" />
 - [Download vpmtemporalgpp2.png](/files/vpmtemporalgpp2.png)
 
@@ -34,7 +34,7 @@ Here are some infographics and visualizations:
 Histogram of the clay content of the rice fields in Arkansas
 How the relationship between water status and rice plant photosynthesis changes across clay content
 How the relationship between rice growing frequency and the residuals from the model of water status (LSWI) and rice plant photosynthesis changes across clay content
-<img src="/files/ricelswi.png" alt="Rice LSWI" style="width: 60%; max-width: 600px;" />
+<img src="/files/ricelswi.png" alt="Rice LSWI" style="width: 100%; max-width: 1000px;" />
 - [Download ricelswi.png](/files/ricelswi.png)
 
 ---
@@ -59,7 +59,7 @@ How the relationship between rice growing frequency and the residuals from the m
 <img src="/files/LUEbiophysical.png" alt="LUE Biophysical" style="width: 60%; max-width: 600px;" />
 - [Download LUEbiophysical.png](/files/LUEbiophysical.png)
 
-### GPP and VI Relationship
+### Relationship between GPP and Vegetation Indices 
 <img src="/files/GPPVI_dual_axis.png" alt="GPP VI Dual Axis" style="width: 60%; max-width: 600px;" />
 - [Download GPPVI_dual_axis.png](/files/GPPVI_dual_axis.png)
 
@@ -67,7 +67,7 @@ How the relationship between rice growing frequency and the residuals from the m
 <img src="/files/harmonic_fit_Field_30.png" alt="Harmonic Fit Field 30" style="width: 60%; max-width: 600px;" />
 - [Download harmonic_fit_Field_30.png](/files/harmonic_fit_Field_30.png)
 
-### Correlation Plot
+### Correlation Plot 
 <img src="/files/corr_plot.png" alt="Correlation Plot" style="width: 60%; max-width: 600px;" />
 - [Download corr_plot.png](/files/corr_plot.png)
 
@@ -124,3 +124,12 @@ Conceptual framework illustrating the upscaling from site-level, high-frequency 
 
 - **Model Output:**  
   Predictor variables are integrated into state-scale predictive models, scaling site-level measurements to generate maps of planting dates, GPP, and CH4 flux. 
+
+## Conceptual Figure: Vegetation Phenological Stages
+<img src="/files/PhenologicalStages.png" alt="Phenological Stages Conceptual Figure" style="width: 100%; max-width: 1000px;" />
+- [Download PhenologicalStages.png](/files/PhenologicalStages.png)
+
+**Figure Description:**  
+The figure illustrates different terminologies used to describe vegetation phenology and how these stages align along the plant growth curve throughout the growing season. The curve represents the general pattern of plant development, from emergence or green-up to maturity and senescence, typically observed in a single cropping system (this curve does not hold true for double-cropping systems).  
+Key phenological stages—such as **Start of Season (SOS)**, **Green-Up Date (GUD)**, **Peak of Season (POS)**, and **End of Season (EOS)**—mark transitions in vegetation activity and help visualize how plant growth progresses through time.
+
