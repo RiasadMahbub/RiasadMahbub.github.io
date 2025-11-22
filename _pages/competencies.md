@@ -33,8 +33,6 @@ author_profile: true
 
 -Guided students in processing eddy covariance flux data using EddyPro and Campbell Scientific software, and supported data analysis workflows using Python.
 
--Coordinated an NSF-funded REU program in Summer 2023, overseeing UAV-based data collection, deep learning for computer vision, and programming instruction.
-
 -Provided hands-on training in GIS and remote sensing, including ArcGIS ModelBuilder, Sentinel-5P analysis, and large-scale land use and environmental datasets.
 
 ------

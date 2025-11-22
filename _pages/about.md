@@ -9,10 +9,10 @@ redirect_from:
 ---
 {% include base_path %}
 
-Riasad’s current research focuses on improving the understanding the landscape prediction of methane emissions and photosynthesis in rice crops across Arkansas. He creates detailed maps showing how long the growing season lasts and how much carbon rice plants take in. His work also looks at which methods and measurements work best for estimating crop growth and season length at specific sites. Additionally, Riasad is engaged in post-processing of eddy covariance data and the calibration of related instruments. He is particularly interested in applying his skills in data-centric analysis and environmental remote sensing to global agricultural development projects. He is especially interested in applying his skills in data analysis, satellite technology, and systems thinking to advance sustainable agriculture, carbon management, and environmental solutions, aligning with his broader interests in sustainability, GIS, and data-driven policy.
+My research focuses on modeling methane emissions and photosynthetic activity in Arkansas rice systems to improve landscape-scale predictions of carbon and greenhouse gas dynamics. I develop high-resolution maps of growing-season length and carbon uptake, evaluate methods for estimating crop phenology, and refine eddy covariance data through post-processing and instrument calibration. My work combines environmental modeling, remote sensing, and data science to better understand agricultural systems. I’m particularly interested in applying these skills—satellite analytics, geospatial modeling, and quantitative problem-solving—to support sustainable agriculture, carbon management, and data-driven environmental decision-making.
 
 ## Professional Goals
-I strive to contribute to a more sustainable future through data-driven research and analysis. Studying environmental science has deepened my understanding of global challenges and equipped me with the tools to address them. I enjoy work that involves coding, problem-solving, and developing innovative solutions, and I am particularly passionate about applying mapping and geospatial analysis—using satellite indices, land cover data, and crop information—to evaluate the environmental impacts of agriculture and industry. I am seeking opportunities in agricultural sustainability, carbon accounting, and environmental monitoring, where I can connect farming practices to planetary boundary pressures and advance data-informed land management strategies. With my experience in data analysis and environmental research, I am eager to apply my skills to a variety of sustainability-focused roles, including quantifying ecological footprints, performing life cycle assessments, evaluating environmental and social impacts of products, and translating climate science into actionable solutions for policy and sustainable development.
+I aim to use data-driven analysis to advance sustainability, climate solutions, and responsible land management. I enjoy work that involves coding, modeling, and designing practical tools to evaluate environmental impacts. I am especially passionate about geospatial and satellite-based analysis using vegetation indices, land-cover data, and crop information to quantify how agriculture and industry influence carbon, methane, and broader ecosystem processes. I am seeking roles in agricultural sustainability, carbon accounting, environmental monitoring, and geospatial analytics where I can connect field practices to large-scale environmental outcomes. With my background in environmental research and data science, I am well-prepared to support work in ecological footprint, life-cycle assessment, ESG impact evaluation, and translating climate and carbon data into actionable insights for policy and sustainable development.
 
 
 ------
@@ -25,12 +25,6 @@ I strive to contribute to a more sustainable future through data-driven research
 - Ecological Modeling 
 
 ------
-
-
-
-### Short Version
-
-Riasad is a Ph.D. candidate in the Environmental Dynamics program at the University of Arkansas. In 2018, he received a B.S. degree in Environmental Science from North South University, Dhaka, Bangladesh. He received his M.S. degree in Environmental Dynamics from the University of Arkansas. Currently, he is seeking opportunities in agricultural sustainability, carbon accounting, and environmental monitoring, where he can apply his expertise in coding, geospatial analysis, and data-driven research to support sustainable land management and climate resilience.
 
 ------
 
