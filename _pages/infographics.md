@@ -60,7 +60,7 @@ How the relationship between rice growing frequency and the residuals from the m
 - [Download LUEbiophysical.png](/files/LUEbiophysical.png)
 
 ### Relationship between GPP and Vegetation Indices 
-<img src="/files/GPPVI_dual_axis.png" alt="GPP VI Dual Axis" style="width: 60%; max-width: 600px;" />
+<img src="/files/GPPVI_dual_axis_title_eq.png" alt="GPP VI Dual Axis" style="width: 60%; max-width: 600px;" />
 - [Download GPPVI_dual_axis.png](/files/GPPVI_dual_axis_title_eq.png)
 
 ### Harmonic Fit of kNDVI index from One Rice Field Analysis
