@@ -14,7 +14,7 @@ author_profile: true
 ## University of Arkansas
 #### Fayetteville, AR
 
-- **Ph.D. in Environmental Dynamics**, Fall 2025 (Expected)  
+- **Ph.D. in Environmental Dynamics**, Spring 2026  
 	- Advisor: [Dr. Benjamin Runkle](https://runkle.uark.edu/)  
 	- Dissertation Title: "Predicting spatial information of rice growing season length and gross primary productivity from space and site-scale instruments"  
 - **M.Sc. in Environmental Dynamics**, Spring 2023  

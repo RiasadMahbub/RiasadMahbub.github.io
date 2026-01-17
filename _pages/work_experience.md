@@ -14,7 +14,7 @@ author_profile: true
 ## Senior Graduate Research Assistant
 #### Department of Biological and Agricultural Engineering, University of Arkansas
 ##### Fayetteville, AR
-##### January 2021 to December 2025
+##### January 2021 to May 2026
 
 - Research focused on Satellite image analysis of rice photosynthesis
 - Worked on research projects and publications related to 
