@@ -83,7 +83,21 @@ author_profile: true
 
 #### Deep Learning
 - PyTorch
-- Tensorflow
+- TensorFlow
+
+------
+
+#### Published Data
+
+### Cumulative GPP Data of Rice in Arkansas (500m)  
+**Authors:** Riasad Bin Mahbub (Contact), Michele Reba, Benjamin Runkle  
+
+**Overview:**  
+High-resolution dataset of Arkansas rice regions (2008–2020) including: crop frequency, county shapefiles, environmental variables (temperature, PAR), MODIS indices (EVI, LSWI), and GPP modeled with VPM. Includes six rice ecological zones.  
+
+🔗 [Access Dataset](https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983)  
+
+------
  
 
 #### Google Earth Engine Workflow  
