@@ -40,7 +40,8 @@ I aim to apply quantitative and geospatial analysis to support environmental dec
 ## Scientific Contributions
 - Published 5 papers (3 as first author, 2 as second author)  
 - 66 citations, h-index 4, i10-index 3 since 2021.
-- Presented research at 8 conferences
+- Presented research at 8 conferences.
+
 ------
 
 
