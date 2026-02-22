@@ -16,15 +16,21 @@ author_profile: true
 ##### Fayetteville, AR
 ##### January 2021 to May 2026
 
-- Research focused on Satellite image analysis of rice photosynthesis
-- Worked on research projects and publications related to 
-	- Remote Sensing
-	- Carbon Flux Measurement
-	- Geospatial Analysis
-- Field data collection and Experimental studies include
-	- Calibration of 7500 sensor
-	- Calibration of 7700 sensor
-	- Aid in data collection and installation from Campbell Scientific datalogger sensor 
+- Conducted research on **satellite image analysis of rice photosynthesis** to improve understanding of crop productivity.
+- Worked on research projects and publications related to:
+  - **Remote Sensing**
+  - **Carbon Flux Measurement**
+  - **Geospatial Analysis**
+- Developed **GPP (gross primary productivity) maps** and performed **gap-filling and partitioning** of net ecosystem exchange (NEE) data to analyze carbon uptake and release at the landscape scale.
+- Collected and processed field data:
+  - **Calibrated LI-7500 and LI-7700 sensors** to ensure accurate measurements.
+  - **Compiled and standardized field measurements for AmeriFlux**, supporting large-scale carbon and climate research.
+  - Assisted with **installation and maintenance of Campbell Scientific datalogger sensors**.
+- Conducted **field experiments measuring methane emissions from fish in rice fields**, contributing to ecosystem-level greenhouse gas studies.
+- **Funding:**  
+  - **NASA Carbon Monitoring System (CMS) Grant 80NSSC21K1002**  
+  - **U.S. Geological Survey Agreement G20AC00448**  
+  - **NSF CBET CAREER Award #1752083**
 
 ###### Undergraduate Research Mentorship and Supervision  
 ##### Grecia Aida Magdaleno Hernandez (Summer 2022)
