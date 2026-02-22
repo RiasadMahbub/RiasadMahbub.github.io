@@ -16,37 +16,28 @@ author_profile: true
 ##### Fayetteville, AR
 ##### January 2021 to May 2026
 
-- Conducted research on **satellite image analysis of rice photosynthesis** to improve understanding of crop productivity.
+- Conducted research on satellite image analysis of rice photosynthesis to improve understanding of crop productivity.
 - Worked on research projects and publications related to:
-  - **Remote Sensing**
-  - **Carbon Flux Measurement**
-  - **Geospatial Analysis**
-- Developed **GPP (gross primary productivity) maps** and performed **gap-filling and partitioning** of net ecosystem exchange (NEE) data to analyze carbon uptake and release at the landscape scale.
+  - Remote Sensing
+  - Carbon Flux Measurement
+  - Geospatial Analysis
+- Developed GPP (gross primary productivity) maps and performed gap-filling and partitioning of net ecosystem exchange (NEE) data to analyze carbon uptake and release at the landscape scale.
 - Collected and processed field data:
-  - **Calibrated LI-7500 and LI-7700 sensors** to ensure accurate measurements.
-  - **Compiled and standardized field measurements for AmeriFlux**, supporting large-scale carbon and climate research.
-  - Assisted with **installation and maintenance of Campbell Scientific datalogger sensors**.
-- Conducted **field experiments measuring methane emissions from fish in rice fields**, contributing to ecosystem-level greenhouse gas studies.
-- **Funding:**  
-  - **NASA Carbon Monitoring System (CMS) Grant 80NSSC21K1002**  
-  - **U.S. Geological Survey Agreement G20AC00448**  
-  - **NSF CBET CAREER Award #1752083**
+  - Calibrated LI-7500 and LI-7700 sensors to ensure accurate measurements.
+  - Compiled and standardized field measurements for AmeriFlux, supporting large-scale carbon and climate research.
+  - Assisted with installation and maintenance of Campbell Scientific datalogger sensors.
+- Conducted field experiments measuring methane emissions from fish in rice fields, contributing to ecosystem-level greenhouse gas studies.
+- Funding:  
+  - NASA Carbon Monitoring System (CMS) Grant 80NSSC21K1002
+  - U.S. Geological Survey Agreement G20AC00448  
+  - NSF CBET CAREER Award #1752083
 
-###### Undergraduate Research Mentorship and Supervision  
-##### Grecia Aida Magdaleno Hernandez (Summer 2022)
-- Mentored a U.S. National Science Foundation REU (Research Experiences for Undergraduates) student on analyzing furrow and conventional irrigated rice systems using Google Earth Engine for remote sensing data extraction and R for statistical descriptive analysis.
+###### Undergraduate Research Mentorship and Supervision
 
-##### Katie Skiles (2021-2022)
-- Mentored undergraduate honors thesis student Katie Skiles in using Google Earth Engine to extract and analyze MODIS GPP and NDVI data through custom scripting and cloud masking techniques. Thesis available at: https://scholarworks.uark.edu/baeguht/95/
-
-##### Maria De Los Angeles Vergara Murillo (2022-2024) and Kevin Durden (2024-2025)
-- Guided the use of Eddy Pro software for converting high-frequency (20 Hz) eddy covariance data to 30-minute flux data.
-- Taught data conversion techniques using Campbell Scientific datalogger software (TOA5 ASCII to CSV).
-- Provided training in Python for data plotting and analysis, with regular weekly check-ins and feedback.
-
-##### Conor Germann (2022-2023)
-- Mentored in organizing soil chemistry, methane/carbon flux, meteorological data, and metadata by decoding instrument output structures.
-- Guided MODIS EVI analysis for 128 rice fields, helping identify seasonal max and min peaks to understand crop growth dynamics.
+- **Grecia Aida Magdaleno Hernandez (Summer 2022):** Mentored NSF REU student on analyzing rice systems using Google Earth Engine and R.  
+- **Katie Skiles (2021–2022):** Supervised honors thesis on MODIS GPP and NDVI analysis; thesis available [here](https://scholarworks.uark.edu/baeguht/95/).  
+- **Maria De Los Angeles Vergara Murillo (2022–2024) & Kevin Durden (2024–2025):** Guided processing of eddy covariance data, Campbell Scientific dataloggers, and Python-based data analysis.  
+- **Conor Germann (2022–2023):** Mentored on soil chemistry, flux, and meteorological data organization; assisted with MODIS EVI analysis for rice fields.  
 
 
 ## Teaching Assistant
