@@ -42,13 +42,13 @@ author_profile: true
 -->
 
 ## Manuscripts Under Preparation
-**Mahbub, R. B.**, Reba, M., & Runkle, B. R., <q>Evaluating the potential of vegetation indices and in-situ data in parameterizing the LUE to improve the prediction of GPP</q>. Planned submission: Environmental Research Letters, 2025.
+**Mahbub, R. B.**, Reba, M., & Runkle, B. R., <q>Evaluating the potential of vegetation indices and in-situ data in parameterizing the LUE to improve the prediction of GPP</q>. Planned submission: Environmental Research Letters, 2026.
 
-**Mahbub, R. B.**, Moreno-Garcia, B., Peter, B. G., Reba, M., & Runkle, B., <q>Predicting planting and harvesting date of rice in Arkansas using satellite images and machine learning algorithms</q>. Planned submission: Remote Sensing of Environment, 2025.
+**Mahbub, R. B.**, Moreno-Garcia, B., Peter, B. G., Reba, M., & Runkle, B., <q>Predicting planting and harvesting date of rice in Arkansas using satellite images and machine learning algorithms</q>. Planned submission: Remote Sensing of Environment, 2026.
 
-Carroll, S. R., Moreno-Garcia, B., **Mahbub, R. B.**, Reba, M., & Runkle, B., <q>Fish cultivation in fallow season rice fields: effects on CH₄ emissions</q>. Planned submission: Agriculture, Ecosystems & Environment (AEE), 2025.
+Carroll, S. R., Moreno-Garcia, B., **Mahbub, R. B.**, Reba, M., & Runkle, B., <q>Fish cultivation in fallow season rice fields: effects on CH₄ emissions</q>. Planned submission: Agriculture, Ecosystems & Environment (AEE), 2026.
 
-Richardson, W. P., Koparan, C., **Mahbub, R.**, Carroll, S., Guan, K., & Runkle, B. R. K., <q>Preliminary evaluation of an open-source wide-range multispectral sensor for precision agriculture</q>. Planned submission: [Journal TBD], 2025.
+Richardson, W. P., Koparan, C., **Mahbub, R.**, Carroll, S., Guan, K., & Runkle, B. R. K., <q>Preliminary evaluation of an open-source wide-range multispectral sensor for precision agriculture</q>. Planned submission: [Journal TBD], 2026.
 
 ## Conferences and Talks
 **Mahbub, R. B.**, Reba, M. L., Tang, R., & Runkle, B. R. K. (2024). Inferring spatial information of rice growing season length and gross primary productivity from space and site-scale instruments. ASABE State Section Meeting, Fayetteville, Arkansas.
