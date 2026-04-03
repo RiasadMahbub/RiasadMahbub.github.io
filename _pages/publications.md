@@ -29,6 +29,14 @@ author_profile: true
 
 -**Mahbub, R. B.**, Ahmed, N., Rahman, S., Hossain, M. M., & Sujauddin, M., <q>Human appropriation of net primary production in Bangladesh, 1700–2100</q>. Land Use Policy, Vol. 87, 104067, 2019. DOI: https://doi.org/10.1016/j.landusepol.2019.104067 (IF: 6.189) (ELSEVIER)
 
+## Manuscripts Under Review
+
+- Carroll, S. R., Moreno-Garcia, B., Mahbub, R. B., Reba, M., & Runkle, B. R. (2026). Fish cultivation in fallow season rice fields: effects on CH₄ emissions. Submitted to *Agriculture and Forest Meteorology*.
+
+- Ranniku, R., Moreno-Garcia, B., Osoko, T. O., Richardson, W. P., Mahbub, R. B., Gomez Prats, M., Pimentel, J. P., Adviento-Borbe, M. A., Reba, M., & Runkle, B. R. K. (2026). Comparative analysis of methane flux measurement techniques in rice fields under contrasting water management. Submitted to *Agriculture and Forest Meteorology*.
+
+- Mahbub, R. B., Tang, R., Moreno-Garcia, B., Gomez Prats, M., Reba, M., Peter, B. G., & Runkle, B. R. K. (2026). Evaluating phenological and machine learning approaches for estimating field-scale rice planting and harvest dates in Arkansas. Submitted to *Science of Remote Sensing*.
+
 <!--
 ### Published
 ### Accepted

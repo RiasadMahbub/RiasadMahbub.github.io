@@ -18,12 +18,12 @@ I aim to apply quantitative and geospatial analysis to support environmental dec
 
 ## Research Interests
 - Geographic Information System
-- Eddy Covariance
 - Remote Sensing
 - Environmental Data Science and Machine learning
 - Ecological Modeling 
 - Social Ecology
 - Environmental Policy and Sustainability
+- Life Cycle Assessment and Ecological footprint
 
 ------
 
