@@ -99,7 +99,7 @@ I am actively seeking positions in **agricultural sustainability**, **carbon and
 <h2>Scientific Contributions</h2>
 <div class="stat-row">
   <div class="stat-box">
-    <span class="stat-num">5</span>
+    <span class="stat-num">7</span>
     <span class="stat-label">Publications</span>
   </div>
   <div class="stat-box">
