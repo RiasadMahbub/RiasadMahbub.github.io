@@ -363,3 +363,215 @@ author_profile: true
   <p class="cp-data-desc">Models and visualizes the 2020 spatial distribution and frequency of corn, cotton, rice, soybean, wheat, and double-cropped wheat–soybean systems. Produces color-coded frequency maps, rice distribution histograms, and exports per-crop intensity layers to Google Drive as GeoTIFFs.</p>
   <a class="cp-data-link" href="https://code.earthengine.google.com/4435fb668d82cfe4c54599b3bfb3574a" target="_blank">View Code ↗</a>
 </div>
+<!-- ADD THIS BLOCK just before the closing of competencies.md,
+     after the Published Data & Code section -->
+
+<style>
+/* ── Industry relevance section ── */
+.cp-relevance-banner {
+  background: #f4f6f9;
+  border-left: 4px solid #4a6fa5;
+  border-radius: 0 5px 5px 0;
+  padding: 0.85rem 1.1rem;
+  margin-bottom: 1.25rem;
+  font-size: 0.84rem;
+  color: #333;
+  line-height: 1.7;
+}
+.cp-relevance-banner strong { color: #1a1a2e; }
+.cp-relevance-banner a { color: #4a6fa5; text-decoration: none; }
+.cp-relevance-banner a:hover { text-decoration: underline; }
+
+.cp-article-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+.cp-article-card {
+  border: 1px solid #dde0e6;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fafafa;
+  display: flex;
+  flex-direction: column;
+}
+.cp-article-img {
+  background: #fff;
+  border-bottom: 1px solid #eaecf0;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.cp-article-img img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
+  object-position: center !important;
+  padding: 4px !important;
+  display: block !important;
+  margin: 0 !important;
+}
+.cp-article-body {
+  padding: 0.75rem 0.9rem;
+  flex: 1;
+}
+.cp-article-outlet {
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #999;
+  margin: 0 0 0.2rem;
+}
+.cp-article-title {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #1a1a2e;
+  line-height: 1.35;
+  margin: 0 0 0.35rem;
+}
+.cp-article-desc {
+  font-size: 0.74rem;
+  color: #666;
+  line-height: 1.55;
+  margin: 0 0 0.5rem;
+}
+.cp-article-link {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #4a6fa5;
+  text-decoration: none;
+  border: 1px solid #c4d0e0;
+  border-radius: 3px;
+  padding: 0.18rem 0.55rem;
+}
+.cp-article-link:hover { background: #eef2f9; text-decoration: none; }
+
+/* ── Industry skill alignment tags ── */
+.cp-align-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+.cp-align-item {
+  background: #fafafa;
+  border: 1px solid #dde0e6;
+  border-radius: 5px;
+  padding: 0.65rem 0.85rem;
+  font-size: 0.79rem;
+  color: #444;
+  line-height: 1.5;
+}
+.cp-align-item strong {
+  display: block;
+  font-size: 0.75rem;
+  color: #1a1a2e;
+  margin-bottom: 0.15rem;
+}
+.cp-align-item .cp-align-tag {
+  display: inline-block;
+  font-size: 0.58rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  padding: 0.08rem 0.45rem;
+  border-radius: 2rem;
+  background: #eef2f9;
+  color: #2a4a8a;
+  border: 1px solid #c4d0e0;
+  margin-top: 0.3rem;
+}
+@media (max-width: 560px) {
+  .cp-article-grid, .cp-align-grid { grid-template-columns: 1fr; }
+}
+</style>
+
+<!-- ══════════════════════════════════════════
+     INDUSTRY & POLICY RELEVANCE
+══════════════════════════════════════════ -->
+<p class="cp-label">Industry &amp; Policy Relevance</p>
+
+<div class="cp-relevance-banner">
+  Growing regulatory pressure and corporate sustainability mandates have created strong demand for environmental scientists who can bridge academic research and applied decision-making.
+  Two recent pieces in <em>Nature</em> frame this shift directly — and highlight skills that align closely with this portfolio.
+</div>
+
+<div class="cp-article-grid">
+  <div class="cp-article-card">
+    <div class="cp-article-img">
+      <img src="/files/academicsmoreconsulting.png" alt="Why academics should do more consulting" />
+    </div>
+    <div class="cp-article-body">
+      <p class="cp-article-outlet">Nature · Comment · 2026</p>
+      <p class="cp-article-title">Why Academics Should Do More Consulting — and How to Make It Work</p>
+      <p class="cp-article-desc">The UK management consulting sector reached £90 billion (US$120B) in 2023–24. Academic consulting — worth £500–600M/year — represents just 0.6% of that market, signaling a large unmet demand for expert scientific advice in industry and policy.</p>
+      <a class="cp-article-link" href="https://www.nature.com/articles/d41586-025-04104-2" target="_blank">Read in Nature ↗</a>
+    </div>
+  </div>
+
+  <div class="cp-article-card">
+    <div class="cp-article-img">
+      <img src="/files/consultingacademicgraph.png" alt="Consulting gap chart" />
+    </div>
+    <div class="cp-article-body">
+      <p class="cp-article-outlet">Nature · Data · 2026</p>
+      <p class="cp-article-title">The Consulting Gap: Rising Demand for Expert Advice</p>
+      <p class="cp-article-desc">Over the past decade, rising demand for expert advice has created abundant opportunities for academic consulting work. The gap between available scientific expertise and industry uptake represents a structural opportunity for researchers with applied skills.</p>
+      <a class="cp-article-link" href="https://www.nature.com/articles/d41586-025-04104-2" target="_blank">Read in Nature ↗</a>
+    </div>
+  </div>
+
+  <div class="cp-article-card">
+    <div class="cp-article-img">
+      <img src="/files/GrowingDemandEnvironmentalScience.png" alt="Growing demand for environmental science expertise" />
+    </div>
+    <div class="cp-article-body">
+      <p class="cp-article-outlet">Nature Sustainability · Comment · 2024</p>
+      <p class="cp-article-title">Growing Demand for Environmental Science Expertise in the Corporate Sector</p>
+      <p class="cp-article-desc">Pavlov et al. argue that trained environmental scientists — combining scientific proficiency with corporate adaptability — are uniquely positioned to prevent greenwashing and help businesses implement evidence-based sustainability practices.</p>
+      <a class="cp-article-link" href="https://www.nature.com/articles/s43017-024-00526-0" target="_blank">Read in Nature Sustainability ↗</a>
+    </div>
+  </div>
+</div>
+
+<p style="font-size:0.78rem; color:#555; line-height:1.65; margin-bottom:1.25rem;">
+  These articles identify a concrete set of competencies that environmental scientists need to be effective in corporate and policy contexts. The skills below map directly to those frameworks:
+</p>
+
+<div class="cp-align-grid">
+  <div class="cp-align-item">
+    <strong>Science–Policy Translation</strong>
+    Translating complex remote sensing and flux model outputs into clear, actionable findings for non-specialist stakeholders — grant agencies, collaborators, and resource managers.
+    <span class="cp-align-tag">Pavlov et al. 2024</span>
+  </div>
+  <div class="cp-align-item">
+    <strong>Evidence-Based Decision Support</strong>
+    Building defensible quantitative models (VPM, Random Forest, GAM) grounded in peer-reviewed methodology, directly applicable to carbon accounting and environmental monitoring.
+    <span class="cp-align-tag">Pavlov et al. 2024</span>
+  </div>
+  <div class="cp-align-item">
+    <strong>Carbon &amp; GHG Accounting</strong>
+    Hands-on experience estimating CH₄ and CO₂ fluxes at field and state scale — directly relevant to corporate sustainability reporting and Scope 3 emissions tracking.
+    <span class="cp-align-tag">Corporate Sustainability</span>
+  </div>
+  <div class="cp-align-item">
+    <strong>Stakeholder Communication</strong>
+    Presented research to diverse audiences including funding agencies (NASA, USGS, NSF), conference attendees, and academic journals — core to effective consulting engagement.
+    <span class="cp-align-tag">Lee 2026</span>
+  </div>
+  <div class="cp-align-item">
+    <strong>Applied Geospatial Analytics</strong>
+    State-scale spatial modeling using GEE, ArcGIS, and MODIS/Landsat/Sentinel imagery — directly applicable to land use analysis, environmental due diligence, and ESG reporting.
+    <span class="cp-align-tag">Pavlov et al. 2024</span>
+  </div>
+  <div class="cp-align-item">
+    <strong>Interdisciplinary Adaptability</strong>
+    Worked across engineering, ecology, agronomy, and data science — the cross-disciplinary fluency that Pavlov et al. identify as essential for scientists entering the corporate sector.
+    <span class="cp-align-tag">Pavlov et al. 2024</span>
+  </div>
+</div>
