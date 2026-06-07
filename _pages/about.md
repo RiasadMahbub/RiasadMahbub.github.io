@@ -76,7 +76,7 @@ redirect_from:
 </style>
 
 <div class="about-intro">
-I am a Ph.D. graduate (May 2026) from the Department of Biological and Agricultural Engineering at the University of Arkansas, where my dissertation focused on methane emissions and gross primary productivity in Arkansas rice systems. My research integrates eddy covariance flux measurements, satellite remote sensing, and spatial data science to quantify how agricultural landscapes exchange carbon and greenhouse gases with the atmosphere — and to build predictive models that can scale those measurements from individual fields to the state level.
+I am a Ph.D. graduate (May 2026) from the Environmental Dynamics program at the University of Arkansas, where my dissertation focused on methane emissions and gross primary productivity in Arkansas rice systems. My research integrates eddy covariance flux measurements, satellite remote sensing, and spatial data science to quantify how agricultural landscapes exchange carbon and greenhouse gases with the atmosphere and to build predictive models that can scale those measurements from individual fields to the state level.
 </div>
 
 I am actively seeking positions in **agricultural sustainability**, **carbon and greenhouse gas accounting**, **environmental monitoring**, and **geospatial analytics** where rigorous quantitative methods can inform real-world decisions.
