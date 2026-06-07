@@ -1,0 +1,129 @@
+/* ============================================================
+   MASTHEAD — stronger contrast & cleaner type
+   Place this file at: /assets/css/custom.css
+   Then add to your _includes/head/custom.html:
+   <link rel="stylesheet" href="/assets/css/custom.css">
+   ============================================================ */
+
+/* ── Masthead bar ── */
+.masthead {
+  background: #ffffff !important;
+  border-bottom: 2px solid #e2e6ea !important;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.07) !important;
+}
+
+/* ── Site title (top-left "Riasad Bin Mahbub") ── */
+.masthead__menu-item--lg a,
+.site-title,
+.masthead .site-title {
+  font-size: 1rem !important;
+  font-weight: 700 !important;
+  color: #1a1a2e !important;
+  letter-spacing: 0.01em !important;
+  text-decoration: none !important;
+}
+.site-title:hover,
+.masthead .site-title:hover {
+  color: #3a5a8a !important;
+  text-decoration: none !important;
+}
+
+/* ── Nav links ── */
+.masthead__menu-item a,
+.greedy-nav a {
+  font-size: 0.78rem !important;
+  font-weight: 600 !important;
+  color: #2a3a50 !important;        /* was ~#aaa, now dark navy */
+  letter-spacing: 0.04em !important;
+  text-transform: uppercase !important;
+  text-decoration: none !important;
+  padding: 0.4rem 0.1rem !important;
+  border-bottom: 2px solid transparent !important;
+  transition: color 0.18s, border-color 0.18s !important;
+}
+
+/* ── Nav hover ── */
+.masthead__menu-item a:hover,
+.greedy-nav a:hover {
+  color: #1a4a8a !important;
+  border-bottom-color: #1a4a8a !important;
+}
+
+/* ── Active / current page ── */
+.masthead__menu-item a.active,
+.greedy-nav .visible-links a.active {
+  color: #1a4a8a !important;
+  border-bottom-color: #1a4a8a !important;
+}
+
+/* ── Overflow "..." button ── */
+.greedy-nav__toggle {
+  color: #2a3a50 !important;
+}
+
+/* ── Hidden nav items (overflow dropdown) ── */
+.greedy-nav__hidden-links {
+  background: #fff !important;
+  border: 1px solid #dde0e6 !important;
+  border-radius: 4px !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.10) !important;
+}
+.greedy-nav__hidden-links a {
+  color: #2a3a50 !important;
+  font-size: 0.76rem !important;
+  font-weight: 600 !important;
+  padding: 0.5rem 1rem !important;
+  border-bottom: 1px solid #f0f0f0 !important;
+}
+.greedy-nav__hidden-links a:hover {
+  background: #f4f6f9 !important;
+  color: #1a4a8a !important;
+}
+
+/* ── Sidebar author name ── */
+.author__name {
+  font-size: 1.05rem !important;
+  font-weight: 700 !important;
+  color: #1a1a2e !important;
+}
+
+/* ── Sidebar bio text ── */
+.author__bio {
+  font-size: 0.8rem !important;
+  color: #444 !important;
+  line-height: 1.55 !important;
+}
+
+/* ── Sidebar links (Email, ResearchGate, etc.) ── */
+.author__urls a {
+  color: #2a3a50 !important;
+  font-size: 0.78rem !important;
+  font-weight: 500 !important;
+}
+.author__urls a:hover {
+  color: #1a4a8a !important;
+  text-decoration: underline !important;
+}
+
+/* ── Sidebar location, employer ── */
+.author__urls-wrapper .author__desktop li,
+.author__urls li {
+  color: #444 !important;
+  font-size: 0.78rem !important;
+}
+
+/* ── Page title (h1 on each page) ── */
+.page__title {
+  font-size: 1.6rem !important;
+  font-weight: 700 !important;
+  color: #1a1a2e !important;
+  line-height: 1.2 !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* ── Section divider lines (---) ── */
+hr {
+  border: none !important;
+  border-top: 1px solid #e2e6ea !important;
+  margin: 1.5rem 0 !important;
+}
