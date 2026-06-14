@@ -127,7 +127,7 @@ Recent work in <em>Nature</em> and <em>Nature Sustainability</em> highlights gro
   <div class="pos-item"><span class="pos-badge co">Co-Author</span><span class="pos-text">4 collaborative publications, 3 countries</span></div>
   <div class="pos-item"><span class="pos-badge mentor">Research Mentor</span><span class="pos-text">4 undergraduates incl. NSF REU</span></div>
   <div class="pos-item"><span class="pos-badge ta">Teaching Assistant</span><span class="pos-text">Biophysics &amp; Watershed Mgmt · 5 yrs</span></div>
-  <div class="pos-item"><span class="pos-badge mentor">Grant Recipient</span><span class="pos-text">NASA · USGS · NSF-funded projects</span></div>
+
 </div>
 
 <!-- ── Stats ── -->
