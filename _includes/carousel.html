@@ -1,0 +1,43 @@
+<script>
+(function() {
+  var slides = document.querySelectorAll('.carousel-slide');
+  if (!slides.length) return;
+  var total = slides.length;
+  var current = 0;
+  var autoTimer;
+  var dotsWrap = document.getElementById('carouselDots');
+
+  for (var i = 0; i < total; i++) {
+    var d = document.createElement('button');
+    d.className = 'carousel-dot' + (i === 0 ? ' active' : '');
+    d.setAttribute('data-i', i);
+    d.addEventListener('click', function() {
+      clearInterval(autoTimer);
+      goTo(parseInt(this.getAttribute('data-i')));
+      startAuto();
+    });
+    dotsWrap.appendChild(d);
+  }
+
+  function goTo(n) {
+    current = (n + total) % total;
+    document.getElementById('carouselSlides').style.transform =
+      'translateX(-' + (current * 100) + '%)';
+    document.querySelectorAll('.carousel-dot').forEach(function(d, idx) {
+      d.classList.toggle('active', idx === current);
+    });
+  }
+
+  window.carouselMove = function(dir) {
+    clearInterval(autoTimer);
+    goTo(current + dir);
+    startAuto();
+  };
+
+  function startAuto() {
+    autoTimer = setInterval(function() { goTo(current + 1); }, 4500);
+  }
+
+  startAuto();
+})();
+</script>
