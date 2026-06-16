@@ -184,6 +184,12 @@ author_profile: true
   line-height: 1.35;
   flex: 1;
 }
+.media-desc {
+  font-size: 0.74rem;
+  color: #666;
+  line-height: 1.5;
+  margin: 0;
+}
 .media-card a {
   font-size: 0.73rem;
   color: #4a6fa5;
@@ -203,7 +209,7 @@ author_profile: true
   <div class="aw-stat"><span class="aw-stat-num">$51,600</span><span class="aw-stat-lbl">Total Awarded</span></div>
   <div class="aw-stat"><span class="aw-stat-num">5</span><span class="aw-stat-lbl">Grants &amp; Fellowships</span></div>
   <div class="aw-stat"><span class="aw-stat-num">1</span><span class="aw-stat-lbl">Conference Award</span></div>
-  <div class="aw-stat"><span class="aw-stat-num">3</span><span class="aw-stat-lbl">Media Features</span></div>
+  <div class="aw-stat"><span class="aw-stat-num">4</span><span class="aw-stat-lbl">Media Features</span></div>
 </div>
 
 <!-- ══════════════════════════════════════
@@ -331,5 +337,11 @@ author_profile: true
     <span class="media-outlet">North South University</span>
     <p class="media-headline">Student Research Highlights</p>
     <a href="https://www.northsouth.edu/research-office/nsu-research-profile/student-research-highlights.html" target="_blank">Read feature ↗</a>
+  </div>
+  <div class="media-card">
+    <span class="media-outlet">FLUXNET · Workshop Feature · 2023</span>
+    <p class="media-headline">Linking Optical and Energy Fluxes Workshop</p>
+    <p class="media-desc">Named participant in the FLUXNET-Coop sponsored international workshop bridging flux tower and remote sensing science, Mountain Research Station, Nederland, CO.</p>
+    <a href="https://fluxnet.org/linking-optical-and-energy-fluxes-workshop/" target="_blank">Read feature ↗</a>
   </div>
 </div>
