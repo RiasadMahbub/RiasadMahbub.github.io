@@ -83,7 +83,7 @@ author_profile: true
   font-size: 0.82rem;
   color: #444;
   line-height: 1.6;
-  padding: 0.25rem 0 0.25rem 1.1rem;
+  padding: 0.3rem 0 0.3rem 1.1rem;
   position: relative;
   border-bottom: 1px solid #f4f4f4;
 }
@@ -96,6 +96,27 @@ author_profile: true
 }
 .we-bullets li a { color: #4a6fa5; text-decoration: none; }
 .we-bullets li a:hover { text-decoration: underline; }
+/* inline github/link chips inside bullet text */
+.we-chip {
+  display: inline-block;
+  font-size: 0.67rem;
+  font-weight: 600;
+  color: #333;
+  background: #f6f8fa;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 0.08rem 0.45rem;
+  margin-left: 0.4rem;
+  vertical-align: middle;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.we-chip:hover { background: #eaeef2; text-decoration: none; }
+.we-chip.blue {
+  color: #4a6fa5;
+  background: #eef2f9;
+  border-color: #c4d0e0;
+}
 .we-sub-label {
   font-size: 0.68rem;
   font-weight: 700;
@@ -152,7 +173,7 @@ author_profile: true
 
 <p class="we-label">Research</p>
 
-<!-- Senior GRA -->
+<!-- ── Senior GRA ── -->
 <div class="we-card">
   <div class="we-header">
     <div class="we-title-block">
@@ -164,11 +185,21 @@ author_profile: true
   </div>
   <div class="we-body">
     <ul class="we-bullets">
-      <li>Developed state-scale GPP maps for Arkansas rice systems using the Vegetation Photosynthesis Model (VPM) with Landsat, Sentinel, and MODIS satellite imagery.</li>
-      <li>Performed gap-filling and flux partitioning of net ecosystem exchange (NEE) data to quantify carbon uptake and release at the landscape scale.</li>
+      <li>
+        Developed state-scale GPP maps for Arkansas rice systems using the Vegetation Photosynthesis Model (VPM) with Landsat, Sentinel, and MODIS satellite imagery.
+        <a class="we-chip" href="https://github.com/RiasadMahbub/Arkansas-Rice-GPP-VPM" target="_blank">⌥ Arkansas-Rice-GPP-VPM</a>
+        <a class="we-chip" href="https://github.com/RiasadMahbub/Augmenting_LUE_Rice_GPP_Arkansas" target="_blank">⌥ Augmenting_LUE_Rice_GPP</a>
+      </li>
+      <li>
+        Performed gap-filling and flux partitioning of net ecosystem exchange (NEE) data to quantify carbon uptake and release at the landscape scale.
+        <a class="we-chip" href="https://github.com/RiasadMahbub/Fluxdata" target="_blank">⌥ Fluxdata</a>
+      </li>
       <li>Calibrated and maintained LI-7500 and LI-7700 gas analyzers and Campbell Scientific dataloggers; compiled standardized measurements for submission to AmeriFlux.</li>
       <li>Designed and executed field experiments measuring methane emissions from fish in flooded rice fields, contributing to ecosystem-level greenhouse gas budgets.</li>
-      <li>Authored and co-authored publications on remote sensing, carbon flux, and geospatial analysis of agricultural systems.</li>
+      <li>
+        Authored and co-authored publications on remote sensing, carbon flux, and geospatial analysis of agricultural systems.
+        <a class="we-chip" href="https://github.com/RiasadMahbub/RicePDHD-Arkansas" target="_blank">⌥ RicePDHD-Arkansas</a>
+      </li>
     </ul>
 
     <div class="we-sub-label">Undergraduate Mentorship</div>
@@ -200,7 +231,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- Decoupling Lab -->
+<!-- ── Decoupling Lab ── -->
 <div class="we-card">
   <div class="we-header">
     <div class="we-title-block">
@@ -224,7 +255,7 @@ author_profile: true
   </div>
 </div>
 
-<!-- CORE Lab -->
+<!-- ── CORE Lab ── -->
 <div class="we-card">
   <div class="we-header">
     <div class="we-title-block">
@@ -239,11 +270,15 @@ author_profile: true
     <ul class="we-bullets">
       <li>Mapped and analyzed industrial symbiotic networks to identify resource efficiency opportunities across industrial clusters.</li>
       <li>Identified and characterized air pollution hotspots across Bangladesh using spatial analysis techniques.</li>
+      <li>
+        Performed lifecycle-based economic and environmental assessments of green infrastructure systems.
+        <a class="we-chip blue" href="https://drive.google.com/file/d/1fdrjj1ilPSfQzfnrQmlfY8Rww6fj2v4S/view?usp=sharing" target="_blank">View Report ↗</a>
+      </li>
     </ul>
   </div>
 </div>
 
-<!-- Sea Turtle Program -->
+<!-- ── Sea Turtle Program ── -->
 <div class="we-card">
   <div class="we-header">
     <div class="we-title-block">
@@ -255,15 +290,22 @@ author_profile: true
   </div>
   <div class="we-body">
     <ul class="we-bullets">
-      <li>Investigated sea turtle nesting patterns, beach profiles, and land cover dynamics along the Bay of Bengal coastline.</li>
-      <li>Authored a report on shark conservation status in Bangladesh. <a href="https://drive.google.com/file/d/1g-yQo2jES-QbwhrLZo9l4j3CrWWFEmhU/view?usp=sharing" target="_blank">View report ↗</a></li>
+      <li>
+        Investigated sea turtle nesting patterns, beach profiles, and land cover dynamics along the Bay of Bengal coastline.
+        <a class="we-chip blue" href="https://bobseaturtle.wordpress.com/2017/03/30/bangladeshs-marine-drive-at-a-glance/" target="_blank">Field Report ↗</a>
+        <a class="we-chip blue" href="https://www.sciencedirect.com/science/article/pii/S2352485519303317" target="_blank">Published Paper ↗</a>
+      </li>
+      <li>
+        Authored a report on shark conservation status in Bangladesh.
+        <a class="we-chip blue" href="https://drive.google.com/file/d/1g-yQo2jES-QbwhrLZo9l4j3CrWWFEmhU/view?usp=sharing" target="_blank">View Report ↗</a>
+      </li>
     </ul>
   </div>
 </div>
 
 <p class="we-label">Teaching</p>
 
-<!-- Teaching Assistant -->
+<!-- ── Teaching Assistant ── -->
 <div class="we-card">
   <div class="we-header">
     <div class="we-title-block">
