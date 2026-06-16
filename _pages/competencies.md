@@ -131,6 +131,11 @@ author_profile: true
   line-height: 1.6;
   margin: 0 0 0.6rem;
 }
+.cp-data-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
 .cp-data-link {
   display: inline-block;
   font-size: 0.74rem;
@@ -142,6 +147,12 @@ author_profile: true
   padding: 0.2rem 0.65rem;
 }
 .cp-data-link:hover { background: #eef2f9; text-decoration: none; }
+.cp-data-link.github {
+  color: #333;
+  border-color: #ccc;
+  background: #f6f8fa;
+}
+.cp-data-link.github:hover { background: #eaeef2; }
 /* ── Soft skills card grid ── */
 .cp-soft-grid {
   display: grid;
@@ -164,8 +175,203 @@ author_profile: true
   color: #1a1a2e;
   margin-bottom: 0.2rem;
 }
+/* ── Experience entries ── */
+.cp-exp-entry {
+  border: 1px solid #dde0e6;
+  border-radius: 6px;
+  background: #fafafa;
+  padding: 1rem 1.15rem;
+  margin-bottom: 1.1rem;
+}
+.cp-exp-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 0.5rem;
+}
+.cp-exp-title {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin: 0;
+}
+.cp-exp-org {
+  font-size: 0.78rem;
+  color: #4a6fa5;
+  font-weight: 600;
+  margin: 0.15rem 0 0;
+}
+.cp-exp-meta {
+  font-size: 0.7rem;
+  color: #999;
+  text-align: right;
+  white-space: nowrap;
+}
+.cp-exp-supervisor {
+  font-size: 0.74rem;
+  color: #777;
+  margin: 0.1rem 0 0.55rem;
+  font-style: italic;
+}
+.cp-exp-ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0.65rem;
+}
+.cp-exp-ul li {
+  font-size: 0.8rem;
+  color: #444;
+  padding: 0.25rem 0;
+  border-bottom: 1px solid #f0f0f0;
+  line-height: 1.55;
+}
+.cp-exp-ul li:last-child { border-bottom: none; }
+.cp-exp-ul li::before { content: "· "; color: #bbb; }
+.cp-exp-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+}
+.cp-exp-link {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #4a6fa5;
+  text-decoration: none;
+  border: 1px solid #c4d0e0;
+  border-radius: 3px;
+  padding: 0.18rem 0.6rem;
+}
+.cp-exp-link:hover { background: #eef2f9; text-decoration: none; }
+.cp-exp-link.github {
+  color: #333;
+  border-color: #ccc;
+  background: #f6f8fa;
+}
+.cp-exp-link.github:hover { background: #eaeef2; }
+/* ── Industry relevance section ── */
+.cp-relevance-banner {
+  background: #f4f6f9;
+  border-left: 4px solid #4a6fa5;
+  border-radius: 0 5px 5px 0;
+  padding: 0.85rem 1.1rem;
+  margin-bottom: 1.25rem;
+  font-size: 0.84rem;
+  color: #333;
+  line-height: 1.7;
+}
+.cp-relevance-banner strong { color: #1a1a2e; }
+.cp-relevance-banner a { color: #4a6fa5; text-decoration: none; }
+.cp-relevance-banner a:hover { text-decoration: underline; }
+.cp-article-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+.cp-article-card {
+  border: 1px solid #dde0e6;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fafafa;
+  display: flex;
+  flex-direction: column;
+}
+.cp-article-img {
+  background: #fff;
+  border-bottom: 1px solid #eaecf0;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.cp-article-img img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
+  object-position: center !important;
+  padding: 4px !important;
+  display: block !important;
+  margin: 0 !important;
+}
+.cp-article-body {
+  padding: 0.75rem 0.9rem;
+  flex: 1;
+}
+.cp-article-outlet {
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #999;
+  margin: 0 0 0.2rem;
+}
+.cp-article-title {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #1a1a2e;
+  line-height: 1.35;
+  margin: 0 0 0.35rem;
+}
+.cp-article-desc {
+  font-size: 0.74rem;
+  color: #666;
+  line-height: 1.55;
+  margin: 0 0 0.5rem;
+}
+.cp-article-link {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #4a6fa5;
+  text-decoration: none;
+  border: 1px solid #c4d0e0;
+  border-radius: 3px;
+  padding: 0.18rem 0.55rem;
+}
+.cp-article-link:hover { background: #eef2f9; text-decoration: none; }
+.cp-align-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+.cp-align-item {
+  background: #fafafa;
+  border: 1px solid #dde0e6;
+  border-radius: 5px;
+  padding: 0.65rem 0.85rem;
+  font-size: 0.79rem;
+  color: #444;
+  line-height: 1.5;
+}
+.cp-align-item strong {
+  display: block;
+  font-size: 0.75rem;
+  color: #1a1a2e;
+  margin-bottom: 0.15rem;
+}
+.cp-align-item .cp-align-tag {
+  display: inline-block;
+  font-size: 0.58rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  padding: 0.08rem 0.45rem;
+  border-radius: 2rem;
+  background: #eef2f9;
+  color: #2a4a8a;
+  border: 1px solid #c4d0e0;
+  margin-top: 0.3rem;
+}
 @media (max-width: 560px) {
-  .cp-two-col, .cp-soft-grid { grid-template-columns: 1fr; }
+  .cp-two-col, .cp-soft-grid, .cp-article-grid, .cp-align-grid { grid-template-columns: 1fr; }
+  .cp-exp-header { flex-direction: column; }
+  .cp-exp-meta { text-align: left; }
 }
 </style>
 
@@ -347,149 +553,93 @@ author_profile: true
   <p class="cp-data-title">Cumulative GPP Data of Rice in Arkansas (500 m Resolution)</p>
   <p class="cp-data-authors">Riasad Bin Mahbub · Michele Reba · Benjamin Runkle</p>
   <p class="cp-data-desc">High-resolution dataset of Arkansas rice regions (2008–2020) including crop frequency, county shapefiles, environmental variables (temperature, PAR), MODIS indices (EVI, LSWI), and GPP modeled with VPM across six rice ecological zones.</p>
-  <a class="cp-data-link" href="https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983" target="_blank">Access Dataset ↗</a>
+  <div class="cp-data-links">
+    <a class="cp-data-link" href="https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983" target="_blank">Access Dataset ↗</a>
+    <a class="cp-data-link github" href="https://github.com/RiasadMahbub/Arkansas-Rice-GPP-VPM" target="_blank">⌥ GitHub: Arkansas-Rice-GPP-VPM</a>
+    <a class="cp-data-link github" href="https://github.com/RiasadMahbub/Augmenting_LUE_Rice_GPP_Arkansas" target="_blank">⌥ GitHub: Augmenting LUE Rice GPP</a>
+  </div>
+</div>
+
+<div class="cp-data-card">
+  <p class="cp-data-title">Carbon Flux Partitioning &amp; NEE Gap-Filling — Arkansas Rice Fields</p>
+  <p class="cp-data-authors">Riasad Bin Mahbub</p>
+  <p class="cp-data-desc">Eddy covariance flux data processing scripts for gap-filling net ecosystem exchange (NEE) and partitioning gross primary productivity (GPP) and ecosystem respiration at the landscape scale, following AmeriFlux standards.</p>
+  <div class="cp-data-links">
+    <a class="cp-data-link github" href="https://github.com/RiasadMahbub/Fluxdata" target="_blank">⌥ GitHub: Fluxdata</a>
+  </div>
+</div>
+
+<div class="cp-data-card">
+  <p class="cp-data-title">Rice Planting &amp; Harvest Date Prediction — Arkansas (Satellite + ML)</p>
+  <p class="cp-data-authors">Riasad Bin Mahbub</p>
+  <p class="cp-data-desc">Code and analysis for predicting rice planting and harvesting dates across Arkansas using satellite imagery time series and machine learning algorithms, supporting phenological monitoring at the state scale.</p>
+  <div class="cp-data-links">
+    <a class="cp-data-link github" href="https://github.com/RiasadMahbub/RicePDHD-Arkansas" target="_blank">⌥ GitHub: RicePDHD-Arkansas</a>
+  </div>
 </div>
 
 <div class="cp-data-card">
   <p class="cp-data-title">GEE Script — Mapping Crop Rotation &amp; Monoculture Patterns</p>
   <p class="cp-data-authors">Google Earth Engine · USDA Cropland Data Layer (CDL) 2008–2020</p>
   <p class="cp-data-desc">Identifies and visualizes crop rotation patterns using the <code>agkit4ee</code> module. Detects monoculture and rotation sequences (e.g., rice–soybean, corn–soybean) for major crops and outputs color-coded map layers showing cropping patterns across the agricultural landscape.</p>
-  <a class="cp-data-link" href="https://code.earthengine.google.com/222608fa0908401d18dcf4caa4b40ee5" target="_blank">View Code ↗</a>
+  <div class="cp-data-links">
+    <a class="cp-data-link" href="https://code.earthengine.google.com/222608fa0908401d18dcf4caa4b40ee5" target="_blank">View Code ↗</a>
+  </div>
 </div>
 
 <div class="cp-data-card">
   <p class="cp-data-title">GEE Script — Modeling 2020 Crop Frequency &amp; Intensity Across Arkansas</p>
   <p class="cp-data-authors">Google Earth Engine · USDA Cropland Data Layer (CDL) 2008–2020</p>
   <p class="cp-data-desc">Models and visualizes the 2020 spatial distribution and frequency of corn, cotton, rice, soybean, wheat, and double-cropped wheat–soybean systems. Produces color-coded frequency maps, rice distribution histograms, and exports per-crop intensity layers to Google Drive as GeoTIFFs.</p>
-  <a class="cp-data-link" href="https://code.earthengine.google.com/4435fb668d82cfe4c54599b3bfb3574a" target="_blank">View Code ↗</a>
+  <div class="cp-data-links">
+    <a class="cp-data-link" href="https://code.earthengine.google.com/4435fb668d82cfe4c54599b3bfb3574a" target="_blank">View Code ↗</a>
+  </div>
 </div>
-<!-- ADD THIS BLOCK just before the closing of competencies.md,
-     after the Published Data & Code section -->
 
-<style>
-/* ── Industry relevance section ── */
-.cp-relevance-banner {
-  background: #f4f6f9;
-  border-left: 4px solid #4a6fa5;
-  border-radius: 0 5px 5px 0;
-  padding: 0.85rem 1.1rem;
-  margin-bottom: 1.25rem;
-  font-size: 0.84rem;
-  color: #333;
-  line-height: 1.7;
-}
-.cp-relevance-banner strong { color: #1a1a2e; }
-.cp-relevance-banner a { color: #4a6fa5; text-decoration: none; }
-.cp-relevance-banner a:hover { text-decoration: underline; }
+<!-- ══════════════════════════════════════════
+     RESEARCH EXPERIENCE
+══════════════════════════════════════════ -->
+<p class="cp-label">Research Experience</p>
 
-.cp-article-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1rem;
-  margin-bottom: 1rem;
-}
-.cp-article-card {
-  border: 1px solid #dde0e6;
-  border-radius: 6px;
-  overflow: hidden;
-  background: #fafafa;
-  display: flex;
-  flex-direction: column;
-}
-.cp-article-img {
-  background: #fff;
-  border-bottom: 1px solid #eaecf0;
-  height: 180px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-}
-.cp-article-img img {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: contain !important;
-  object-position: center !important;
-  padding: 4px !important;
-  display: block !important;
-  margin: 0 !important;
-}
-.cp-article-body {
-  padding: 0.75rem 0.9rem;
-  flex: 1;
-}
-.cp-article-outlet {
-  font-size: 0.62rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: #999;
-  margin: 0 0 0.2rem;
-}
-.cp-article-title {
-  font-size: 0.82rem;
-  font-weight: 600;
-  color: #1a1a2e;
-  line-height: 1.35;
-  margin: 0 0 0.35rem;
-}
-.cp-article-desc {
-  font-size: 0.74rem;
-  color: #666;
-  line-height: 1.55;
-  margin: 0 0 0.5rem;
-}
-.cp-article-link {
-  display: inline-block;
-  font-size: 0.7rem;
-  font-weight: 600;
-  color: #4a6fa5;
-  text-decoration: none;
-  border: 1px solid #c4d0e0;
-  border-radius: 3px;
-  padding: 0.18rem 0.55rem;
-}
-.cp-article-link:hover { background: #eef2f9; text-decoration: none; }
+<!-- Entry 1: CORE Lab -->
+<div class="cp-exp-entry">
+  <div class="cp-exp-header">
+    <div>
+      <p class="cp-exp-title">Research Intern</p>
+      <p class="cp-exp-org">Co-Operation for Resource Efficiency Lab (CORE Lab) · Chittagong, Bangladesh</p>
+      <p class="cp-exp-supervisor">Supervisor: <a href="https://cu.ac.bd/public_profile/index.php?ein=4167" target="_blank">Professor Mohammad Mosharraf Hossain, PhD</a></p>
+    </div>
+    <div class="cp-exp-meta">2017 – 2018</div>
+  </div>
+  <ul class="cp-exp-ul">
+    <li>Mapped and analyzed industrial symbiotic networks to identify resource efficiency opportunities across industrial clusters.</li>
+    <li>Identified and characterized air pollution hotspots across Bangladesh using spatial analysis techniques.</li>
+    <li>Performed lifecycle-based economic and environmental assessments of green infrastructure systems.</li>
+  </ul>
+  <div class="cp-exp-links">
+    <a class="cp-exp-link" href="https://drive.google.com/file/d/1fdrjj1ilPSfQzfnrQmlfY8Rww6fj2v4S/view?usp=sharing" target="_blank">View Report ↗</a>
+  </div>
+</div>
 
-/* ── Industry skill alignment tags ── */
-.cp-align-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 0.75rem;
-  margin-bottom: 0.5rem;
-}
-.cp-align-item {
-  background: #fafafa;
-  border: 1px solid #dde0e6;
-  border-radius: 5px;
-  padding: 0.65rem 0.85rem;
-  font-size: 0.79rem;
-  color: #444;
-  line-height: 1.5;
-}
-.cp-align-item strong {
-  display: block;
-  font-size: 0.75rem;
-  color: #1a1a2e;
-  margin-bottom: 0.15rem;
-}
-.cp-align-item .cp-align-tag {
-  display: inline-block;
-  font-size: 0.58rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  padding: 0.08rem 0.45rem;
-  border-radius: 2rem;
-  background: #eef2f9;
-  color: #2a4a8a;
-  border: 1px solid #c4d0e0;
-  margin-top: 0.3rem;
-}
-@media (max-width: 560px) {
-  .cp-article-grid, .cp-align-grid { grid-template-columns: 1fr; }
-}
-</style>
+<!-- Entry 2: Sea Turtle Program -->
+<div class="cp-exp-entry">
+  <div class="cp-exp-header">
+    <div>
+      <p class="cp-exp-title">Program Associate</p>
+      <p class="cp-exp-org">Bay of Bengal Sea Turtle Program · Save Our Sea · Cox's Bazar &amp; Dhaka, Bangladesh</p>
+    </div>
+    <div class="cp-exp-meta">2017 – 2018</div>
+  </div>
+  <ul class="cp-exp-ul">
+    <li>Investigated sea turtle nesting patterns, beach profiles, and land cover dynamics along the Bay of Bengal coastline.</li>
+    <li>Authored a report on shark conservation status in Bangladesh.</li>
+  </ul>
+  <div class="cp-exp-links">
+    <a class="cp-exp-link" href="https://bobseaturtle.wordpress.com/2017/03/30/bangladeshs-marine-drive-at-a-glance/" target="_blank">Field Report ↗</a>
+    <a class="cp-exp-link" href="https://www.sciencedirect.com/science/article/pii/S2352485519303317" target="_blank">Published Paper ↗</a>
+    <a class="cp-exp-link" href="https://drive.google.com/file/d/1g-yQo2jES-QbwhrLZo9l4j3CrWWFEmhU/view?usp=sharing" target="_blank">Shark Conservation Report ↗</a>
+  </div>
+</div>
 
 <!-- ══════════════════════════════════════════
      INDUSTRY & POLICY RELEVANCE
