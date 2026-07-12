@@ -157,7 +157,8 @@ author_profile: true
     </div>
     <p class="edu-meta">Advisor: <a href="https://runkle.uark.edu/">Dr. Benjamin Runkle</a></p>
     <div class="edu-thesis">
-      <strong>Dissertation:</strong> "Predicting spatial information of rice growing season length and gross primary productivity from space and site-scale instruments"
+      <strong>Dissertation:</strong> "Predicting spatial information of rice growing season length and gross primary productivity from space and site-scale instruments" &nbsp;·&nbsp;
+      <a href="https://www.proquest.com/dissertations-theses/predicting-spatial-information-rice-growing/docview/3354715870/se-2" target="_blank">ProQuest ↗</a>
     </div>
   </div>
 

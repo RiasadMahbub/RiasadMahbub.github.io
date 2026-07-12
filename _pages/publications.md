@@ -17,7 +17,6 @@ author_profile: true
   border-bottom: 2px solid #e2e2e2;
   margin: 2.5rem 0 1.25rem;
 }
-/* ── Live stats widget ── */
 .pub-scholar-bar {
   background: #f4f6f9;
   border: 1px solid #dde0e6;
@@ -29,167 +28,58 @@ author_profile: true
   align-items: center;
   margin-bottom: 0.6rem;
 }
-.pub-scholar-left {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  flex: 1;
-}
-.pub-stat {
-  text-align: center;
-  min-width: 70px;
-}
-.pub-stat-num {
-  font-size: 1.4rem;
-  font-weight: 700;
-  color: #1a1a2e;
-  display: block;
-  line-height: 1.1;
-}
-.pub-stat-lbl {
-  font-size: 0.62rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: #888;
-  display: block;
-  margin-top: 0.1rem;
-}
+.pub-scholar-left { display: flex; flex-wrap: wrap; gap: 1rem; flex: 1; }
+.pub-stat { text-align: center; min-width: 70px; }
+.pub-stat-num { font-size: 1.4rem; font-weight: 700; color: #1a1a2e; display: block; line-height: 1.1; }
+.pub-stat-lbl { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.08em; color: #888; display: block; margin-top: 0.1rem; }
 .pub-scholar-link {
-  font-size: 0.76rem;
-  color: #4a6fa5;
-  text-decoration: none;
-  border: 1px solid #c4d0e0;
-  border-radius: 3px;
-  padding: 0.25rem 0.7rem;
-  white-space: nowrap;
-  font-weight: 600;
+  font-size: 0.76rem; color: #4a6fa5; text-decoration: none;
+  border: 1px solid #c4d0e0; border-radius: 3px; padding: 0.25rem 0.7rem;
+  white-space: nowrap; font-weight: 600;
 }
 .pub-scholar-link:hover { background: #eef2f9; text-decoration: none; }
-.pub-updated {
-  font-size: 0.65rem;
-  color: #bbb;
-  width: 100%;
-  margin-top: -0.5rem;
-}
-/* ── Publication card ── */
+.pub-updated { font-size: 0.65rem; color: #bbb; width: 100%; margin-top: -0.5rem; }
 .pub-card {
-  border: 1px solid #dde0e6;
-  border-radius: 6px;
-  background: #fafafa;
-  padding: 0.9rem 1.1rem;
-  margin-bottom: 0.9rem;
-  display: flex;
-  gap: 1rem;
+  border: 1px solid #dde0e6; border-radius: 6px; background: #fafafa;
+  padding: 0.9rem 1.1rem; margin-bottom: 0.9rem; display: flex; gap: 1rem;
 }
-.pub-card.review { background: #f9f9fb; border-style: dashed; }
-.pub-card.prep   { background: #fafaf8; border-style: dashed; border-color: #e0ddd6; }
+.pub-card.review   { background: #f9f9fb; border-style: dashed; }
+.pub-card.prep     { background: #fafaf8; border-style: dashed; border-color: #e0ddd6; }
 .pub-card.preprint { background: #f9f8fb; border-style: dashed; border-color: #d8d0e8; }
-.pub-num {
-  font-size: 0.72rem;
-  font-weight: 700;
-  color: #bbb;
-  min-width: 1.6rem;
-  padding-top: 0.1rem;
-  text-align: right;
-  flex-shrink: 0;
-}
+.pub-card.thesis   { background: #f8faf8; border-style: dashed; border-color: #c8d8c8; }
+.pub-num { font-size: 0.72rem; font-weight: 700; color: #bbb; min-width: 1.6rem; padding-top: 0.1rem; text-align: right; flex-shrink: 0; }
 .pub-content { flex: 1; }
-.pub-title {
-  font-size: 0.88rem;
-  font-weight: 600;
-  color: #1a1a2e;
-  margin: 0 0 0.3rem;
-  line-height: 1.4;
-}
-.pub-authors {
-  font-size: 0.78rem;
-  color: #555;
-  margin: 0 0 0.3rem;
-  line-height: 1.5;
-}
+.pub-title { font-size: 0.88rem; font-weight: 600; color: #1a1a2e; margin: 0 0 0.3rem; line-height: 1.4; }
+.pub-authors { font-size: 0.78rem; color: #555; margin: 0 0 0.3rem; line-height: 1.5; }
 .pub-authors strong { color: #1a1a2e; }
-.pub-venue {
-  font-size: 0.77rem;
-  color: #777;
-  font-style: italic;
-  margin: 0 0 0.45rem;
-  line-height: 1.4;
-}
-.pub-meta-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  align-items: center;
-}
+.pub-venue { font-size: 0.77rem; color: #777; font-style: italic; margin: 0 0 0.45rem; line-height: 1.4; }
+.pub-meta-row { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; }
 .pub-tag {
-  font-size: 0.63rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  padding: 0.13rem 0.52rem;
-  border-radius: 2rem;
-  border: 1px solid;
+  font-size: 0.63rem; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.07em; padding: 0.13rem 0.52rem; border-radius: 2rem; border: 1px solid;
 }
-.pub-tag.first   { background: #eef5ea; color: #3a7a2a; border-color: #b8d8b0; }
-.pub-tag.second  { background: #eef2f9; color: #2a4a8a; border-color: #b8c8e8; }
-.pub-tag.coauth  { background: #f4f4f9; color: #555;    border-color: #ccc; }
-.pub-tag.if      { background: #f9f4ee; color: #7a4a1a; border-color: #e8d0b0; }
-.pub-tag.pub     { background: #f4f6f9; color: #555;    border-color: #dde0e6; }
-.pub-tag.cites   { background: #fefaea; color: #7a6a00; border-color: #e8dc90; }
-.pub-tag.preprint-tag { background: #f4f0fa; color: #5a3a8a; border-color: #c8b8e8; }
-.pub-doi {
-  font-size: 0.72rem;
-  color: #4a6fa5;
-  text-decoration: none;
-}
+.pub-tag.first       { background: #eef5ea; color: #3a7a2a; border-color: #b8d8b0; }
+.pub-tag.second      { background: #eef2f9; color: #2a4a8a; border-color: #b8c8e8; }
+.pub-tag.coauth      { background: #f4f4f9; color: #555;    border-color: #ccc; }
+.pub-tag.if          { background: #f9f4ee; color: #7a4a1a; border-color: #e8d0b0; }
+.pub-tag.pub         { background: #f4f6f9; color: #555;    border-color: #dde0e6; }
+.pub-tag.cites       { background: #fefaea; color: #7a6a00; border-color: #e8dc90; }
+.pub-tag.preprint-tag{ background: #f4f0fa; color: #5a3a8a; border-color: #c8b8e8; }
+.pub-tag.thesis-tag  { background: #f0f8f0; color: #2a6a2a; border-color: #a8c8a8; }
+.pub-tag.new         { background: #fff0f0; color: #9a2020; border-color: #e8a0a0; }
+.pub-doi { font-size: 0.72rem; color: #4a6fa5; text-decoration: none; }
 .pub-doi:hover { text-decoration: underline; }
-/* ── Conference list ── */
-.conf-item {
-  display: flex;
-  gap: 1rem;
-  padding: 0.65rem 0;
-  border-bottom: 1px solid #f0f0f0;
-  align-items: flex-start;
-}
+.conf-item { display: flex; gap: 1rem; padding: 0.65rem 0; border-bottom: 1px solid #f0f0f0; align-items: flex-start; }
 .conf-item:last-child { border-bottom: none; }
-.conf-year {
-  font-family: monospace;
-  font-size: 0.74rem;
-  color: #aaa;
-  min-width: 2.5rem;
-  padding-top: 0.05rem;
-  flex-shrink: 0;
-}
+.conf-year { font-family: monospace; font-size: 0.74rem; color: #aaa; min-width: 2.5rem; padding-top: 0.05rem; flex-shrink: 0; }
 .conf-body { flex: 1; }
-.conf-title {
-  font-size: 0.82rem;
-  color: #222;
-  font-weight: 500;
-  margin: 0 0 0.15rem;
-  line-height: 1.4;
-}
-.conf-authors {
-  font-size: 0.76rem;
-  color: #666;
-  margin: 0 0 0.1rem;
-  line-height: 1.4;
-}
+.conf-title { font-size: 0.82rem; color: #222; font-weight: 500; margin: 0 0 0.15rem; line-height: 1.4; }
+.conf-authors { font-size: 0.76rem; color: #666; margin: 0 0 0.1rem; line-height: 1.4; }
 .conf-authors strong { color: #333; }
-.conf-where {
-  font-size: 0.73rem;
-  color: #999;
-  font-style: italic;
-}
+.conf-where { font-size: 0.73rem; color: #999; font-style: italic; }
 .conf-tag {
-  display: inline-block;
-  font-size: 0.61rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  padding: 0.1rem 0.45rem;
-  border-radius: 2rem;
-  margin-left: 0.4rem;
-  vertical-align: middle;
+  display: inline-block; font-size: 0.61rem; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.06em; padding: 0.1rem 0.45rem; border-radius: 2rem; margin-left: 0.4rem; vertical-align: middle;
 }
 .conf-tag.invited { background: #fef3e2; color: #9a5a00; border: 1px solid #f0d090; }
 .conf-tag.poster  { background: #eef2f9; color: #3a5a8a; border: 1px solid #c0ccdf; }
@@ -201,11 +91,6 @@ author_profile: true
 }
 </style>
 
-<!-- ══════════════════════════════════════
-     METRICS — update the numbers below
-     when Google Scholar refreshes.
-     Direct link always shows live data.
-══════════════════════════════════════ -->
 <div class="pub-scholar-bar">
   <div class="pub-scholar-left">
     <div class="pub-stat"><span class="pub-stat-num">7</span><span class="pub-stat-lbl">Publications</span></div>
@@ -224,14 +109,30 @@ author_profile: true
 ══════════════════════════════════════ -->
 <p class="pub-label">Peer-Reviewed Journal Articles</p>
 
+<!-- NEW — previously "under review", now published -->
 <div class="pub-card">
   <span class="pub-num">7</span>
   <div class="pub-content">
-    <p class="pub-title">Magnitude, drivers, and patterns of gross primary productivity of rice in Arkansas using a calibrated vegetation photosynthesis model</p>
-    <p class="pub-authors"><strong>Mahbub, R. B.</strong>, Reba, M. L., &amp; Runkle, B. R. K.</p>
-    <p class="pub-venue">Agricultural and Forest Meteorology, Vol. 369, 2025</p>
+    <p class="pub-title">Evaluating phenological and machine learning approaches for estimating field-scale rice planting and harvest dates in Arkansas</p>
+    <p class="pub-authors"><strong>Mahbub, R. B.</strong>, Tang, R., Moreno-García, B., Gomez-Prats, M., Reba, M. L., Peter, B. G., &amp; Runkle, B. R. K.</p>
+    <p class="pub-venue">Science of Remote Sensing, 100459, 2026</p>
     <div class="pub-meta-row">
       <span class="pub-tag first">First Author</span>
+      <span class="pub-tag new">New 2026</span>
+      <span class="pub-tag pub">Elsevier</span>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <span class="pub-num">6</span>
+  <div class="pub-content">
+    <p class="pub-title">Magnitude, drivers, and patterns of gross primary productivity of rice in Arkansas using a calibrated vegetation photosynthesis model</p>
+    <p class="pub-authors"><strong>Mahbub, R. B.</strong>, Reba, M. L., &amp; Runkle, B. R. K.</p>
+    <p class="pub-venue">Agricultural and Forest Meteorology, Vol. 369, 110583, 2025</p>
+    <div class="pub-meta-row">
+      <span class="pub-tag first">First Author</span>
+      <span class="pub-tag cites">1 citation</span>
       <span class="pub-tag if">IF 5.6</span>
       <span class="pub-tag pub">Elsevier</span>
       <a class="pub-doi" href="https://doi.org/10.1016/j.agrformet.2025.110583" target="_blank">DOI ↗</a>
@@ -240,51 +141,7 @@ author_profile: true
 </div>
 
 <div class="pub-card">
-  <span class="pub-num">6</span>
-  <div class="pub-content">
-    <p class="pub-title">Urban waterlogging in Bangladesh (2015–2018): its spatio-temporal pattern, relationship with rainfall, and proximate causes</p>
-    <p class="pub-authors">Momena, S., &amp; <strong>Mahbub, R. B.</strong></p>
-    <p class="pub-venue">Journal TBD</p>
-    <div class="pub-meta-row">
-      <span class="pub-tag second">Co-Author</span>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
   <span class="pub-num">5</span>
-  <div class="pub-content">
-    <p class="pub-title">Human appropriation of net primary production in Bangladesh, 1700–2100</p>
-    <p class="pub-authors"><strong>Mahbub, R. B.</strong>, Ahmed, N., Rahman, S., Hossain, M. M., &amp; Sujauddin, M.</p>
-    <p class="pub-venue">Land Use Policy, Vol. 87, 104067, 2019</p>
-    <div class="pub-meta-row">
-      <span class="pub-tag first">First Author</span>
-      <span class="pub-tag cites">31 citations</span>
-      <span class="pub-tag if">IF 6.2</span>
-      <span class="pub-tag pub">Elsevier</span>
-      <a class="pub-doi" href="https://doi.org/10.1016/j.landusepol.2019.104067" target="_blank">DOI ↗</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <span class="pub-num">4</span>
-  <div class="pub-content">
-    <p class="pub-title">Modelling spatio-temporal changes of forest cover in the northeastern region of Bangladesh: context of traditional and co-management paradigms</p>
-    <p class="pub-authors">Ahmed, N., <strong>Mahbub, R. B.</strong>, Hossain, M. M., &amp; Sujauddin, M.</p>
-    <p class="pub-venue">Journal of Tropical Forest Science, 32(1), 2019</p>
-    <div class="pub-meta-row">
-      <span class="pub-tag second">Second Author</span>
-      <span class="pub-tag cites">18 citations</span>
-      <span class="pub-tag if">IF 0.8</span>
-      <span class="pub-tag pub">JSTOR</span>
-      <a class="pub-doi" href="https://doi.org/10.26525/jtfs32.1.42" target="_blank">DOI ↗</a>
-    </div>
-  </div>
-</div>
-
-<div class="pub-card">
-  <span class="pub-num">3</span>
   <div class="pub-content">
     <p class="pub-title">Learning to extract buildings from ultra-high-resolution drone images and noisy labels</p>
     <p class="pub-authors">Ahmed, N., <strong>Mahbub, R. B.</strong>, &amp; Rahman, R. M.</p>
@@ -300,11 +157,11 @@ author_profile: true
 </div>
 
 <div class="pub-card">
-  <span class="pub-num">2</span>
+  <span class="pub-num">4</span>
   <div class="pub-content">
     <p class="pub-title">Towards reducing the data gap in the conservation efforts for sea turtles in Bangladesh</p>
     <p class="pub-authors"><strong>Mahbub, R. B.</strong>, Ahmed, N., &amp; Yeasmin, F.</p>
-    <p class="pub-venue">Regional Studies in Marine Science, Vol. 35, 2020</p>
+    <p class="pub-venue">Regional Studies in Marine Science, Vol. 35, 101151, 2020</p>
     <div class="pub-meta-row">
       <span class="pub-tag first">First Author</span>
       <span class="pub-tag cites">6 citations</span>
@@ -316,14 +173,73 @@ author_profile: true
 </div>
 
 <div class="pub-card">
+  <span class="pub-num">3</span>
+  <div class="pub-content">
+    <p class="pub-title">Modelling spatio-temporal changes of tropical forest cover in the north-eastern region of Bangladesh: context of traditional and co-management paradigms</p>
+    <p class="pub-authors">Ahmed, N., <strong>Mahbub, R. B.</strong>, Hossain, M. M., &amp; Sujauddin, M.</p>
+    <p class="pub-venue">Journal of Tropical Forest Science, 32(1), pp. 42–51, 2020</p>
+    <div class="pub-meta-row">
+      <span class="pub-tag second">Second Author</span>
+      <span class="pub-tag cites">18 citations</span>
+      <span class="pub-tag if">IF 0.8</span>
+      <span class="pub-tag pub">JSTOR</span>
+      <a class="pub-doi" href="https://doi.org/10.26525/jtfs32.1.42" target="_blank">DOI ↗</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <span class="pub-num">2</span>
+  <div class="pub-content">
+    <p class="pub-title">Urban waterlogging in Bangladesh (2015–2018): its spatio-temporal pattern, relationship with rainfall, and proximate causes</p>
+    <p class="pub-authors">Momena, S., &amp; <strong>Mahbub, R. B.</strong></p>
+    <p class="pub-venue">Journal TBD</p>
+    <div class="pub-meta-row">
+      <span class="pub-tag second">Co-Author</span>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
   <span class="pub-num">1</span>
   <div class="pub-content">
-    <p class="pub-title">Human appropriation of net primary production in Bangladesh, 1700–2100 (first publication)</p>
+    <p class="pub-title">Human appropriation of net primary production in Bangladesh, 1700–2100</p>
     <p class="pub-authors"><strong>Mahbub, R. B.</strong>, Ahmed, N., Rahman, S., Hossain, M. M., &amp; Sujauddin, M.</p>
     <p class="pub-venue">Land Use Policy, Vol. 87, 104067, 2019</p>
     <div class="pub-meta-row">
       <span class="pub-tag first">First Author</span>
+      <span class="pub-tag cites">31 citations</span>
+      <span class="pub-tag if">IF 6.2</span>
       <span class="pub-tag pub">Elsevier</span>
+      <a class="pub-doi" href="https://doi.org/10.1016/j.landusepol.2019.104067" target="_blank">DOI ↗</a>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════
+     THESES & DISSERTATIONS
+══════════════════════════════════════ -->
+<p class="pub-label">Theses &amp; Dissertations</p>
+
+<div class="pub-card thesis">
+  <span class="pub-num">—</span>
+  <div class="pub-content">
+    <p class="pub-title">Predicting Spatial Information of Rice Growing Season Length and Gross Primary Productivity from Space and Site Instruments</p>
+    <p class="pub-authors"><strong>Mahbub, R. B.</strong></p>
+    <p class="pub-venue">Ph.D. Dissertation · University of Arkansas · 2026</p>
+    <div class="pub-meta-row"><span class="pub-tag thesis-tag">PhD Dissertation</span></div>
+  </div>
+</div>
+
+<div class="pub-card thesis">
+  <span class="pub-num">—</span>
+  <div class="pub-content">
+    <p class="pub-title">Estimation of Gross Primary Productivity of Rice in Arkansas Using the Vegetation Photosynthesis Model</p>
+    <p class="pub-authors"><strong>Mahbub, R. B.</strong></p>
+    <p class="pub-venue">M.Sc. Thesis · University of Arkansas · 2023</p>
+    <div class="pub-meta-row">
+      <span class="pub-tag thesis-tag">MSc Thesis</span>
+      <a class="pub-doi" href="https://www.proquest.com/docview/2861133679" target="_blank">ProQuest ↗</a>
     </div>
   </div>
 </div>
@@ -332,16 +248,6 @@ author_profile: true
      UNDER REVIEW
 ══════════════════════════════════════ -->
 <p class="pub-label">Manuscripts Under Review</p>
-
-<div class="pub-card review">
-  <span class="pub-num">—</span>
-  <div class="pub-content">
-    <p class="pub-title">Evaluating phenological and machine learning approaches for estimating field-scale rice planting and harvest dates in Arkansas</p>
-    <p class="pub-authors"><strong>Mahbub, R. B.</strong>, Tang, R., Moreno-Garcia, B., Gomez Prats, M., Reba, M., Peter, B. G., &amp; Runkle, B. R. K.</p>
-    <p class="pub-venue">Submitted to Science of Remote Sensing, 2026</p>
-    <div class="pub-meta-row"><span class="pub-tag first">First Author</span></div>
-  </div>
-</div>
 
 <div class="pub-card review">
   <span class="pub-num">—</span>
@@ -368,6 +274,19 @@ author_profile: true
       <span class="pub-tag preprint-tag">Preprint</span>
       <span class="pub-tag coauth">Co-Author</span>
       <a class="pub-doi" href="https://ssrn.com/abstract=6538482" target="_blank">SSRN ↗</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card preprint">
+  <span class="pub-num">—</span>
+  <div class="pub-content">
+    <p class="pub-title">Urban waterlogging in Bangladesh (2015–2018): its spatio-temporal pattern, relationship with rainfall, and proximate causes</p>
+    <p class="pub-authors">Momena, S., &amp; <strong>Mahbub, R. B.</strong></p>
+    <p class="pub-venue">Preprint · journal submission pending</p>
+    <div class="pub-meta-row">
+      <span class="pub-tag preprint-tag">Preprint</span>
+      <span class="pub-tag coauth">Co-Author</span>
     </div>
   </div>
 </div>
@@ -413,6 +332,15 @@ author_profile: true
 <p class="pub-label">Conference Presentations &amp; Talks</p>
 
 <div class="conf-item">
+  <span class="conf-year">2025</span>
+  <div class="conf-body">
+    <p class="conf-title">Data-driven assessment of rice methane emissions based on the duration of inundation periods</p>
+    <p class="conf-authors">Runkle, B., Reba, M. L., Moreno-Garcia, B., Reavis, C., <strong>Mahbub, R. B.</strong>, et al.</p>
+    <p class="conf-where">AGU Fall Meeting · B34D-01 · 2025</p>
+  </div>
+</div>
+
+<div class="conf-item">
   <span class="conf-year">2024</span>
   <div class="conf-body">
     <p class="conf-title">Invited Speaker — Big TA Training Workshop<span class="conf-tag invited">Invited</span></p>
@@ -449,11 +377,11 @@ author_profile: true
 </div>
 
 <div class="conf-item">
-  <span class="conf-year">2024</span>
+  <span class="conf-year">2023</span>
   <div class="conf-body">
     <p class="conf-title">Predicting planting and harvesting date of rice in Arkansas using satellite images and machine learning algorithms<span class="conf-tag online">Online</span></p>
     <p class="conf-authors"><strong>Mahbub, R. B.</strong>, Moreno-Garcia, B., Peter, B. G., Reba, M., &amp; Runkle, B.</p>
-    <p class="conf-where">American Geophysical Union Annual Meeting · Online</p>
+    <p class="conf-where">AGU Fall Meeting · GC14-08 · Online</p>
   </div>
 </div>
 
@@ -461,8 +389,8 @@ author_profile: true
   <span class="conf-year">2022</span>
   <div class="conf-body">
     <p class="conf-title">The potential of in-situ phenology data to estimate satellite-driven gross primary productivity of rice in Arkansas</p>
-    <p class="conf-authors"><strong>Mahbub, R. B.</strong>, Reba, M., &amp; Runkle, B. R.</p>
-    <p class="conf-where">American Geophysical Union Annual Meeting · Chicago Convention Center, Chicago, IL</p>
+    <p class="conf-authors"><strong>Mahbub, R. B.</strong>, Reba, M. L., &amp; Runkle, B. R.</p>
+    <p class="conf-where">AGU Fall Meeting · B45F-1780 · Chicago Convention Center, Chicago, IL</p>
   </div>
 </div>
 
