@@ -78,11 +78,11 @@ redirect_from:
      INTRO
 ══════════════════════════════════════ -->
 <p class="about-intro">
-Ph.D. in Environmental Dynamics (University of Arkansas, May 2026). I build models that turn satellite imagery, flux tower data, and environmental datasets into quantitative estimates of carbon uptake, greenhouse gas emissions, and land surface change — from individual fields to the state scale.
+Ph.D. in Environmental Dynamics (University of Arkansas, May 2026). I develop quantitative models and data-driven frameworks that bridge Earth system science, geospatial analytics, and sustainability strategy — from satellite-based carbon flux estimation to institutional decarbonization planning.
 </p>
 
 <p class="about-intro">
-I am seeking roles where <strong>ecosystem modeling, geospatial analytics, and applied data science</strong> directly inform sustainability strategy, climate policy, carbon accounting, or environmental decision-making.
+I am seeking interdisciplinary roles where <strong>computational modeling, integrated assessment, and environmental data science</strong> inform multi-sector decarbonization pathways, climate policy, and sustainability decision-making under uncertainty.
 </p>
 
 <div class="about-callout">
@@ -93,15 +93,15 @@ Recent work in <em>Nature</em> and <em>Nature Sustainability</em> highlights gro
 <!-- ── Roles ── -->
 <p class="ab-label">Roles I Am Targeting</p>
 <div class="ab-tag-row">
-  <span class="ab-tag blue">Environmental Data Analyst</span>
+  <span class="ab-tag blue">Postdoctoral Researcher</span>
+  <span class="ab-tag blue">Integrated Assessment Modeler</span>
   <span class="ab-tag blue">Climate &amp; Carbon Analyst</span>
-  <span class="ab-tag blue">Research Analyst</span>
-  <span class="ab-tag green">Geospatial Analyst</span>
+  <span class="ab-tag green">Environmental Data Scientist</span>
   <span class="ab-tag green">Sustainability Analyst</span>
-  <span class="ab-tag green">Environmental Consultant</span>
+  <span class="ab-tag green">Geospatial Analyst</span>
   <span class="ab-tag amber">Ecosystem Modeler</span>
-  <span class="ab-tag amber">LCA Analyst</span>
-  <span class="ab-tag amber">Remote Sensing Scientist</span>
+  <span class="ab-tag amber">Research Analyst</span>
+  <span class="ab-tag amber">Environmental Consultant</span>
 </div>
 
 <!-- ── Tool Belt ── -->
@@ -127,7 +127,7 @@ Recent work in <em>Nature</em> and <em>Nature Sustainability</em> highlights gro
   <div class="pos-item"><span class="pos-badge co">Co-Author</span><span class="pos-text">4 collaborative publications, 3 countries</span></div>
   <div class="pos-item"><span class="pos-badge mentor">Research Mentor</span><span class="pos-text">4 undergraduates incl. NSF REU</span></div>
   <div class="pos-item"><span class="pos-badge ta">Teaching Assistant</span><span class="pos-text">Biophysics &amp; Watershed Mgmt · 5 yrs</span></div>
-
+  <div class="pos-item"><span class="pos-badge lead">Sustainability Analyst</span><span class="pos-text">Carbon footprint &amp; decarbonization reporting</span></div>
 </div>
 
 <!-- ── Stats ── -->

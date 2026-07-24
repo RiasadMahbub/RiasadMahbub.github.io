@@ -171,6 +171,30 @@ author_profile: true
 }
 </style>
 
+<p class="we-label">Current Position</p>
+
+<!-- ── Office of Sustainability ── -->
+<div class="we-card">
+  <div class="we-header">
+    <div class="we-title-block">
+      <p class="we-role">Sustainability Analyst</p>
+      <p class="we-org">Office of Sustainability · University of Arkansas</p>
+      <p class="we-location">Fayetteville, AR</p>
+    </div>
+    <span class="we-tenure">Jun 2026 – Present</span>
+  </div>
+  <div class="we-body">
+    <ul class="we-bullets">
+      <li>
+        Developed carbon footprint analyses for transportation, food systems, and campus sustainability initiatives aligned with institutional decarbonization goals.
+        <a class="we-chip blue" href="https://drive.google.com/file/d/1HRTwBka8zxxvk04g2JZJNARcAfQXJKtI/view?usp=sharing" target="_blank">View Report ↗</a>
+      </li>
+      <li>Drafted comprehensive sustainability reports integrating quantitative metrics across energy, waste, water, and emissions inventories to inform strategic planning.</li>
+      <li>Collaborated with cross-functional teams to identify decarbonization pathways and support data-driven sustainability decision-making at the institutional level.</li>
+    </ul>
+  </div>
+</div>
+
 <p class="we-label">Research</p>
 
 <!-- ── Senior GRA ── -->
