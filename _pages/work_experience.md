@@ -305,34 +305,6 @@ author_profile: true
 
 <p class="we-label">Teaching</p>
 
-<!-- ── Teaching Assistant, North South University ── -->
-<div class="we-card">
-  <div class="we-header">
-    <div class="we-title-block">
-      <p class="we-role">Teaching Assistant</p>
-      <p class="we-org">Department of Environmental Science and Management · North South University</p>
-      <p class="we-location">Dhaka, Bangladesh</p>
-    </div>
-    <span class="we-tenure">2018 – 2020</span>
-  </div>
-  <div class="we-body">
-    <ul class="we-bullets">
-      <li>
-        Delivered guest lectures for the Research Methodology course, including a session on statistical analysis for research.
-        <a class="we-chip blue" href="https://docs.google.com/presentation/d/1E3dRZrX0tnZO6HmD0dpVAANIzyYjnE8D/edit?usp=sharing&ouid=101152535247414838860&rtpof=true&sd=true" target="_blank">Slides ↗</a>
-      </li>
-      <li>
-        Presented an overview of personal research as part of the Research Methodology course.
-        <a class="we-chip blue" href="https://docs.google.com/presentation/d/1Tyl7C53USMBkdFuiLfn-DgzTPAGH0iNk/edit?usp=sharing&ouid=101152535247414838860&rtpof=true&sd=true" target="_blank">Slides ↗</a>
-      </li>
-      <li>
-        Delivered a lecture for the Introduction to GIS course.
-        <a class="we-chip blue" href="https://docs.google.com/presentation/d/1GU82wZJ1YJ3GaS0W4wm6mad_FcWozDd5/edit?usp=sharing&ouid=101152535247414838860&rtpof=true&sd=true" target="_blank">Slides ↗</a>
-      </li>
-    </ul>
-  </div>
-</div>
-
 <!-- ── Teaching Assistant ── -->
 <div class="we-card">
   <div class="we-header">
