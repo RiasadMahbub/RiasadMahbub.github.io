@@ -209,7 +209,7 @@ author_profile: true
   <div class="aw-stat"><span class="aw-stat-num">$51,600</span><span class="aw-stat-lbl">Total Awarded</span></div>
   <div class="aw-stat"><span class="aw-stat-num">5</span><span class="aw-stat-lbl">Grants &amp; Fellowships</span></div>
   <div class="aw-stat"><span class="aw-stat-num">1</span><span class="aw-stat-lbl">Conference Award</span></div>
-  <div class="aw-stat"><span class="aw-stat-num">4</span><span class="aw-stat-lbl">Media Features</span></div>
+  <div class="aw-stat"><span class="aw-stat-num">5</span><span class="aw-stat-lbl">Media Features</span></div>
 </div>
 
 <!-- ══════════════════════════════════════
@@ -304,6 +304,11 @@ author_profile: true
       <span>Arkansas Soil and Water Education Conference and Irrigation EXPO · 2024</span>
     </p>
   </div>
+  <div class="media-card">
+    <span class="media-outlet">The Daily Star · Shout</span>
+    <p class="media-headline">Quick Getaway</p>
+    <a href="https://www.thedailystar.net/multimedia/shout/quick-getaway-1247740" target="_blank">Read article ↗</a>
+  </div>
 </div>
 
 <!-- ══════════════════════════════════════
@@ -315,6 +320,17 @@ author_profile: true
   <p class="aw-proposal-title">Predicting Spatial Information of Rice Growing Season Length and Gross Primary Productivity from Space and Site-Scale Instruments</p>
   <p class="aw-proposal-meta">NSF-style research proposal written for PhD comprehensive examination · University of Arkansas · 2024</p>
   <a class="aw-link" href="https://docs.google.com/document/d/1WeExC_W3Y2UXhavSI9Y2NytQ7qaHhCXE/edit?usp=sharing&ouid=101152535247414838860&rtpof=true&sd=true" target="_blank">Read Proposal ↗</a>
+</div>
+
+<!-- ══════════════════════════════════════
+     POST-DOCTORAL RESEARCH PROPOSAL
+══════════════════════════════════════ -->
+<p class="aw-label">Post-Doctoral Research Proposal</p>
+
+<div class="aw-proposal">
+  <p class="aw-proposal-title">Cropland Under Strain in the Arkansas Delta: A Satellite-Based Decision Support Tool for Identifying Productivity Constraints</p>
+  <p class="aw-proposal-meta">Confluence grant proposal · I3R · University of Arkansas · 2025</p>
+  <a class="aw-link" href="https://drive.google.com/file/d/1xjMoFDGGByECzNlm12zM4V6XFdWnJUzS/view?usp=sharing" target="_blank">Read Proposal ↗</a>
 </div>
 
 <!-- ══════════════════════════════════════
