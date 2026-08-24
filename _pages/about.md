@@ -1,152 +1,246 @@
----
+\---
+
 permalink: /
+
 title: "About"
+
 excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-{% include base_path %}
 
-<!-- ══════════════════════════════════════
-     CAROUSEL — CSS lives in custom.css
-     JS lives in _includes/carousel.html
-══════════════════════════════════════ -->
-<div class="carousel-section">
-<div class="carousel-wrap">
-  <button class="carousel-btn prev" onclick="carouselMove(-1)">&#8592;</button>
-  <button class="carousel-btn next" onclick="carouselMove(1)">&#8594;</button>
-  <div class="carousel-slides" id="carouselSlides">
+author\_profile: true
 
-    <div class="carousel-slide" onclick="window.location='/infographics/'">
-      <img src="/files/MethodologyProcessFlowDiagram.png" alt="Modeling Framework" />
-      <div class="carousel-caption">
-        <span class="carousel-caption-tag">Ecosystem Modeling · Arkansas</span>
-        <p class="carousel-caption-title">State-Scale GPP &amp; CH₄ Prediction Framework</p>
-        <p class="carousel-caption-desc">Integrated four data streams — eddy covariance flux towers, Sentinel/Landsat/MODIS imagery, soil datasets, and rice land cover — into a two-phase model predicting rice photosynthesis and methane emissions across all of Arkansas.</p>
-        <a class="carousel-caption-link" href="/infographics/">Explore visualizations →</a>
-      </div>
-    </div>
+redirect\_from: 
 
-    <div class="carousel-slide" onclick="window.location='/maps/'">
-      <img src="/files/VPMcumulativearranged.png" alt="GPP Map Arkansas" />
-      <div class="carousel-caption">
-        <span class="carousel-caption-tag">Remote Sensing · GIS · 500 m</span>
-        <p class="carousel-caption-title">Spatial Profile of Rice Photosynthesis Across Arkansas (2008–2020)</p>
-        <p class="carousel-caption-desc">13-year mean cumulative GPP map at 500 m resolution, revealing a north–south productivity gradient. Applicable to climate-smart agriculture programs, crop insurance models, and USDA reporting.</p>
-        <a class="carousel-caption-link" href="/maps/">Explore maps →</a>
-      </div>
-    </div>
+&#x20; - /about/
 
-    <div class="carousel-slide" onclick="window.location='/infographics/'">
-      <img src="/files/LUEbiophysical.png" alt="LUE Biophysical Factors" />
-      <div class="carousel-caption">
-        <span class="carousel-caption-tag">Machine Learning · GAM · 8 Variables</span>
-        <p class="carousel-caption-title">What Controls Light Use Efficiency in Rice?</p>
-        <p class="carousel-caption-desc">Eight-panel analysis linking LUE to VPD, humidity, soil moisture, vegetation indices, temperature, and heat accumulation. IAVI (r = 0.82) and VPD emerge as dominant drivers — informing irrigation scheduling under climate stress.</p>
-        <a class="carousel-caption-link" href="/infographics/">Explore visualizations →</a>
-      </div>
-    </div>
+&#x20; - /about.html
 
-    <div class="carousel-slide" onclick="window.location='/infographics/'">
-      <img src="/files/Combined_PD_HD_LO2YO_RMSE_drivers.png" alt="Climate drivers of model error" />
-      <div class="carousel-caption">
-        <span class="carousel-caption-tag">Cross-Validation · Climate Anomaly · Phenology</span>
-        <p class="carousel-caption-title">Climate Drives Harvest Date Prediction Accuracy</p>
-        <p class="carousel-caption-desc">Leave-2-years-out cross-validation: warmer, drier years yield more accurate harvest predictions (VPD: r = –0.72, p = 0.019). Understanding when models fail is as important as when they succeed.</p>
-        <a class="carousel-caption-link" href="/infographics/">Explore visualizations →</a>
-      </div>
-    </div>
+\---
 
-    <div class="carousel-slide" onclick="window.location='/maps/'">
-      <img src="/files/mapgppyieldsignificance.jpg" alt="GPP Yield Significance" />
-      <div class="carousel-caption">
-        <span class="carousel-caption-tag">Spatial Statistics · GPP · Yield Validation</span>
-        <p class="carousel-caption-title">Where Does Satellite-Modeled Photosynthesis Predict Yield?</p>
-        <p class="carousel-caption-desc">Field-level significance map showing where VPM-modeled GPP is a robust predictor of rice yield — foundational for precision agriculture and spatially explicit crop insurance design.</p>
-        <a class="carousel-caption-link" href="/maps/">Explore maps →</a>
-      </div>
-    </div>
+{% include base\_path %}
 
-  </div>
-</div>
-<div class="carousel-dots" id="carouselDots"></div>
-</div>
 
-<!-- ══════════════════════════════════════
-     INTRO
-══════════════════════════════════════ -->
+
+<style>
+
+.about-intro { font-size: 0.95rem; line-height: 1.8; color: #333; margin-bottom: 1rem; }
+
+.ab-label {
+
+&#x20; font-size: 0.68rem; font-weight: 700; text-transform: uppercase;
+
+&#x20; letter-spacing: 0.13em; color: #888; padding-bottom: 0.35rem;
+
+&#x20; border-bottom: 2px solid #e2e2e2; margin: 2rem 0 1rem; display: block;
+
+}
+
+.about-callout {
+
+&#x20; background: #f4f6f9; border-left: 4px solid #4a6fa5;
+
+&#x20; border-radius: 0 4px 4px 0; padding: 0.7rem 1rem;
+
+&#x20; font-size: 0.8rem; color: #444; line-height: 1.65; margin: 1rem 0 1.5rem;
+
+}
+
+.about-callout a { color: #4a6fa5; text-decoration: none; font-weight: 600; }
+
+.about-callout a:hover { text-decoration: underline; }
+
+
+
+/\* ── Stat row ── \*/
+
+.stat-row { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.4rem; }
+
+.stat-box {
+
+&#x20; background: #f4f6f9; border: 1px solid #dde0e6; border-radius: 5px;
+
+&#x20; padding: 0.6rem 1rem; text-align: center; min-width: 80px;
+
+}
+
+.stat-num { font-size: 1.35rem; font-weight: 700; color: #1a1a2e; display: block; line-height: 1.1; }
+
+.stat-lbl { font-size: 0.6rem; color: #888; text-transform: uppercase; letter-spacing: 0.08em; display: block; margin-top: 0.1rem; }
+
+
+
+/\* ── Skills grid ── \*/
+
+.skill-grid {
+
+&#x20; display: grid;
+
+&#x20; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+
+&#x20; gap: 0.5rem; margin-bottom: 0.5rem;
+
+}
+
+.skill-item {
+
+&#x20; background: #fafafa; border: 1px solid #dde0e6; border-radius: 4px;
+
+&#x20; padding: 0.55rem 0.8rem; font-size: 0.8rem; color: #333;
+
+}
+
+.skill-item strong { display: block; font-size: 0.76rem; color: #1a1a2e; margin-bottom: 0.1rem; }
+
+
+
+/\* ── Interest tags ── \*/
+
+.ab-tag-row { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.5rem; }
+
+.ab-tag {
+
+&#x20; font-size: 0.72rem; font-weight: 500; padding: 0.22rem 0.7rem;
+
+&#x20; border-radius: 2rem; border: 1px solid;
+
+}
+
+.ab-tag.blue  { background: #eef2f9; color: #2a4a8a; border-color: #b8c8e8; }
+
+.ab-tag.green { background: #eef5ea; color: #3a7a2a; border-color: #b8d8b0; }
+
+.ab-tag.amber { background: #f9f4ee; color: #7a4a1a; border-color: #e8d0b0; }
+
+
+
+/\* ── Affiliations ── \*/
+
+.affil-list { list-style: none; padding: 0; margin: 0; }
+
+.affil-list li { padding: 0.35rem 0; font-size: 0.83rem; color: #444; border-bottom: 1px solid #f0f0f0; }
+
+.affil-list li::before { content: "◆ "; font-size: 0.45rem; color: #aaa; vertical-align: middle; margin-right: 0.3rem; }
+
+
+
+@media (max-width: 540px) {
+
+&#x20; .skill-grid { grid-template-columns: 1fr 1fr; }
+
+&#x20; .stat-row { gap: 0.6rem; }
+
+}
+
+</style>
+
+
+
 <p class="about-intro">
-Ph.D. in Environmental Dynamics (University of Arkansas, May 2026). I develop quantitative models and data-driven frameworks that bridge Earth system science, geospatial analytics, and sustainability strategy — from satellite-based carbon flux estimation to institutional decarbonization planning.
+
+I am an environmental data scientist and ecosystem modeler with a Ph.D. in Environmental Dynamics (University of Arkansas, 2026). My research integrates satellite remote sensing, eddy covariance flux measurements, and machine learning to quantify carbon cycling, greenhouse gas emissions, and land surface dynamics — from individual fields to the state scale.
+
 </p>
 
+
+
 <p class="about-intro">
-I am seeking interdisciplinary roles where <strong>computational modeling, integrated assessment, and environmental data science</strong> inform multi-sector decarbonization pathways, climate policy, and sustainability decision-making under uncertainty.
+
+My current work at the University of Arkansas Office of Sustainability applies these methods to institutional carbon footprint analysis and decarbonization planning. I am seeking interdisciplinary research and analyst roles where computational modeling and spatial data science can inform multi-sector climate and sustainability decisions.
+
 </p>
+
+
 
 <div class="about-callout">
-Recent work in <em>Nature</em> and <em>Nature Sustainability</em> highlights growing demand for environmental scientists in corporate and policy roles —
-(<a href="https://www.nature.com/articles/s43017-024-00526-0" target="_blank">Pavlov et al. 2024</a> · <a href="https://www.nature.com/articles/d41586-025-04104-2" target="_blank">Lee 2026</a>)
+
+Growing regulatory and institutional pressure has created strong demand for scientists who combine quantitative rigor with applied environmental systems knowledge. (<a href="https://www.nature.com/articles/s43017-024-00526-0" target="\_blank">Pavlov et al., <em>Nature Sustainability</em>, 2024</a> · <a href="https://www.nature.com/articles/d41586-025-04104-2" target="\_blank">Lee, <em>Nature</em>, 2026</a>)
+
 </div>
 
-<!-- ── Roles ── -->
-<p class="ab-label">Roles I Am Targeting</p>
+
+
+<span class="ab-label">Research Interests</span>
+
 <div class="ab-tag-row">
-  <span class="ab-tag blue">Postdoctoral Researcher</span>
-  <span class="ab-tag blue">Integrated Assessment Modeler</span>
-  <span class="ab-tag blue">Climate &amp; Carbon Analyst</span>
-  <span class="ab-tag green">Environmental Data Scientist</span>
-  <span class="ab-tag green">Sustainability Analyst</span>
-  <span class="ab-tag green">Geospatial Analyst</span>
-  <span class="ab-tag amber">Ecosystem Modeler</span>
-  <span class="ab-tag amber">Research Analyst</span>
-  <span class="ab-tag amber">Environmental Consultant</span>
+
+&#x20; <span class="ab-tag blue">Carbon \&amp; GHG Flux Modeling</span>
+
+&#x20; <span class="ab-tag blue">Remote Sensing \&amp; GIS</span>
+
+&#x20; <span class="ab-tag blue">Machine Learning in Ecology</span>
+
+&#x20; <span class="ab-tag green">Multi-Sector Decarbonization</span>
+
+&#x20; <span class="ab-tag green">Sustainability Analytics</span>
+
+&#x20; <span class="ab-tag green">Environmental Policy</span>
+
+&#x20; <span class="ab-tag amber">Ecosystem \&amp; Crop Modeling</span>
+
+&#x20; <span class="ab-tag amber">Life Cycle Assessment</span>
+
+&#x20; <span class="ab-tag amber">Integrated Assessment</span>
+
 </div>
 
-<!-- ── Tool Belt ── -->
-<p class="ab-label">Tool Belt</p>
-<div class="tb-grid">
-  <div class="tb-item"><span class="tb-icon">🐍</span><div><span class="tb-name">Python</span><span class="tb-sub">pandas · sklearn · xarray</span></div></div>
-  <div class="tb-item"><span class="tb-icon">📊</span><div><span class="tb-name">R</span><span class="tb-sub">ggplot2 · tidyverse · mgcv</span></div></div>
-  <div class="tb-item"><span class="tb-icon">🛰️</span><div><span class="tb-name">Google Earth Engine</span><span class="tb-sub">JavaScript · large-scale analysis</span></div></div>
-  <div class="tb-item"><span class="tb-icon">🗺️</span><div><span class="tb-name">ArcGIS · QGIS</span><span class="tb-sub">ModelBuilder · spatial stats</span></div></div>
-  <div class="tb-item"><span class="tb-icon">🌿</span><div><span class="tb-name">VPM · Flux Modeling</span><span class="tb-sub">GPP · NEE · CH₄</span></div></div>
-  <div class="tb-item"><span class="tb-icon">🤖</span><div><span class="tb-name">Machine Learning</span><span class="tb-sub">XGBoost · RF · GAM</span></div></div>
-  <div class="tb-item"><span class="tb-icon">📡</span><div><span class="tb-name">Eddy Covariance</span><span class="tb-sub">EddyPro · AmeriFlux</span></div></div>
-  <div class="tb-item"><span class="tb-icon">🧮</span><div><span class="tb-name">Satellite Data</span><span class="tb-sub">Landsat · Sentinel · MODIS</span></div></div>
-  <div class="tb-item"><span class="tb-icon">⚗️</span><div><span class="tb-name">Deep Learning</span><span class="tb-sub">PyTorch · TensorFlow</span></div></div>
-  <div class="tb-item"><span class="tb-icon">📝</span><div><span class="tb-name">LaTeX · Git</span><span class="tb-sub">reproducible workflows</span></div></div>
+
+
+<span class="ab-label">Technical Skills</span>
+
+<div class="skill-grid">
+
+&#x20; <div class="skill-item"><strong>Python</strong>pandas · scikit-learn · xarray · scipy</div>
+
+&#x20; <div class="skill-item"><strong>R</strong>ggplot2 · tidyverse · mgcv · sf</div>
+
+&#x20; <div class="skill-item"><strong>Google Earth Engine</strong>JavaScript API · large-scale analysis</div>
+
+&#x20; <div class="skill-item"><strong>GIS</strong>ArcGIS · QGIS · ModelBuilder</div>
+
+&#x20; <div class="skill-item"><strong>Satellite Remote Sensing</strong>Landsat · Sentinel · MODIS</div>
+
+&#x20; <div class="skill-item"><strong>Machine Learning</strong>XGBoost · Random Forest · GAM</div>
+
+&#x20; <div class="skill-item"><strong>Ecosystem Modeling</strong>VPM · NEE gap-filling · CH₄ flux</div>
+
+&#x20; <div class="skill-item"><strong>Eddy Covariance</strong>EddyPro · LI-7500/7700 · AmeriFlux</div>
+
+&#x20; <div class="skill-item"><strong>Carbon Accounting</strong>GHG footprint · decarbonization analysis</div>
+
+&#x20; <div class="skill-item"><strong>Reproducible Research</strong>Git · GitHub · LaTeX</div>
+
 </div>
 
-<!-- ── Positions Held ── -->
-<p class="ab-label">Positions Held</p>
-<div class="pos-grid">
-  <div class="pos-item"><span class="pos-badge lead">Lead Author</span><span class="pos-text">3 first-author peer-reviewed papers</span></div>
-  <div class="pos-item"><span class="pos-badge lead">Lead Researcher</span><span class="pos-text">Dissertation: Arkansas rice GPP &amp; CH₄</span></div>
-  <div class="pos-item"><span class="pos-badge co">Co-Author</span><span class="pos-text">4 collaborative publications, 3 countries</span></div>
-  <div class="pos-item"><span class="pos-badge mentor">Research Mentor</span><span class="pos-text">4 undergraduates incl. NSF REU</span></div>
-  <div class="pos-item"><span class="pos-badge ta">Teaching Assistant</span><span class="pos-text">Biophysics &amp; Watershed Mgmt · 5 yrs</span></div>
-  <div class="pos-item"><span class="pos-badge lead">Sustainability Analyst</span><span class="pos-text">Carbon footprint &amp; decarbonization reporting</span></div>
-</div>
 
-<!-- ── Stats ── -->
-<p class="ab-label">Scientific Contributions</p>
+
+<span class="ab-label">Scientific Contributions</span>
+
 <div class="stat-row">
-  <div class="stat-box"><span class="stat-num">7</span><span class="stat-lbl">Publications</span></div>
-  <div class="stat-box"><span class="stat-num">3</span><span class="stat-lbl">First-Author</span></div>
-  <div class="stat-box"><span class="stat-num">71</span><span class="stat-lbl">Citations</span></div>
-  <div class="stat-box"><span class="stat-num">4</span><span class="stat-lbl">h-index</span></div>
-  <div class="stat-box"><span class="stat-num">3</span><span class="stat-lbl">i10-index</span></div>
-  <div class="stat-box"><span class="stat-num">8</span><span class="stat-lbl">Conferences</span></div>
-</div>
-<p style="font-size:0.72rem;color:#bbb;margin-top:0.4rem;">Google Scholar · updated June 2026</p>
 
-<!-- ── Affiliations ── -->
-<p class="ab-label">Affiliations</p>
+&#x20; <div class="stat-box"><span class="stat-num">7</span><span class="stat-lbl">Publications</span></div>
+
+&#x20; <div class="stat-box"><span class="stat-num">4</span><span class="stat-lbl">First Author</span></div>
+
+&#x20; <div class="stat-box"><span class="stat-num">71</span><span class="stat-lbl">Citations</span></div>
+
+&#x20; <div class="stat-box"><span class="stat-num">4</span><span class="stat-lbl">h-index</span></div>
+
+&#x20; <div class="stat-box"><span class="stat-num">3</span><span class="stat-lbl">i10-index</span></div>
+
+&#x20; <div class="stat-box"><span class="stat-num">8</span><span class="stat-lbl">Conferences</span></div>
+
+</div>
+
+<p style="font-size:0.72rem;color:#bbb;margin-top:0.4rem;">Google Scholar · updated July 2026</p>
+
+
+
+<span class="ab-label">Affiliations</span>
+
 <ul class="affil-list">
-  <li>FLUXNET Early Career Scientist Network</li>
-  <li>American Geophysical Union — Student Member</li>
+
+&#x20; <li>FLUXNET Early Career Scientist Network</li>
+
+&#x20; <li>American Geophysical Union — Student Member</li>
+
 </ul>
 
-{% include carousel.html %}
