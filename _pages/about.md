@@ -60,21 +60,63 @@ redirect_from:
 .affil-list li::before { content: "◆ "; font-size: 0.45rem; color: #aaa; vertical-align: middle; margin-right: 0.3rem; }
 
 /* ── Profile links ── */
-.profile-links { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; }
+.profile-links { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem; }
 .profile-link {
-  display: inline-flex; align-items: center; gap: 0.4rem;
+  display: inline-flex; align-items: center; gap: 0.5rem;
   font-size: 0.78rem; font-weight: 600; padding: 0.35rem 0.75rem;
   border-radius: 4px; text-decoration: none; border: 1px solid;
   transition: opacity 0.15s;
 }
 .profile-link:hover { opacity: 0.8; text-decoration: none; }
-.profile-link.wos   { background: #e8f0fb; color: #1a3a7a; border-color: #b0c4e8; }
+.profile-link.wos { background: #f0f4fb; color: #1a3a7a; border-color: #b0c4e8; }
+.profile-link.wos img { height: 16px; width: auto; display: block; }
+
+/* ── Sidebar WoS injection ── */
+.wos-sidebar-link {
+  display: block;
+  margin-top: 0.5rem;
+}
+.wos-sidebar-link a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: #494e52;
+  font-size: 0.85rem;
+}
+.wos-sidebar-link a:hover { color: #000; text-decoration: underline; }
+.wos-sidebar-link img { height: 18px; width: auto; }
 
 @media (max-width: 540px) {
   .skill-grid { grid-template-columns: 1fr 1fr; }
   .stat-row { gap: 0.6rem; }
 }
 </style>
+
+<!-- ═══════════════════════════════════════════════════
+     INJECT WoS LINK INTO THE SIDEBAR
+     Targets .author__urls which is the sidebar social list
+     in the academicpages / minimal-mistakes theme.
+     ═══════════════════════════════════════════════════ -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var urlsList = document.querySelector("ul.author__urls");
+  if (!urlsList) return;
+
+  var li = document.createElement("li");
+  li.style.cssText = "padding:4px 0;";
+  li.innerHTML =
+    '<a href="https://www.webofscience.com/wos/author/record/QQC-4873-2026" '
+    + 'target="_blank" rel="noopener" '
+    + 'style="display:inline-flex;align-items:center;gap:6px;'
+    + 'text-decoration:none;color:#494e52;font-size:0.85rem;">'
+    + '<img src="/images/clarivate-web-of-science-logo-vector.png" '
+    + 'style="height:16px;width:auto;" alt="Web of Science" />'
+    + '<span>Web of Science</span>'
+    + '</a>';
+  urlsList.appendChild(li);
+});
+</script>
 
 <p class="about-intro">
 I am an environmental data scientist and ecosystem modeler with a Ph.D. in Environmental Dynamics (University of Arkansas, 2026). My research integrates satellite remote sensing, eddy covariance flux measurements, and machine learning to quantify carbon cycling, greenhouse gas emissions, and land surface dynamics — from individual fields to the state scale.
@@ -135,12 +177,9 @@ Growing regulatory and institutional pressure has created strong demand for scie
   <a class="profile-link wos"
      href="https://www.webofscience.com/wos/author/record/QQC-4873-2026"
      target="_blank" rel="noopener">
-    <!-- Web of Science inline SVG icon -->
-    <svg width="14" height="14" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="16" cy="16" r="16" fill="#1a3a7a"/>
-      <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle"
-            font-family="Georgia,serif" font-size="13" font-weight="bold" fill="#fff">W</text>
-    </svg>
-    Web of Science &nbsp;<span style="font-weight:400;color:#6a8abf;">QQC-4873-2026</span>
+    <img src="/images/clarivate-web-of-science-logo-vector.png"
+         alt="Web of Science logo" />
+    Web of Science
+    <span style="font-weight:400;color:#6a8abf;">QQC-4873-2026</span>
   </a>
 </div>
