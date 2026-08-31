@@ -96,7 +96,7 @@ Growing regulatory and institutional pressure has created strong demand for scie
 <div class="stat-row">
   <div class="stat-box"><span class="stat-num">7</span><span class="stat-lbl">Publications</span></div>
   <div class="stat-box"><span class="stat-num">4</span><span class="stat-lbl">First Author</span></div>
-  <div class="stat-box"><span class="stat-num">71</span><span class="stat-lbl">Citations</span></div>
+  <div class="stat-box"><span class="stat-num">76</span><span class="stat-lbl">Citations</span></div>
   <div class="stat-box"><span class="stat-num">4</span><span class="stat-lbl">h-index</span></div>
   <div class="stat-box"><span class="stat-num">3</span><span class="stat-lbl">i10-index</span></div>
   <div class="stat-box"><span class="stat-num">8</span><span class="stat-lbl">Conferences</span></div>
