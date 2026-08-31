@@ -22,8 +22,6 @@ redirect_from:
 }
 .about-callout a { color: #4a6fa5; text-decoration: none; font-weight: 600; }
 .about-callout a:hover { text-decoration: underline; }
-
-/* ── Stat row ── */
 .stat-row { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.4rem; }
 .stat-box {
   background: #f4f6f9; border: 1px solid #dde0e6; border-radius: 5px;
@@ -31,11 +29,8 @@ redirect_from:
 }
 .stat-num { font-size: 1.35rem; font-weight: 700; color: #1a1a2e; display: block; line-height: 1.1; }
 .stat-lbl { font-size: 0.6rem; color: #888; text-transform: uppercase; letter-spacing: 0.08em; display: block; margin-top: 0.1rem; }
-
-/* ── Skills grid ── */
 .skill-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 0.5rem; margin-bottom: 0.5rem;
 }
 .skill-item {
@@ -43,8 +38,6 @@ redirect_from:
   padding: 0.55rem 0.8rem; font-size: 0.8rem; color: #333;
 }
 .skill-item strong { display: block; font-size: 0.76rem; color: #1a1a2e; margin-bottom: 0.1rem; }
-
-/* ── Interest tags ── */
 .ab-tag-row { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 0.5rem; }
 .ab-tag {
   font-size: 0.72rem; font-weight: 500; padding: 0.22rem 0.7rem;
@@ -53,70 +46,14 @@ redirect_from:
 .ab-tag.blue  { background: #eef2f9; color: #2a4a8a; border-color: #b8c8e8; }
 .ab-tag.green { background: #eef5ea; color: #3a7a2a; border-color: #b8d8b0; }
 .ab-tag.amber { background: #f9f4ee; color: #7a4a1a; border-color: #e8d0b0; }
-
-/* ── Affiliations ── */
 .affil-list { list-style: none; padding: 0; margin: 0; }
 .affil-list li { padding: 0.35rem 0; font-size: 0.83rem; color: #444; border-bottom: 1px solid #f0f0f0; }
 .affil-list li::before { content: "◆ "; font-size: 0.45rem; color: #aaa; vertical-align: middle; margin-right: 0.3rem; }
-
-/* ── Profile links ── */
-.profile-links { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem; }
-.profile-link {
-  display: inline-flex; align-items: center; gap: 0.5rem;
-  font-size: 0.78rem; font-weight: 600; padding: 0.35rem 0.75rem;
-  border-radius: 4px; text-decoration: none; border: 1px solid;
-  transition: opacity 0.15s;
-}
-.profile-link:hover { opacity: 0.8; text-decoration: none; }
-.profile-link.wos { background: #f0f4fb; color: #1a3a7a; border-color: #b0c4e8; }
-.profile-link.wos img { height: 16px; width: auto; display: block; }
-
-/* ── Sidebar WoS injection ── */
-.wos-sidebar-link {
-  display: block;
-  margin-top: 0.5rem;
-}
-.wos-sidebar-link a {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  text-decoration: none;
-  color: #494e52;
-  font-size: 0.85rem;
-}
-.wos-sidebar-link a:hover { color: #000; text-decoration: underline; }
-.wos-sidebar-link img { height: 18px; width: auto; }
-
 @media (max-width: 540px) {
   .skill-grid { grid-template-columns: 1fr 1fr; }
   .stat-row { gap: 0.6rem; }
 }
 </style>
-
-<!-- ═══════════════════════════════════════════════════
-     INJECT WoS LINK INTO THE SIDEBAR
-     Targets .author__urls which is the sidebar social list
-     in the academicpages / minimal-mistakes theme.
-     ═══════════════════════════════════════════════════ -->
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  var urlsList = document.querySelector("ul.author__urls");
-  if (!urlsList) return;
-
-  var li = document.createElement("li");
-  li.style.cssText = "padding:4px 0;";
-  li.innerHTML =
-    '<a href="https://www.webofscience.com/wos/author/record/QQC-4873-2026" '
-    + 'target="_blank" rel="noopener" '
-    + 'style="display:inline-flex;align-items:center;gap:6px;'
-    + 'text-decoration:none;color:#494e52;font-size:0.85rem;">'
-    + '<img src="/images/clarivate-web-of-science-logo-vector.png" '
-    + 'style="height:16px;width:auto;" alt="Web of Science" />'
-    + '<span>Web of Science</span>'
-    + '</a>';
-  urlsList.appendChild(li);
-});
-</script>
 
 <p class="about-intro">
 I am an environmental data scientist and ecosystem modeler with a Ph.D. in Environmental Dynamics (University of Arkansas, 2026). My research integrates satellite remote sensing, eddy covariance flux measurements, and machine learning to quantify carbon cycling, greenhouse gas emissions, and land surface dynamics — from individual fields to the state scale.
@@ -171,15 +108,3 @@ Growing regulatory and institutional pressure has created strong demand for scie
   <li>FLUXNET Early Career Scientist Network</li>
   <li>American Geophysical Union — Student Member</li>
 </ul>
-
-<span class="ab-label">Researcher Profiles</span>
-<div class="profile-links">
-  <a class="profile-link wos"
-     href="https://www.webofscience.com/wos/author/record/QQC-4873-2026"
-     target="_blank" rel="noopener">
-    <img src="/images/clarivate-web-of-science-logo-vector.png"
-         alt="Web of Science logo" />
-    Web of Science
-    <span style="font-weight:400;color:#6a8abf;">QQC-4873-2026</span>
-  </a>
-</div>
