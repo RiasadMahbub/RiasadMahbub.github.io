@@ -112,6 +112,16 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.webofscience %}
+        <li>
+          <a href="{{ author.webofscience }}" target="_blank" rel="noopener noreferrer">
+            <img src="/images/clarivate-web-of-science-logo-vector.png"
+                 style="height:14px; width:auto; vertical-align:middle; margin-right:4px;"
+                 alt="Web of Science" />
+            Web of Science
+          </a>
+        </li>
+      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
