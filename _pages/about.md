@@ -72,5 +72,8 @@ redirect_from:
 
 <div class="sec">
   <h2>Affiliations.</h2>
-  <p class="sub" style="margin:0">FLUXNET Early Career Scientist Network · American Geophysical Union (student member)<br>Industry context: <a href="https://www.nature.com/articles/s43017-024-00526-0">Pavlov et al., <em>Nature Sustainability</em>, 2024</a> · <a href="https://www.nature.com/articles/d41586-025-04104-2">Lee, <em>Nature</em>, 2026</a></p>
+  <p class="sub" style="margin:0">
+    FLUXNET Early Career Scientist Network · American Geophysical Union (student member)
+  </p>
 </div>
+
