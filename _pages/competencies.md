@@ -1,7 +1,9 @@
 ---
 layout: archive
-title: "Competencies"
-permalink: /competencies/
+title: "Skills & Experience"
+permalink: /skills/
+redirect_from:
+  - /competencies/
 author_profile: true
 ---
 {% include base_path %}

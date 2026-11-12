@@ -1,26 +1,18 @@
 # main links
 main:
-  - title: "Education"
-    url: /education/
-
-  - title: "Work Experience"
-    url: /work_experience/
-
-  - title: "Competencies"
-    url: /competencies/
-
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /publications/
-
-  - title: "Awards"
-    url: /awards/
-
-  - title: "Infographics"
-    url: /infographics/
-
   - title: "Maps"
     url: /maps/
-
+  - title: "Infographics"
+    url: /infographics/
+  - title: "Education"
+    url: /education/
+  - title: "Experience"
+    url: /work_experience/
+  - title: "Awards"
+    url: /awards/
   - title: "Resume"
     url: /resume/
-
