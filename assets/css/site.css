@@ -81,3 +81,15 @@ h1,h2,h3,h4{font-family:var(--serif);color:var(--ink)}
 .tl p{margin:0 0 8px;font-size:15px}
 .tl ul{margin:6px 0 0;padding-left:18px;font-size:15px;color:#333}
 .tl li{margin:3px 0}
+
+/* publications */
+.plist .p{display:grid;grid-template-columns:64px 1fr;gap:16px;padding:18px 0;border-top:1px solid var(--line)}
+.plist .p:last-child{border-bottom:1px solid var(--line)}
+.plist .y{font:400 20px var(--serif);color:var(--mut)}
+.plist h3{margin:0 0 4px;font:600 16.5px/1.4 var(--serif)}
+.plist .au,.plist .ve{margin:0 0 3px;font-size:14px;color:var(--mut)}
+.plist .au strong{color:var(--ink)}.plist .ve{font-style:italic}
+.tags2{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;margin-top:8px;font-size:13px}
+.tag{font-size:11.5px;padding:1px 9px;border:1px solid var(--line);border-radius:99px;color:var(--mut);font-family:var(--sans);font-weight:400}
+.tag.new{background:var(--ink);color:#fff;border-color:var(--ink);margin-left:6px;vertical-align:middle}
+@media(max-width:560px){.plist .p{grid-template-columns:48px 1fr;gap:10px}}
