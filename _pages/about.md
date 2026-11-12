@@ -33,10 +33,25 @@ redirect_from:
 
 <div class="sec">
   <h2>Education.</h2>
-  <div class="cards">
-    <article class="c edu"><div class="b"><span class="yr">2020 – 2026 · University of Arkansas</span><h3>Ph.D. in Environmental Dynamics</h3><p>Advisor: <a href="https://runkle.uark.edu/">Dr. Benjamin Runkle</a>. Dissertation: predicting spatial information of rice growing season length and gross primary productivity from space and site-scale instruments. <a href="https://www.proquest.com/dissertations-theses/predicting-spatial-information-rice-growing/docview/3354715870/se-2" target="_blank" rel="noopener noreferrer">ProQuest ↗</a></p></div></article>
-    <article class="c edu"><div class="b"><span class="yr">Spring 2023 · University of Arkansas</span><h3>M.Sc. in Environmental Dynamics</h3><p>Advisor: <a href="https://runkle.uark.edu/">Dr. Benjamin Runkle</a>. Thesis: estimation of gross primary productivity of rice in Arkansas using the Vegetation Photosynthesis Model. <a href="https://www.proquest.com/docview/2861133679?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses" target="_blank" rel="noopener noreferrer">ProQuest ↗</a></p></div></article>
-    <article class="c edu"><div class="b"><span class="yr">2014 – 2018 · North South University, Dhaka</span><h3>B.S. in Environmental Science</h3><p>Graduated <em>Cum Laude</em>. Thesis: the transition from forest ecosystem to agroecosystem through human appropriation of net primary productivity, a historical case study of Bangladesh, 1700–2016. <a href="https://www.sciencedirect.com/science/article/pii/S0264837719306799" target="_blank" rel="noopener noreferrer">Published article ↗</a></p></div></article>
+  <div class="tl">
+    <div class="ti now">
+      <span class="when">2020 &ndash; 2026</span>
+      <h3>Ph.D. in Environmental Dynamics</h3>
+      <p class="org">University of Arkansas, Fayetteville, AR</p>
+      <p>Advisor: <a href="https://runkle.uark.edu/">Dr. Benjamin Runkle</a>. Dissertation: <em>Predicting spatial information of rice growing season length and gross primary productivity from space and site-scale instruments.</em> <a href="https://www.proquest.com/dissertations-theses/predicting-spatial-information-rice-growing/docview/3354715870/se-2" target="_blank" rel="noopener noreferrer">ProQuest &nearr;</a></p>
+    </div>
+    <div class="ti">
+      <span class="when">Spring 2023</span>
+      <h3>M.Sc. in Environmental Dynamics</h3>
+      <p class="org">University of Arkansas, Fayetteville, AR</p>
+      <p>Advisor: <a href="https://runkle.uark.edu/">Dr. Benjamin Runkle</a>. Thesis: <em>Estimation of gross primary productivity of rice in Arkansas using the Vegetation Photosynthesis Model.</em> <a href="https://www.proquest.com/docview/2861133679?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses" target="_blank" rel="noopener noreferrer">ProQuest &nearr;</a></p>
+    </div>
+    <div class="ti">
+      <span class="when">2014 &ndash; 2018</span>
+      <h3>B.S. in Environmental Science</h3>
+      <p class="org">North South University, Dhaka, Bangladesh &middot; <em>Cum Laude</em></p>
+      <p>Thesis: <em>Understanding the transition from forest ecosystem to agroecosystem through the lens of human appropriation of net primary productivity (HANPP): a historical case study of Bangladesh, 1700&ndash;2016.</em> <a href="https://www.sciencedirect.com/science/article/pii/S0264837719306799" target="_blank" rel="noopener noreferrer">Published article &nearr;</a></p>
+    </div>
   </div>
 </div>
 

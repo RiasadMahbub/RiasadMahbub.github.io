@@ -7,77 +7,47 @@ author_profile: false
 {% include base_path %}
 
 <p class="lead" style="margin-top: -8px;">
-  I have taught and assisted in engineering and environmental courses at the University of Arkansas, and earlier in statistics and mechanics at Escuela Superior de Econom&iacute;a y Negocios in El Salvador.
+  At the University of Arkansas, I worked as a teaching assistant for undergraduate courses in biophysics and sustainable watershed management, supporting course activities, grading, and student projects. I also mentored undergraduate and graduate students in environmental data science and geospatial research.
 </p>
 
 <div class="sec" style="border: 0; padding-top: 24px;">
 
-  <h4>Instructor</h4>
-  <div class="cards">
-    <article class="c">
-      <div class="b">
-        <span class="when">Spring 2024 &middot; Current</span>
-        <h3>Design of Industrial Experiments</h3>
-        <p>Department of Industrial Engineering, University of Arkansas. Teaching M.Sc. and Ph.D. students from multiple engineering departments.</p>
-      </div>
-    </article>
-    <article class="c">
-      <div class="b">
-        <span class="when">Summer 2021</span>
-        <h3>Engineering Economic Analysis</h3>
-        <p>Department of Industrial Engineering, University of Arkansas. Instructor evaluation mean: 4.7 out of 5.</p>
-      </div>
-    </article>
-    <article class="c">
-      <div class="b">
-        <span class="when">Summer 2020</span>
-        <h3>Engineering Economic Analysis</h3>
-        <p>Department of Industrial Engineering, University of Arkansas.</p>
-      </div>
-    </article>
+  <h4>Teaching experience</h4>
+  <div class="tl">
+
+    <div class="ti">
+      <span class="when">Jan 2021 &ndash; Dec 2025</span>
+      <h3>Teaching Assistant</h3>
+      <p class="org">Department of Biological and Agricultural Engineering &middot; University of Arkansas, Fayetteville, AR</p>
+      <ul>
+        <li>Graded exams and assignments for the Sustainable Watershed Management course.</li>
+        <li>Collaborated with faculty in designing and structuring the Biophysics course curriculum.</li>
+        <li>Supervised and evaluated students in senior design projects.</li>
+      </ul>
+    </div>
+
+    <div class="ti">
+      <span class="when">North South University, Bangladesh</span>
+      <h3>Teaching Assistant</h3>
+      <p class="org">North South University, Dhaka, Bangladesh</p>
+      <ul>
+        <li>Delivered lectures in 400-level courses.</li>
+        <li>Trained students in R programming and GIS analysis, including spatial data processing and mapping using ArcGIS.</li>
+      </ul>
+    </div>
+
   </div>
 
-  <h4>Teaching assistant</h4>
-  <div class="cards">
-    <article class="c">
-      <div class="b">
-        <span class="when">Jan 2021 &ndash; Dec 2025</span>
-        <h3>Biological and Agricultural Engineering</h3>
-        <p>University of Arkansas.</p>
-        <ul class="cl">
-          <li>Graded exams and assignments for Sustainable Watershed Management</li>
-          <li>Worked with faculty to design and structure the Biophysics curriculum</li>
-          <li>Supervised and evaluated senior design projects</li>
-        </ul>
-      </div>
-    </article>
-    <article class="c">
-      <div class="b">
-        <span class="when">2019 &ndash; 2020</span>
-        <h3>Industrial Engineering</h3>
-        <p>University of Arkansas.</p>
-        <ul class="cl">
-          <li>Engineering Economic Analysis, Spring 2020</li>
-          <li>Production Planning and Control, Fall 2019</li>
-          <li>Applied Probability and Statistics II, Fall 2019</li>
-        </ul>
-      </div>
-    </article>
-    <article class="c">
-      <div class="b">
-        <span class="when">2011 &ndash; 2015</span>
-        <h3>Escuela Superior de Econom&iacute;a y Negocios</h3>
-        <p>La Libertad, El Salvador.</p>
-        <ul class="cl">
-          <li>Statistical Inference and Probability, 2015</li>
-          <li>R for Statistics, 2014</li>
-          <li>Rational Mechanics, 2011</li>
-        </ul>
-      </div>
-    </article>
-  </div>
+  <h4>Mentoring</h4>
+  <p style="max-width: 760px;">I have mentored undergraduate and graduate students in environmental data science and geospatial research. Individual mentees and projects are listed on the <a href="{{ base_path }}/work_experience/">experience page</a>.</p>
 
-  <h4>Mentorship</h4>
-  <p>I have mentored undergraduate researchers in remote sensing, eddy covariance data processing, and flux data analysis, including an NSF REU student and honors thesis students. Details are on the <a href="{{ base_path }}/work_experience/">experience page</a>.</p>
+  <h4>Professional development</h4>
+  <div class="tl">
+    <div class="ti">
+      <span class="when">University of Arkansas</span>
+      <h3>Big Teaching Assistant Training Workshop</h3>
+      <p>Completed professional teaching training, and was later invited to speak at the workshop about my teaching assistant experience.</p>
+    </div>
+  </div>
 
 </div>
