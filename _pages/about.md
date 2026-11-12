@@ -13,7 +13,6 @@ redirect_from:
 <div class="hero">
   <div>
     <div class="eyebrow">Environmental data scientist · Ph.D. 2026</div>
-    <h1>Measuring how <em>rice fields</em> breathe, from space and from the ground.</h1>
     <p class="lead">I combine satellite remote sensing, eddy covariance flux measurements and machine learning to quantify carbon cycling, greenhouse gas emissions and land surface dynamics, from single fields to the scale of a state. I am at the University of Arkansas, Fayetteville, and now applying these methods to institutional carbon footprint analysis and decarbonization planning.</p>
     <div class="btns">
       <a class="btn-s p" href="{{ base_path }}/research/">See the research</a>
@@ -25,22 +24,12 @@ redirect_from:
 </div>
 
 <div class="stats">
-  <div><b>7</b><span>Publications</span></div>
-  <div><b>76</b><span>Citations</span></div>
+  <div><b>8</b><span>Publications</span></div>
+  <div><b>83</b><span>Citations</span></div>
   <div><b>4</b><span>h-index</span></div>
-  <div><b>13</b><span>Years of rice GPP mapped (2008–2020)</span></div>
 </div>
 <p style="font-size:12px;color:var(--mut)">Google Scholar · updated July 2026</p>
 
-<div class="sec">
-  <h2>How I work.</h2>
-  <p class="sub">Three habits behind every model and map on this site.</p>
-  <div class="how">
-    <div><span>01</span><h3>Ground truth first</h3><p>Satellite estimates are calibrated against flux tower measurements before anything is mapped.</p></div>
-    <div><span>02</span><h3>Open by default</h3><p>Datasets and code are public on GitHub and the USDA Ag Data Commons.</p></div>
-    <div><span>03</span><h3>Scale with care</h3><p>Each result states its sensor, resolution and period, from field scale to 500 m MODIS.</p></div>
-  </div>
-</div>
 
 <div class="sec">
   <h2>From the maps.</h2>
