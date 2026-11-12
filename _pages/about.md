@@ -42,23 +42,33 @@ redirect_from:
   </div>
 </div>
 
+
 <div class="sec">
-  <h2>Interests and tools.</h2>
+  <h2>Research interests and skills.</h2>
   <div class="chips" style="margin-bottom:24px">
-    <span>Carbon &amp; GHG flux modeling</span><span>Remote sensing &amp; GIS</span><span>Machine learning in ecology</span><span>Multi-sector decarbonization</span><span>Sustainability analytics</span><span>Environmental policy</span><span>Ecosystem &amp; crop modeling</span><span>Life cycle assessment</span><span>Integrated assessment</span>
+    <span>Agricultural and forest ecosystems</span>
+    <span>Biogeography</span>
+    <span>Environmental change</span>
+    <span>Human–environment interactions</span>
+    <span>Environmental sustainability</span>
+    <span>Carbon accounting</span>
+    <span>Greenhouse gas emissions</span>
+    <span>Life cycle assessment</span>
+    <span>Climate and land-use impacts</span>
   </div>
   <div class="skills">
-    <div><strong>Python</strong>pandas · scikit-learn · xarray · scipy</div>
-    <div><strong>R</strong>ggplot2 · tidyverse · mgcv · sf</div>
-    <div><strong>Google Earth Engine</strong>JavaScript API · large-scale analysis</div>
-    <div><strong>GIS</strong>ArcGIS · QGIS · ModelBuilder</div>
-    <div><strong>Remote sensing</strong>Landsat · Sentinel · MODIS</div>
-    <div><strong>Machine learning</strong>XGBoost · Random Forest · GAM</div>
-    <div><strong>Ecosystem modeling</strong>VPM · NEE gap-filling · CH₄ flux</div>
-    <div><strong>Eddy covariance</strong>EddyPro · LI-7500/7700 · AmeriFlux</div>
+    <div><strong>Environmental Data Science</strong>Python · R · Statistical analysis · Data visualization</div>
+    <div><strong>Geospatial Analysis</strong>GIS · Spatial analysis · Mapping · ArcGIS · QGIS</div>
+    <div><strong>Remote Sensing</strong>Satellite data · Land-cover mapping · Environmental monitoring</div>
+    <div><strong>Environmental Modeling</strong>Ecosystem productivity · Carbon exchange · Crop and forest models</div>
+    <div><strong>Machine Learning</strong>Predictive modeling · Random Forest · XGBoost</div>
+    <div><strong>Field Research</strong>Environmental monitoring · Eddy covariance · Greenhouse gas measurements</div>
+    <div><strong>Programming and Analysis</strong>Python · R · Google Earth Engine · Statistical modeling</div>
+    <div><strong>Research Data Management</strong>Data processing · Quality control · AmeriFlux data</div>
   </div>
   <p style="margin-top:18px"><a href="{{ base_path }}/skills/">Full skills, teaching and research experience →</a></p>
 </div>
+
 
 <div class="sec">
   <h2>Affiliations.</h2>
