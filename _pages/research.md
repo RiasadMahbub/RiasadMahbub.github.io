@@ -8,12 +8,7 @@ author_profile: false
 {% include base_path %}
 
 <p class="lead" style="margin-top:-8px">
-  My research examines how agricultural and natural ecosystems respond to
-  environmental change and how land and resource management affect
-  productivity, carbon emissions, and sustainability. I combine field
-  measurements, satellite data, GIS, and environmental modeling to address
-  questions in agricultural science, ecology, geography, and environmental
-  sustainability.
+  My research examines how agricultural and natural ecosystems respond to environmental change and how land and resource management affect productivity, carbon emissions, and sustainability. I combine field measurements, satellite data, GIS, and environmental modeling to study ecosystem productivity, greenhouse gas emissions, crop development, and land-use change.
 </p>
 
 <div class="sec" style="border:0;padding-top:24px">
@@ -21,6 +16,7 @@ author_profile: false
 <h4>Research areas</h4>
 <div class="chips" style="margin-bottom:24px">
   <span>Agricultural sustainability</span>
+  <span>Forest and agricultural ecosystems</span>
   <span>Ecosystem productivity</span>
   <span>Carbon and greenhouse gas emissions</span>
   <span>Crop phenology</span>
@@ -32,73 +28,57 @@ author_profile: false
 
 <h4>Interdisciplinary research and collaborations</h4>
 <p>
-  My research has involved collaboration across university research groups,
-  federal research laboratories, and international research networks.
-  These collaborations have connected field-based ecosystem research with
-  geospatial analysis, agricultural management, water resources, and
-  environmental sustainability.
+  My research experience spans agricultural science, geography, environmental engineering, and sustainability. Through university research groups, federal research laboratories, and international research collaborations, I have worked on projects connecting field measurements, geospatial analysis, agricultural management, water resources, and environmental assessment.
 </p>
 
 <div class="skills">
   <div>
     <strong>Landscape Flux Group</strong>
-    University of Arkansas · Agricultural ecosystem research, carbon and
-    greenhouse gas measurements, ecosystem productivity, and environmental
-    modeling.
+    University of Arkansas · Rice agroecosystems, ecosystem productivity, carbon exchange, and greenhouse gas measurements.
     <a href="https://runkle.uark.edu/">Research group ↗</a>
   </div>
 
   <div>
     <strong>Environmental Geocomputation Lab (EGCL)</strong>
-    University of Arkansas · Satellite remote sensing, GIS, agricultural
-    systems, spatial analysis, and precision agriculture.
+    University of Arkansas · Geospatial analysis, satellite remote sensing, agricultural systems, and precision agriculture.
     <a href="https://egcl.uark.edu/">Research group ↗</a>
   </div>
 
   <div>
     <strong>USDA-ARS Delta Water Management Research Unit</strong>
-    Agricultural water management, irrigation practices, field measurements,
-    and greenhouse gas emissions in rice production systems.
-    <a href="https://www.ars.usda.gov/southeast-area/jonesboro-ar/delta-water-management-research/">
-      Research unit ↗
-    </a>
+    Agricultural water management, irrigation practices, field measurements, and greenhouse gas emissions in rice production systems.
+    <a href="https://www.ars.usda.gov/southeast-area/jonesboro-ar/delta-water-management-research/">Research unit ↗</a>
   </div>
 
   <div>
     <strong>Decoupling Lab</strong>
-    North South University, Bangladesh · Resource efficiency, material flows,
-    industrial ecology, and environmental sustainability.
-    <a href="https://www.researchgate.net/lab/Decoupling-Lab-Mohammad-Sujauddin">
-      Research group ↗
-    </a>
+    Bangladesh · Resource efficiency, material flows, and environmental sustainability.
+    <a href="https://www.researchgate.net/lab/Decoupling-Lab-Mohammad-Sujauddin">Research group ↗</a>
   </div>
 
   <div>
     <strong>Cooperation for Resource Efficiency (CORE)</strong>
-    Bangladesh · Research related to resource use, environmental assessment,
-    and sustainability.
-    <a href="https://cu.ac.bd/public_profile/index.php?ein=4167">
-      University profile ↗
-    </a>
+    Bangladesh · Research related to resource use and environmental sustainability.
+    <a href="https://cu.ac.bd/public_profile/index.php?ein=4167">University profile ↗</a>
   </div>
 </div>
 
-<div class="lines" style="margin:32px 0 8px">
+<div class="lines" style="margin:40px 0 8px">
   <div class="line">
     <h3>Carbon flux modeling</h3>
-    <p>Gross primary productivity of rice with the Vegetation Photosynthesis Model, calibrated using flux tower measurements.</p>
+    <p>Gross primary productivity of rice with the Vegetation Photosynthesis Model, calibrated on flux towers.</p>
   </div>
   <div class="line">
     <h3>Crop phenology</h3>
-    <p>Satellite time series and machine learning to estimate field-level rice planting and harvest dates.</p>
+    <p>Satellite time series and machine learning to detect planting and harvest dates at field scale.</p>
   </div>
   <div class="line">
     <h3>Greenhouse gases</h3>
-    <p>Methane and CO₂ exchange under contrasting water management and fallow-season practices.</p>
+    <p>Methane and CO₂ fluxes under contrasting water management and fallow-season practices.</p>
   </div>
 </div>
 
-<h4>Research projects</h4>
+<h4>Projects</h4>
 <div class="cards">
   <article class="c">
     <img src="{{ base_path }}/files/VPMcumulativearranged.png" alt="" loading="lazy">
@@ -212,4 +192,5 @@ author_profile: false
   <a href="{{ base_path }}/maps/">Map gallery →</a> &nbsp;
   <a href="{{ base_path }}/skills/">Skills &amp; experience →</a>
 </p>
+
 </div>
