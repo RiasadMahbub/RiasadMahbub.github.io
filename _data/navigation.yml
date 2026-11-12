@@ -8,8 +8,8 @@ main:
     url: /maps/
   - title: "Infographics"
     url: /infographics/
-  - title: "Education"
-    url: /education/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Experience"
     url: /work_experience/
   - title: "Awards"
