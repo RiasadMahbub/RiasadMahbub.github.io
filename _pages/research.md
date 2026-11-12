@@ -25,6 +25,27 @@ author_profile: false
     <span>Environmental assessment</span>
   </div>
 
+  <h4>Current research</h4>
+  <div class="cards" style="margin-bottom: 8px;">
+    <article class="c">
+      <div class="b">
+        <span class="when">Jun 2026 &ndash; present &middot; Office of Sustainability, University of Arkansas</span>
+        <h3>Institutional carbon footprint and decarbonization</h3>
+        <p>Carbon footprint analyses for transportation, food systems, and campus sustainability initiatives, and sustainability reports that bring energy, waste, water, and emissions inventories together to support decarbonization planning.</p>
+        <div class="tg"><span>Carbon accounting</span><span>Decarbonization</span><span>Sustainability analytics</span></div>
+        <div class="l"><a href="https://drive.google.com/file/d/1HRTwBka8zxxvk04g2JZJNARcAfQXJKtI/view?usp=sharing" target="_blank" rel="noopener noreferrer">View report &nearow;</a></div>
+      </div>
+    </article>
+    <article class="c">
+      <div class="b">
+        <span class="when">Ongoing &middot; Rice agroecosystems</span>
+        <h3>Rice productivity and crop phenology</h3>
+        <p>Continuing the dissertation work on rice growing season length and gross primary productivity, including field-scale planting and harvest date mapping (Science of Remote Sensing, 2026) and the open datasets and code that go with it.</p>
+        <div class="tg"><span>GPP</span><span>Phenology</span><span>Remote sensing</span></div>
+      </div>
+    </article>
+  </div>
+
   <h4>Interdisciplinary research and collaborations</h4>
   <p>
     My research experience spans agricultural science, geography, environmental engineering, and sustainability. Through university research groups, federal research laboratories, and international research collaborations, I have worked on projects connecting field measurements, geospatial analysis, agricultural management, water resources, and environmental assessment.
@@ -77,7 +98,8 @@ author_profile: false
     </div>
   </div>
 
-  <h4>Projects</h4>
+  <h4>Past research</h4>
+  <p style="color: var(--mut); max-width: 660px;">Doctoral and master&rsquo;s work at the University of Arkansas (2021&ndash;2026), and earlier research in Bangladesh (2016&ndash;2018).</p>
   <div class="cards">
     <article class="c">
       <img src="{{ base_path }}/files/VPMcumulativearranged.png" alt="Cumulative rice GPP map across Arkansas" loading="lazy">
@@ -128,6 +150,24 @@ author_profile: false
         <h3>Human appropriation of NPP, Bangladesh</h3>
         <p>District-level HANPP from 1700 to 2100 (Land Use Policy, 2019), with related work on urban waterlogging and sea turtle conservation.</p>
         <div class="tg"><span>Land use</span><span>GIS</span><span>Bangladesh</span></div>
+      </div>
+    </article>
+    <article class="c">
+      <div class="b">
+        <span class="when">2016 &ndash; 2018 &middot; Decoupling Lab, North South University</span>
+        <h3>Forest biomass and land use change</h3>
+        <p>Functional diversity and aboveground biomass in the Sylhet Forest Division from remote sensing and field inventory, and land use change in Bangladesh from 1700 to 2100.</p>
+        <div class="tg"><span>Biomass</span><span>Land use</span><span>R / ArcGIS</span></div>
+      </div>
+    </article>
+
+    <article class="c">
+      <div class="b">
+        <span class="when">2017 &ndash; 2018 &middot; CORE Lab, Chittagong</span>
+        <h3>Industrial symbiosis and green infrastructure</h3>
+        <p>Industrial symbiotic networks, air pollution hotspots across Bangladesh, and lifecycle-based economic and environmental assessment of green infrastructure.</p>
+        <div class="tg"><span>Resource efficiency</span><span>Spatial analysis</span><span>LCA</span></div>
+        <div class="l"><a href="https://drive.google.com/file/d/1g-yQo2jES-QbwhrLZo9l4j3CrWWFEmhU/view?usp=sharing" target="_blank" rel="noopener noreferrer">View report &nearow;</a></div>
       </div>
     </article>
   </div>
