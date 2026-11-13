@@ -33,11 +33,7 @@ author_profile: false
         <h3>Institutional carbon footprint and decarbonization</h3>
         <p>Carbon footprint analyses for transportation, food systems, and campus sustainability initiatives, and sustainability reports that bring energy, waste, water, and emissions inventories together to support decarbonization planning.</p>
         <div class="tg"><span>Carbon accounting</span><span>Decarbonization</span><span>Sustainability analytics</span></div>
-<<<<<<< Updated upstream
-        <div class="l"><a href="https://drive.google.com/file/d/1HRTwBka8zxxvk04g2JZJNARcAfQXJKtI/view?usp=sharing" target="_blank" rel="noopener noreferrer">View report &nearow;</a></div>
-=======
         <div class="l"><a href="https://drive.google.com/file/d/1HRTwBka8zxxvk04g2JZJNARcAfQXJKtI/view?usp=sharing" target="_blank" rel="noopener noreferrer">View report &nearr;</a></div>
->>>>>>> Stashed changes
       </div>
     </article>
     <article class="c">
@@ -59,51 +55,31 @@ author_profile: false
     <div>
       <strong>Landscape Flux Group</strong>
       University of Arkansas &middot; Rice agroecosystems, ecosystem productivity, carbon exchange, and greenhouse gas measurements.
-<<<<<<< Updated upstream
-      <a href="https://runkle.uark.edu/" target="_blank" rel="noopener noreferrer">Research group &nearow;</a>
-=======
       <a href="https://runkle.uark.edu/" target="_blank" rel="noopener noreferrer">Research group &nearr;</a>
->>>>>>> Stashed changes
     </div>
 
     <div>
       <strong>Environmental Geocomputation Lab (EGCL)</strong>
       University of Arkansas &middot; Geospatial analysis, satellite remote sensing, agricultural systems, and precision agriculture.
-<<<<<<< Updated upstream
-      <a href="https://egcl.uark.edu/" target="_blank" rel="noopener noreferrer">Research group &nearow;</a>
-=======
       <a href="https://egcl.uark.edu/" target="_blank" rel="noopener noreferrer">Research group &nearr;</a>
->>>>>>> Stashed changes
     </div>
 
     <div>
       <strong>USDA-ARS Delta Water Management Research Unit</strong>
       Agricultural water management, irrigation practices, field measurements, and greenhouse gas emissions in rice production systems.
-<<<<<<< Updated upstream
-      <a href="https://www.ars.usda.gov/southeast-area/jonesboro-ar/delta-water-management-research/" target="_blank" rel="noopener noreferrer">Research unit &nearow;</a>
-=======
       <a href="https://www.ars.usda.gov/southeast-area/jonesboro-ar/delta-water-management-research/" target="_blank" rel="noopener noreferrer">Research unit &nearr;</a>
->>>>>>> Stashed changes
     </div>
 
     <div>
       <strong>Decoupling Lab</strong>
       Bangladesh &middot; Resource efficiency, material flows, and environmental sustainability.
-<<<<<<< Updated upstream
-      <a href="https://www.researchgate.net/lab/Decoupling-Lab-Mohammad-Sujauddin" target="_blank" rel="noopener noreferrer">Research group &nearow;</a>
-=======
       <a href="https://www.researchgate.net/lab/Decoupling-Lab-Mohammad-Sujauddin" target="_blank" rel="noopener noreferrer">Research group &nearr;</a>
->>>>>>> Stashed changes
     </div>
 
     <div>
       <strong>Cooperation for Resource Efficiency (CORE)</strong>
       Bangladesh &middot; Research related to resource use and environmental sustainability.
-<<<<<<< Updated upstream
-      <a href="https://cu.ac.bd/public_profile/index.php?ein=4167" target="_blank" rel="noopener noreferrer">University profile &nearow;</a>
-=======
       <a href="https://cu.ac.bd/public_profile/index.php?ein=4167" target="_blank" rel="noopener noreferrer">University profile &nearr;</a>
->>>>>>> Stashed changes
     </div>
   </div>
 
@@ -191,11 +167,7 @@ author_profile: false
         <h3>Industrial symbiosis and green infrastructure</h3>
         <p>Industrial symbiotic networks, air pollution hotspots across Bangladesh, and lifecycle-based economic and environmental assessment of green infrastructure.</p>
         <div class="tg"><span>Resource efficiency</span><span>Spatial analysis</span><span>LCA</span></div>
-<<<<<<< Updated upstream
-        <div class="l"><a href="https://drive.google.com/file/d/1g-yQo2jES-QbwhrLZo9l4j3CrWWFEmhU/view?usp=sharing" target="_blank" rel="noopener noreferrer">View report &nearow;</a></div>
-=======
         <div class="l"><a href="https://drive.google.com/file/d/1g-yQo2jES-QbwhrLZo9l4j3CrWWFEmhU/view?usp=sharing" target="_blank" rel="noopener noreferrer">View report &nearr;</a></div>
->>>>>>> Stashed changes
       </div>
     </article>
   </div>
@@ -207,13 +179,8 @@ author_profile: false
         <h3>Cumulative rice GPP, Arkansas, 500 m</h3>
         <p>2008&ndash;2020 dataset with crop frequency, county shapefiles, temperature, PAR, EVI, LSWI and VPM-modeled GPP across six rice ecological zones.</p>
         <div class="l">
-<<<<<<< Updated upstream
-          <a href="https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983" target="_blank" rel="noopener noreferrer">Dataset &nearow;</a>
-          <a href="https://github.com/RiasadMahbub/Arkansas-Rice-GPP-VPM" target="_blank" rel="noopener noreferrer">GitHub &nearow;</a>
-=======
           <a href="https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983" target="_blank" rel="noopener noreferrer">Dataset &nearr;</a>
           <a href="https://github.com/RiasadMahbub/Arkansas-Rice-GPP-VPM" target="_blank" rel="noopener noreferrer">GitHub &nearr;</a>
->>>>>>> Stashed changes
         </div>
       </div>
     </article>
@@ -222,11 +189,7 @@ author_profile: false
       <div class="b">
         <h3>Flux partitioning and NEE gap-filling</h3>
         <p>Eddy covariance scripts for gap-filling NEE and partitioning GPP and ecosystem respiration, following AmeriFlux standards.</p>
-<<<<<<< Updated upstream
-        <div class="l"><a href="https://github.com/RiasadMahbub/Fluxdata" target="_blank" rel="noopener noreferrer">GitHub &nearow;</a></div>
-=======
         <div class="l"><a href="https://github.com/RiasadMahbub/Fluxdata" target="_blank" rel="noopener noreferrer">GitHub &nearr;</a></div>
->>>>>>> Stashed changes
       </div>
     </article>
 
@@ -234,11 +197,7 @@ author_profile: false
       <div class="b">
         <h3>RicePDHD-Arkansas</h3>
         <p>Code for predicting rice planting and harvest dates from satellite time series and machine learning.</p>
-<<<<<<< Updated upstream
-        <div class="l"><a href="https://github.com/RiasadMahbub/RicePDHD-Arkansas" target="_blank" rel="noopener noreferrer">GitHub &nearow;</a></div>
-=======
         <div class="l"><a href="https://github.com/RiasadMahbub/RicePDHD-Arkansas" target="_blank" rel="noopener noreferrer">GitHub &nearr;</a></div>
->>>>>>> Stashed changes
       </div>
     </article>
 
@@ -246,11 +205,7 @@ author_profile: false
       <div class="b">
         <h3>Augmenting LUE for rice GPP</h3>
         <p>Vegetation indices and in-situ data for parameterizing light use efficiency.</p>
-<<<<<<< Updated upstream
-        <div class="l"><a href="https://github.com/RiasadMahbub/Augmenting_LUE_Rice_GPP_Arkansas" target="_blank" rel="noopener noreferrer">GitHub &nearow;</a></div>
-=======
         <div class="l"><a href="https://github.com/RiasadMahbub/Augmenting_LUE_Rice_GPP_Arkansas" target="_blank" rel="noopener noreferrer">GitHub &nearr;</a></div>
->>>>>>> Stashed changes
       </div>
     </article>
 
@@ -258,11 +213,7 @@ author_profile: false
       <div class="b">
         <h3>GEE: crop rotation patterns</h3>
         <p>Monoculture and rotation sequences from the Cropland Data Layer, 2008&ndash;2020, using agkit4ee.</p>
-<<<<<<< Updated upstream
-        <div class="l"><a href="https://code.earthengine.google.com/222608fa0908401d18dcf4caa4b40ee5" target="_blank" rel="noopener noreferrer">Code &nearow;</a></div>
-=======
         <div class="l"><a href="https://code.earthengine.google.com/222608fa0908401d18dcf4caa4b40ee5" target="_blank" rel="noopener noreferrer">Code &nearr;</a></div>
->>>>>>> Stashed changes
       </div>
     </article>
 
@@ -270,11 +221,7 @@ author_profile: false
       <div class="b">
         <h3>GEE: 2020 crop frequency</h3>
         <p>Frequency and intensity maps for corn, cotton, rice, soybean and wheat, exported as GeoTIFFs.</p>
-<<<<<<< Updated upstream
-        <div class="l"><a href="https://code.earthengine.google.com/4435fb668d82cfe4c54599b3bfb3574a" target="_blank" rel="noopener noreferrer">Code &nearow;</a></div>
-=======
         <div class="l"><a href="https://code.earthengine.google.com/4435fb668d82cfe4c54599b3bfb3574a" target="_blank" rel="noopener noreferrer">Code &nearr;</a></div>
->>>>>>> Stashed changes
       </div>
     </article>
   </div>

@@ -11,8 +11,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-<<<<<<< Updated upstream
-=======
 <div class="with-rail">
 <aside class="rail" aria-label="Links">
   <span class="rail-h">Find me</span>
@@ -26,7 +24,6 @@ redirect_from:
 </aside>
 <div class="rail-main">
 
->>>>>>> Stashed changes
 <div class="hero">
   <div>
     <div class="eyebrow">Environmental data scientist · Ph.D. 2026</div>
@@ -45,11 +42,7 @@ redirect_from:
   <div><b>83</b><span>Citations</span></div>
   <div><b>4</b><span>h-index</span></div>
 </div>
-<<<<<<< Updated upstream
-<p style="font-size:12px;color:var(--mut)">Google Scholar · updated July 2026</p>
-=======
 <p style="font-size:12px;color:var(--mut)">Google Scholar · updated November 2026</p>
->>>>>>> Stashed changes
 
 <div class="sec">
   <h2>Education.</h2>
@@ -121,8 +114,5 @@ redirect_from:
   </p>
 </div>
 
-<<<<<<< Updated upstream
-=======
 </div>
 </div>
->>>>>>> Stashed changes
