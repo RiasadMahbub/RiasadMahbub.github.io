@@ -34,6 +34,7 @@ author_profile: false
   <h4 class="sublab">Current and ongoing research</h4>
   <div class="cards">
     <article class="c">
+      <img class="fit" src="{{ base_path }}/files/AllEditedImagesSitetoStateScale600.png" alt="Rice monitoring from site to state scale" loading="lazy">
       <div class="b"><span class="badge">Current</span><span class="when">Arkansas</span>
         <h3>Monitoring crop growth and productivity</h3>
         <p>I am continuing my research on satellite-based estimates of crop growing-season length and productivity. This work includes mapping field-level planting and harvest dates, improving models of rice productivity, and developing open datasets and code for applications across Arkansas. It builds on my dissertation research and published work on crop phenology and productivity.</p>
@@ -55,13 +56,22 @@ author_profile: false
         <h3>Satellite-based monitoring of crop development</h3>
         <p>I evaluated satellite time-series and machine-learning approaches to estimate rice planting and harvest dates at the field scale. The research examined how different methods capture crop development and growing-season timing in Arkansas.</p>
         <div class="tg"><span>Satellite time series</span><span>Crop monitoring</span><span>Phenology</span></div>
+        <div class="l"><a href="https://doi.org/10.1016/j.srs.2026.100459" target="_blank" rel="noopener noreferrer">Paper &nearr;</a></div>
       </div>
     </article>
-    <article class="c"><img src="{{ base_path }}/files/EVIspatial.png" alt="EVI across Arkansas rice fields" loading="lazy">
+    <article class="c"><img class="fit" src="{{ base_path }}/files/ModelRepresentation.png" alt="Key drivers of light-use efficiency and GPP in the rice model" loading="lazy">
       <div class="b">
         <h3>Improving models of plant productivity</h3>
         <p>I investigated vegetation indices and field observations to improve light-use efficiency estimates for rice productivity, supporting the development and calibration of satellite-based ecosystem models.</p>
         <div class="tg"><span>Light-use efficiency</span><span>Vegetation indices</span><span>Field measurements</span></div>
+      </div>
+    </article>
+    <article class="c">
+      <div class="b">
+        <h3>Deep learning for mapping buildings from drone imagery</h3>
+        <p>I developed and tested a deep learning approach that extracts buildings from ultra-high-resolution drone images, including when the training labels are imperfect. The work was published in the International Journal of Remote Sensing in 2020.</p>
+        <div class="tg"><span>Deep learning</span><span>Drone imagery</span><span>Noisy labels</span></div>
+        <div class="l"><a href="https://doi.org/10.1080/01431161.2020.1763496" target="_blank" rel="noopener noreferrer">Paper &nearr;</a></div>
       </div>
     </article>
   </div>

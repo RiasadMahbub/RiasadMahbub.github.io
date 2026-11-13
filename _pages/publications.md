@@ -33,7 +33,7 @@ author_profile: false
     <h3>Evaluating phenological and machine learning approaches for estimating field-scale rice planting and harvest dates in Arkansas</h3>
     <p class="au"><strong>Mahbub, R. B.</strong>, Tang, R., Moreno-García, B., Gomez-Prats, M., Reba, M. L., Peter, B. G., &amp; Runkle, B. R. K.</p>
     <p class="ve">Science of Remote Sensing, 100459, 2026</p>
-    <div class="tags2"><span class="tag ">First Author</span><span class="tag ">Elsevier</span></div>
+    <div class="tags2"><span class="tag ">First Author</span><span class="tag ">Elsevier</span><a href="https://doi.org/10.1016/j.srs.2026.100459" target="_blank" rel="noopener noreferrer">DOI &nearr;</a><a href="https://www.sciencedirect.com/science/article/pii/S2666017226000970" target="_blank" rel="noopener noreferrer">ScienceDirect &nearr;</a></div>
   </div>
 </div><div class="p">
   <span class="y">2025</span>

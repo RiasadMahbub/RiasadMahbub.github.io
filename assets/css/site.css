@@ -115,3 +115,5 @@ html,body{min-height:0!important;padding-bottom:0!important}
 .theme .num{font:400 14px var(--serif);color:var(--mut);display:block;margin-bottom:4px}
 .sec h4.sublab{margin:32px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--line)}
 .badge{align-self:flex-start;font-size:11px;letter-spacing:.08em;text-transform:uppercase;background:var(--ink);color:#fff;border-radius:99px;padding:2px 10px}
+
+.c img.fit{object-fit:contain;background:#fff;height:200px;padding:6px}
