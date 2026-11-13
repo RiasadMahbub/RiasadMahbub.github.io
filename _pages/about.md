@@ -11,6 +11,22 @@ redirect_from:
 ---
 {% include base_path %}
 
+<<<<<<< Updated upstream
+=======
+<div class="with-rail">
+<aside class="rail" aria-label="Links">
+  <span class="rail-h">Find me</span>
+  <a href="https://github.com/RiasadMahbub" target="_blank" rel="noopener noreferrer">GitHub</a>
+  <a href="https://scholar.google.com/citations?user=28SIlsMAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  <a href="https://orcid.org/0000-0001-6753-7177" target="_blank" rel="noopener noreferrer">ORCID</a>
+  <a href="https://www.researchgate.net/profile/Riasad-Mahbub" target="_blank" rel="noopener noreferrer">ResearchGate</a>
+  <a href="https://www.linkedin.com/in/riasad-bin-mahbub-504048ba/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  <a href="mailto:rbmahbub@uark.edu">Email</a>
+  <a href="{{ base_path }}/resume/">Resume</a>
+</aside>
+<div class="rail-main">
+
+>>>>>>> Stashed changes
 <div class="hero">
   <div>
     <div class="eyebrow">Environmental data scientist · Ph.D. 2026</div>
@@ -29,7 +45,11 @@ redirect_from:
   <div><b>83</b><span>Citations</span></div>
   <div><b>4</b><span>h-index</span></div>
 </div>
+<<<<<<< Updated upstream
 <p style="font-size:12px;color:var(--mut)">Google Scholar · updated July 2026</p>
+=======
+<p style="font-size:12px;color:var(--mut)">Google Scholar · updated November 2026</p>
+>>>>>>> Stashed changes
 
 <div class="sec">
   <h2>Education.</h2>
@@ -101,3 +121,8 @@ redirect_from:
   </p>
 </div>
 
+<<<<<<< Updated upstream
+=======
+</div>
+</div>
+>>>>>>> Stashed changes
