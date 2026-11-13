@@ -27,7 +27,7 @@ redirect_from:
 <div class="hero">
   <div>
     <div class="eyebrow">Environmental data scientist · Ph.D. 2026</div>
-    <p class="lead">I combine satellite remote sensing, eddy covariance flux measurements and machine learning to quantify carbon cycling, greenhouse gas emissions and land surface dynamics, from single fields to the scale of a state. I am at the University of Arkansas, Fayetteville, and now applying these methods to institutional carbon footprint analysis and decarbonization planning.</p>
+    <p class="lead">My research focuses on agricultural and forest ecosystems, climate change, and environmental sustainability. I use field measurements and satellite data to study ecosystem productivity, carbon emissions, and environmental change. I am interested in developing research and teaching opportunities in environmental science, ecology, and sustainability. I am at the University of Arkansas, Fayetteville, and now applying these methods to institutional carbon footprint analysis and decarbonization planning.</p>
     <div class="btns">
       <a class="btn-s p" href="{{ base_path }}/research/">See the research</a>
       <a class="btn-s" href="{{ base_path }}/resume/">Resume</a>
@@ -48,7 +48,7 @@ redirect_from:
   <h2>Education.</h2>
   <div class="tl">
     <div class="ti now">
-      <span class="when">2020 &ndash; 2026</span>
+      <span class="when">2021 &ndash; 2026</span>
       <h3>Ph.D. in Environmental Dynamics</h3>
       <p class="org">University of Arkansas, Fayetteville, AR</p>
       <p>Advisor: <a href="https://runkle.uark.edu/">Dr. Benjamin Runkle</a>. Dissertation: <em>Predicting spatial information of rice growing season length and gross primary productivity from space and site-scale instruments.</em> <a href="https://www.proquest.com/dissertations-theses/predicting-spatial-information-rice-growing/docview/3354715870/se-2" target="_blank" rel="noopener noreferrer">ProQuest &nearr;</a></p>
