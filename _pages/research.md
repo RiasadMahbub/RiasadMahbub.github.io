@@ -83,6 +83,14 @@ author_profile: false
   <p class="sub">I use spatial analysis and environmental data to identify differences in agricultural performance and understand the factors that may explain them. This research connects model outputs with information on soils, water, climate, and land management to produce maps and datasets that can support agricultural planning, resource management, and policy discussions.</p>
   <h4 class="sublab">Current and ongoing research</h4>
   <div class="cards">
+    <article class="c"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-phenology" target="_blank" rel="noopener noreferrer"><img class="fit" src="{{ base_path }}/files/ricePhenology.png" alt="Arkansas rice phenology web app showing start-of-season day of year for 2020" loading="lazy"></a>
+      <div class="b"><span class="badge">Current</span><span class="when">Web tool &middot; Arkansas</span>
+        <h3>Arkansas rice phenology explorer</h3>
+        <p>An interactive Google Earth Engine app for exploring rice phenology across Arkansas. Pick a year and a layer, such as start, peak, or end of season, to see day-of-year maps at 30 m for rice pixels only, from a two-harmonic fit to kNDVI using Landsat and Sentinel-2. The metrics are harmonic-fit estimates, not field-validated phenology, and the current view can be downloaded as a GeoTIFF.</p>
+        <div class="tg"><span>Phenology</span><span>Google Earth Engine</span><span>Landsat &amp; Sentinel-2</span></div>
+        <div class="l"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-phenology" target="_blank" rel="noopener noreferrer">Open the app &nearr;</a></div>
+      </div>
+    </article>
     <article class="c">
       <div class="b"><span class="badge">Current</span><span class="when">Arkansas</span>
         <h3>Mapping agricultural productivity and growing conditions</h3>
