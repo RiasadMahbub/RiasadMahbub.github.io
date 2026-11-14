@@ -69,13 +69,27 @@ redirect_from:
 </div>
 
 <div class="sec">
-  <h2>From the maps.</h2>
-  <p class="sub">Arkansas rice productivity, planting frequency and canopy greenness, plus Bangladesh land use. <a href="{{ base_path }}/maps/">Open the full gallery →</a></p>
-  <div class="strip">
-    <a href="{{ base_path }}/maps/"><img src="{{ base_path }}/files/VPMcumulativearranged.png" alt="Cumulative rice GPP across Arkansas" loading="lazy"></a>
-    <a href="{{ base_path }}/maps/"><img src="{{ base_path }}/files/RiceGrowFreq.png" alt="Rice growing frequency in Arkansas, 2008–2020" loading="lazy"></a>
-    <a href="{{ base_path }}/maps/"><img src="{{ base_path }}/files/EVIspatial.png" alt="EVI across Arkansas rice fields" loading="lazy"></a>
-    <a href="{{ base_path }}/maps/"><img src="{{ base_path }}/files/districthanpp2050updated.JPG" alt="HANPP by district, Bangladesh" loading="lazy"></a>
+  <h2>Tools and maps.</h2>
+  <p class="sub">An interactive application, a statewide productivity map, and a historical land-use analysis. <a href="{{ base_path }}/maps/">Open the full map gallery &rarr;</a></p>
+  <div class="feat">
+    <article class="f">
+      <a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-phenology" target="_blank" rel="noopener noreferrer"><img src="{{ base_path }}/files/ricePhenology.png" alt="Arkansas Rice Phenology Explorer" loading="lazy"></a>
+      <h3>Arkansas Rice Phenology Explorer</h3>
+      <p>An interactive Google Earth Engine app for exploring satellite-derived start, peak, and end of the rice growing season across Arkansas.</p>
+      <div class="l"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-phenology" target="_blank" rel="noopener noreferrer">Open the app &nearr;</a></div>
+    </article>
+    <article class="f">
+      <a href="{{ base_path }}/maps/"><img src="{{ base_path }}/files/VPMcumulativearranged.png" alt="Cumulative rice productivity across Arkansas" loading="lazy"></a>
+      <h3>Rice productivity map</h3>
+      <p>Annual maps at 500 m of the carbon taken up by rice (gross primary productivity) across Arkansas, 2008 to 2020.</p>
+      <div class="l"><a href="https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983" target="_blank" rel="noopener noreferrer">Dataset &nearr;</a><a href="{{ base_path }}/maps/">Gallery &rarr;</a></div>
+    </article>
+    <article class="f">
+      <a href="{{ base_path }}/maps/"><img src="{{ base_path }}/files/districthanpp2050updated.JPG" alt="Human appropriation of net primary production by district, Bangladesh" loading="lazy"></a>
+      <h3>Human impacts on land productivity, Bangladesh</h3>
+      <p>District-level maps of human appropriation of net primary production (HANPP), 1700 to 2100.</p>
+      <div class="l"><a href="https://doi.org/10.1016/j.landusepol.2019.104067" target="_blank" rel="noopener noreferrer">Paper &nearr;</a><a href="{{ base_path }}/maps/">Gallery &rarr;</a></div>
+    </article>
   </div>
 </div>
 
