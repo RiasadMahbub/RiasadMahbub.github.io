@@ -177,3 +177,7 @@ section.theme .num{font-size:11px!important}
 .pj .pi img{max-height:160px!important}
 section.theme .sublab{font-size:12px!important}
 @media(max-width:800px){.pj{grid-template-columns:1fr!important}}
+/* entries without an image use the full width */
+.pj.noimg{grid-template-columns:1fr!important}
+.pj .pt{min-width:0}
+.pj p{max-width:none!important}
