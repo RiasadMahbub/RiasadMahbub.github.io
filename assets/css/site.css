@@ -139,3 +139,19 @@ section.theme .badge{background:var(--ink2)}
 .dir .row:last-child{border-bottom:1px solid var(--line)}
 .dir strong{display:block}.dir span{color:var(--mut);font-size:13px}.dir p{margin:0;color:var(--mut)}.dir .rl{display:flex;gap:12px;white-space:nowrap}
 @media(max-width:800px){.overview{grid-template-columns:1fr}.dir .row{grid-template-columns:1fr;gap:4px}section.theme{padding:24px 16px}}
+
+/* stacked project entries */
+.overview{grid-template-columns:1fr!important;gap:10px!important}
+.ov{display:flex!important;gap:16px;align-items:baseline;padding:14px 18px!important}
+.ov h3{margin:0 0 2px!important}
+.pj{display:grid;grid-template-columns:260px 1fr;gap:28px;padding:26px 0;border-top:1px solid var(--tone);align-items:start}
+.pj.noimg{grid-template-columns:1fr}
+.pj .pi img{width:100%;height:auto;max-height:190px;object-fit:contain;background:#fff;border:1px solid var(--tone);border-radius:4px;display:block}
+.pj h3{margin:0 0 6px;font:600 19px/1.3 var(--serif)}
+.pj p{margin:0 0 10px;font-size:15.5px;max-width:760px}
+.pj .tg{padding-top:0;margin-top:0}
+.pj .l{display:flex;gap:16px;font-size:14px;font-weight:500;margin-top:10px}
+.pj .badge{display:inline-block;margin-bottom:8px}
+section.theme .sublab{margin:30px 0 0;border-bottom:0}
+section.theme .sublab:first-of-type{margin-top:20px}
+@media(max-width:800px){.pj{grid-template-columns:1fr;gap:14px}.pj .pi img{max-height:none}}
