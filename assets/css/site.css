@@ -117,3 +117,25 @@ html,body{min-height:0!important;padding-bottom:0!important}
 .badge{align-self:flex-start;font-size:11px;letter-spacing:.08em;text-transform:uppercase;background:var(--ink);color:#fff;border-radius:99px;padding:2px 10px}
 
 .c img.fit{object-fit:contain;background:#fff;height:200px;padding:6px}
+
+/* three-theme colors */
+.t1{--tint:#eef4fb;--tone:#8fb0d6;--ink2:#2b4f7e}
+.t2{--tint:#eef6ee;--tone:#97c197;--ink2:#2f6a35}
+.t3{--tint:#fbf3e4;--tone:#dcb877;--ink2:#8a5a12}
+.overview{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:28px 0 8px}
+.ov{display:block;background:var(--tint);border:1px solid var(--tone);border-radius:6px;padding:18px;text-decoration:none!important;color:var(--ink)}
+.ov:hover{border-color:var(--ink2)}
+.ov .num{font:400 14px var(--serif);color:var(--ink2)}.ov h3{margin:4px 0 6px;font-size:17px;line-height:1.3}.ov p{margin:0;font-size:14px;color:var(--mut)}
+section.theme{background:var(--tint);border:1px solid var(--tone);border-radius:8px;padding:32px 28px;margin:40px 0}
+section.theme .num{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink2);font-weight:600}
+section.theme h2{font:400 30px var(--serif);margin:6px 0 4px}
+section.theme .q{font:italic 400 17px var(--serif);color:var(--ink2);margin:0 0 10px}
+section.theme .sub{margin-bottom:8px}
+section.theme .sublab{border-color:var(--tone);color:var(--ink2)}
+section.theme .c{border-color:var(--tone)}section.theme .c:hover{border-color:var(--ink2)}
+section.theme .badge{background:var(--ink2)}
+.c a.imgl{display:block}
+.dir .row{display:grid;grid-template-columns:1.2fr 1.6fr auto;gap:16px;padding:12px 0;border-top:1px solid var(--line);align-items:baseline;font-size:14.5px}
+.dir .row:last-child{border-bottom:1px solid var(--line)}
+.dir strong{display:block}.dir span{color:var(--mut);font-size:13px}.dir p{margin:0;color:var(--mut)}.dir .rl{display:flex;gap:12px;white-space:nowrap}
+@media(max-width:800px){.overview{grid-template-columns:1fr}.dir .row{grid-template-columns:1fr;gap:4px}section.theme{padding:24px 16px}}
