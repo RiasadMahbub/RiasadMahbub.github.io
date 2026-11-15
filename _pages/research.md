@@ -85,12 +85,12 @@ author_profile: false
       <div class="l"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-phenology" target="_blank" rel="noopener noreferrer">Open the app &nearr;</a></div>
     </div>
   </article>
-  <article class="pj"><div class="pi"><img src="{{ base_path }}/files/VPMcumulativearranged.png" alt="Cumulative rice productivity map across Arkansas" loading="lazy"></div>
+  <article class="pj"><div class="pi"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-gpp" target="_blank" rel="noopener noreferrer"><img src="{{ base_path }}/files/riceGPP.png" alt="Arkansas Rice GPP web app showing two productivity maps side by side" loading="lazy"></a></div>
     <div class="pt"><span class="badge">Current</span>
       <h3>Mapping Rice Productivity Across Arkansas</h3>
-      <p>An open dataset of annual rice gross primary productivity estimates at 500-m resolution for 2008&ndash;2020. The dataset provides a spatial view of rice productivity across the state and is accompanied by the code used to generate the estimates.</p>
-      <div class="tg"><span>Spatial datasets</span><span>Open data</span><span>Agricultural productivity</span></div>
-      <div class="l"><a href="https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983" target="_blank" rel="noopener noreferrer">Dataset &nearr;</a><a href="https://github.com/RiasadMahbub/Arkansas-Rice-GPP-VPM" target="_blank" rel="noopener noreferrer">Code &nearr;</a></div>
+      <p>An open dataset of annual rice gross primary productivity (GPP) estimates at 500-m resolution for 2008&ndash;2020, together with an interactive Google Earth Engine app. The app maps 2020 growing-season GPP at 30 m for each rice pixel using two approaches, a vegetation-index regression and the Vegetation Photosynthesis Model, and shows how the two differ, with soil information and graphs of productivity by latitude and longitude. The app estimates are provisional and have not yet been validated against eddy-covariance measurements.</p>
+      <div class="tg"><span>Interactive application</span><span>Spatial datasets</span><span>Open data</span><span>Agricultural productivity</span></div>
+      <div class="l"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-gpp" target="_blank" rel="noopener noreferrer">Open the app &nearr;</a><a href="https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983" target="_blank" rel="noopener noreferrer">Dataset &nearr;</a><a href="https://github.com/RiasadMahbub/Arkansas-Rice-GPP-VPM" target="_blank" rel="noopener noreferrer">Code &nearr;</a></div>
     </div>
   </article>
   <article class="pj"><div class="pi"><img src="{{ base_path }}/files/mapgppyieldsignificance.jpg" alt="Map of productivity and yield relationships" loading="lazy"></div>

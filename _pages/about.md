@@ -79,10 +79,10 @@ redirect_from:
       <div class="l"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-phenology" target="_blank" rel="noopener noreferrer">Open the app &nearr;</a></div>
     </article>
     <article class="f">
-      <a href="{{ base_path }}/maps/"><img src="{{ base_path }}/files/VPMcumulativearranged.png" alt="Cumulative rice productivity across Arkansas" loading="lazy"></a>
-      <h3>Rice productivity map</h3>
-      <p>Annual maps at 500 m of the carbon taken up by rice (gross primary productivity) across Arkansas, 2008 to 2020.</p>
-      <div class="l"><a href="https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983" target="_blank" rel="noopener noreferrer">Dataset &nearr;</a><a href="{{ base_path }}/maps/">Gallery &rarr;</a></div>
+      <a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-gpp" target="_blank" rel="noopener noreferrer"><img src="{{ base_path }}/files/riceGPP.png" alt="Arkansas Rice GPP web app" loading="lazy"></a>
+      <h3>Arkansas Rice Productivity Map</h3>
+      <p>An interactive app and open dataset of rice gross primary productivity across Arkansas: the app maps 2020 at 30 m, and the dataset covers 2008 to 2020 at 500 m.</p>
+      <div class="l"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-gpp" target="_blank" rel="noopener noreferrer">Open the app &nearr;</a><a href="https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983" target="_blank" rel="noopener noreferrer">Dataset &nearr;</a></div>
     </article>
     <article class="f">
       <a href="{{ base_path }}/maps/"><img src="{{ base_path }}/files/districthanpp2050updated.JPG" alt="Human appropriation of net primary production by district, Bangladesh" loading="lazy"></a>
