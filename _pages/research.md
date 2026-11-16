@@ -11,7 +11,7 @@ author_profile: false
 </p>
 <p style="margin:18px 0 8px;color:var(--mut)">Three connected research themes guide this work:</p>
 <div class="overview">
-  <a class="ov t1" href="#model-development"><span class="num">1</span><div><h3>Model Development and Data Workflow</h3><p></p></div></a>
+  <a class="ov t1" href="#model-development"><span class="num">1</span><div><h3>Model Development and Data Workflow</h3><p>How do I develop models to understand and predict environmental processes?</p></div></a>
   <a class="ov t2" href="#decision-support"><span class="num">2</span><div><h3>Decision-Support Tools and Environmental Monitoring</h3><p>How can research results be used in practical decisions?</p></div></a>
   <a class="ov t3" href="#sustainability"><span class="num">3</span><div><h3>Environmental Sustainability and Policy Recommendations</h3><p>What are the environmental impacts of human activities, and how can they be reduced?</p></div></a>
 </div>
@@ -24,7 +24,7 @@ author_profile: false
   <article class="pj noimg">
     <div class="pt"><span class="badge">Current</span>
       <h3>Hybrid Models for Environmental Prediction</h3>
-      <p>Combining process-based models, field observations, satellite data, and data-driven methods to improve predictions of ecosystem productivity and environmental responses.</p>
+      <p>We combine ecological models, field measurements from flux towers, satellite observations, and machine learning to improve estimates of forest productivity. Ecological models describe how forests respond to environmental conditions, while machine learning helps identify and correct errors in those predictions. By combining these approaches, we aim to produce more reliable estimates of forest growth and carbon uptake across different ecosystems and environmental conditions.</p>
       <div class="tg"><span>Hybrid modeling</span><span>Process-based models</span><span>Data-driven methods</span></div>
       
     </div>
@@ -32,7 +32,8 @@ author_profile: false
   <article class="pj noimg">
     <div class="pt"><span class="badge">Current</span>
       <h3>Interpretable Models of Environmental Processes</h3>
-      <p>Developing models that identify the environmental factors influencing predictions and explain how and why those predictions are made.</p>
+      <p>How do light, temperature, atmospheric conditions, soil water, and vegetation changes influence ecosystem productivity? We use environmental measurements, satellite data, and statistical models to investigate these relationships. We also compare model predictions with field observations and established ecological principles to understand whether models capture the processes that actually control ecosystem behavior.</p>
+      <p>This work helps improve our understanding of environmental controls on carbon exchange and ecosystem productivity and builds confidence in models used to study environmental change.</p>
       <div class="tg"><span>Interpretable modeling</span><span>Explainable AI</span><span>Environmental prediction</span></div>
       
     </div>
@@ -80,7 +81,7 @@ author_profile: false
   <article class="pj"><div class="pi"><img src="{{ base_path }}/files/ricePhenology.png" alt="Arkansas rice phenology web app" loading="lazy"></div>
     <div class="pt"><span class="badge">Current</span>
       <h3>Arkansas Rice Phenology Explorer</h3>
-      <p>An interactive Google Earth Engine application for exploring satellite-derived rice growing-season patterns across Arkansas. Users can select a year and view maps of the start, peak, and end of the growing season. The estimates are derived from a harmonic fit to satellite observations.</p>
+      <p>An interactive Google Earth Engine application for exploring satellite-derived rice growing-season patterns across Arkansas. Users can select a year and view maps of the start, peak, and end of the growing season. The estimates are derived from a harmonic fit to satellite observations and have not been independently validated against field observations within the application.</p>
       <div class="tg"><span>Interactive application</span><span>Crop phenology</span><span>Google Earth Engine</span></div>
       <div class="l"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-phenology" target="_blank" rel="noopener noreferrer">Open the app &nearr;</a></div>
     </div>
@@ -88,7 +89,7 @@ author_profile: false
   <article class="pj"><div class="pi"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-gpp" target="_blank" rel="noopener noreferrer"><img src="{{ base_path }}/files/riceGPP.png" alt="Arkansas Rice GPP web app showing two productivity maps side by side" loading="lazy"></a></div>
     <div class="pt"><span class="badge">Current</span>
       <h3>Mapping Rice Productivity Across Arkansas</h3>
-      <p>An open dataset of annual rice gross primary productivity (GPP) estimates at 500-m resolution for 2008&ndash;2020, together with an interactive Google Earth Engine app. The app maps 2020 growing-season GPP at 30 m for each rice pixel using two approaches, a vegetation-index regression and the Vegetation Photosynthesis Model, and shows how the two differ, with soil information and graphs of productivity by latitude and longitude.</p>
+      <p>An open dataset of annual rice gross primary productivity (GPP) estimates at 500-m resolution for 2008&ndash;2020, together with an interactive Google Earth Engine app. The app maps 2020 growing-season GPP at 30 m for each rice pixel using two approaches, a vegetation-index regression and the Vegetation Photosynthesis Model, and shows how the two differ, with soil information and graphs of productivity by latitude and longitude. The app estimates are provisional and have not yet been validated against eddy-covariance measurements.</p>
       <div class="tg"><span>Interactive application</span><span>Spatial datasets</span><span>Open data</span><span>Agricultural productivity</span></div>
       <div class="l"><a href="https://ee-my-riasadbmahbub.projects.earthengine.app/view/arkansas-rice-gpp" target="_blank" rel="noopener noreferrer">Open the app &nearr;</a><a href="https://agdatacommons.nal.usda.gov/articles/dataset/Cumulative_GPP_data_of_rice_Arkansas_at_500_meters_resolution/29945912?file=57300983" target="_blank" rel="noopener noreferrer">Dataset &nearr;</a><a href="https://github.com/RiasadMahbub/Arkansas-Rice-GPP-VPM" target="_blank" rel="noopener noreferrer">Code &nearr;</a></div>
     </div>
