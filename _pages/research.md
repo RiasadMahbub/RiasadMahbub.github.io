@@ -11,7 +11,7 @@ author_profile: false
 </p>
 <p style="margin:18px 0 8px;color:var(--mut)">Three connected research themes guide this work:</p>
 <div class="overview">
-  <a class="ov t1" href="#model-development"><span class="num">1</span><div><h3>Model Development and Data Workflow</h3><p>How do I develop models to understand and predict environmental processes?</p></div></a>
+  <a class="ov t1" href="#model-development"><span class="num">1</span><div><h3>Model Development and Data Workflow</h3><p></p></div></a>
   <a class="ov t2" href="#decision-support"><span class="num">2</span><div><h3>Decision-Support Tools and Environmental Monitoring</h3><p>How can research results be used in practical decisions?</p></div></a>
   <a class="ov t3" href="#sustainability"><span class="num">3</span><div><h3>Environmental Sustainability and Policy Recommendations</h3><p>What are the environmental impacts of human activities, and how can they be reduced?</p></div></a>
 </div>
