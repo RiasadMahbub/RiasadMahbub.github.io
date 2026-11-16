@@ -107,6 +107,9 @@ author_profile: true
 .ig-tag.stat { background:#f4f0fa; color:#5a3a8a; border-color:#c8b8e8; }
 .ig-tag.pheno{ background:#fef9ee; color:#7a6000; border-color:#e8dc90; }
 .ig-tag.gis  { background:#eef9f4; color:#1a6a4a; border-color:#b0d8c8; }
+.ig-tag.sus  { background:#fbf3e4; color:#8a5a12; border-color:#dcb877; }
+.ig-tag.ghg  { background:#f9eeee; color:#8a2a2a; border-color:#e0b0b0; }
+.ig-tag.surv { background:#eef2f6; color:#3a4a5a; border-color:#c0cad4; }
 
 /* ── Footer ── */
 .ig-foot {
@@ -153,7 +156,7 @@ author_profile: true
 </style>
 
 <div class="ig-overview">
-  Visualizations from dissertation and collaborative research on rice paddy carbon flux, phenology, and remote sensing in Arkansas. Combines eddy covariance ground truth, Landsat/Sentinel/MODIS satellite imagery, machine learning, and process-based modeling to estimate GPP, planting and harvest dates, and CH₄ flux at field-to-state scale.<br><br>
+  Visualizations from dissertation and collaborative research on rice paddy carbon flux, phenology, and remote sensing in Arkansas. Combines eddy covariance ground truth, Landsat/Sentinel/MODIS satellite imagery, machine learning, and process-based modeling to estimate GPP, planting and harvest dates, and CH₄ flux at field-to-state scale. A campus sustainability section presents survey and emissions results from the Cruise to Campus event.<br><br>
   <strong>Methods represented:</strong>
   <div class="ig-skills">
     <span class="ig-skill">Remote Sensing</span>
@@ -164,6 +167,7 @@ author_profile: true
     <span class="ig-skill">Eddy Covariance</span>
     <span class="ig-skill">Vegetation Photosynthesis Model (VPM)</span>
     <span class="ig-skill">GIS &amp; Spatial Analysis</span>
+    <span class="ig-skill">GHG Accounting &amp; Survey Analysis</span>
   </div>
 </div>
 
@@ -456,5 +460,107 @@ author_profile: true
     </div>
     <div class="ig-tags"><span class="ig-tag stat">Correlation</span><span class="ig-tag pheno">Phenology</span></div>
     <div class="ig-foot"><a href="/files/corr_plot.png" download>corr_plot.png</a></div>
+  </div>
+</div>
+
+---
+
+<p class="ig-section-label">Campus Sustainability &mdash; Cruise to Campus Impact Report</p>
+
+<div class="ig-overview">
+  Sustainability impact assessment of the Cruise to Campus event, University of Arkansas Office for Sustainability, Summer 2026 (36 survey participants). The figures cover how participants commuted, what they would otherwise have done, and the greenhouse gas emissions avoided and produced by commuting, food, and delivery.
+</div>
+
+<div class="ig-grid ig-wide">
+  <div class="ig-card">
+    <div class="ig-img-wrap"><img src="/files/cruise_to_campus_combined_figure.png" alt="Cruise to Campus combined figure" /></div>
+    <div class="ig-body">
+      <p class="ig-title">Cruise to Campus &mdash; Sustainability Impact Report</p>
+      <p class="ig-desc">Combined summary of the eight analyses below: commute mode, avoided versus produced emissions, vehicle emission factors, summer-term totals, breakfast substitution, motivation to bike, alternative modes, and sensitivity to delivery distance and order size.</p>
+    </div>
+    <div class="ig-tags"><span class="ig-tag sus">Sustainability</span><span class="ig-tag ghg">GHG accounting</span><span class="ig-tag surv">Survey</span></div>
+    <div class="ig-foot"><a href="/files/cruise_to_campus_combined_figure.png" download>cruise_to_campus_combined_figure.png</a></div>
+  </div>
+</div>
+
+<p class="ig-section-label">Cruise to Campus &mdash; Participant Behavior</p>
+
+<div class="ig-grid ig-duo">
+  <div class="ig-card">
+    <div class="ig-img-wrap"><img src="/files/fig1_commute_mode.png" alt="Commute mode on the day of the event" /></div>
+    <div class="ig-body">
+      <p class="ig-title">Commute Mode on the Day of the Event</p>
+      <p class="ig-desc">Most participants arrived by bike (26, 74%), followed by walking (7, 20%). One participant drove and one took the bus (3% each).</p>
+    </div>
+    <div class="ig-tags"><span class="ig-tag sus">Sustainability</span><span class="ig-tag surv">Survey</span></div>
+    <div class="ig-foot"><a href="/files/fig1_commute_mode.png" download>fig1_commute_mode.png</a></div>
+  </div>
+  <div class="ig-card">
+    <div class="ig-img-wrap"><img src="/files/fig7_alt_mode.png" alt="What participants would have done without the event" /></div>
+    <div class="ig-body">
+      <p class="ig-title">What Would Participants Have Done Without the Event?</p>
+      <p class="ig-desc">Sixteen of 36 participants would have driven alone, a genuine mode shift away from driving. The rest would have been active regardless: 10 would have biked anyway, 6 walked, 2 carpooled, and 2 biked or walked.</p>
+    </div>
+    <div class="ig-tags"><span class="ig-tag sus">Sustainability</span><span class="ig-tag surv">Survey</span></div>
+    <div class="ig-foot"><a href="/files/fig7_alt_mode.png" download>fig7_alt_mode.png</a></div>
+  </div>
+  <div class="ig-card">
+    <div class="ig-img-wrap"><img src="/files/fig6_motivation.png" alt="Does the event motivate participants to bike more" /></div>
+    <div class="ig-body">
+      <p class="ig-title">Does the Event Motivate Participants to Bike More?</p>
+      <p class="ig-desc">Thirty-one participants (86%) said the event motivates behaviour change toward more cycling; 5 (14%) said it does not.</p>
+    </div>
+    <div class="ig-tags"><span class="ig-tag sus">Sustainability</span><span class="ig-tag surv">Survey</span></div>
+    <div class="ig-foot"><a href="/files/fig6_motivation.png" download>fig6_motivation.png</a></div>
+  </div>
+  <div class="ig-card">
+    <div class="ig-img-wrap"><img src="/files/fig5_breakfast.png" alt="Self-reported breakfast substitution" /></div>
+    <div class="ig-body">
+      <p class="ig-title">Self-Reported Breakfast Substitution</p>
+      <p class="ig-desc">Twenty-nine participants (81%) said the provided food replaced their usual breakfast, 6 (17%) ate it in addition, and 1 (3%) would otherwise have skipped breakfast.</p>
+    </div>
+    <div class="ig-tags"><span class="ig-tag sus">Sustainability</span><span class="ig-tag surv">Survey</span></div>
+    <div class="ig-foot"><a href="/files/fig5_breakfast.png" download>fig5_breakfast.png</a></div>
+  </div>
+</div>
+
+<p class="ig-section-label">Cruise to Campus &mdash; Emissions Accounting</p>
+
+<div class="ig-grid ig-duo">
+  <div class="ig-card">
+    <div class="ig-img-wrap"><img src="/files/fig3_emission_factors.png" alt="Emission factors by vehicle type" /></div>
+    <div class="ig-body">
+      <p class="ig-title">Emission Factors by Vehicle Type</p>
+      <p class="ig-desc">Emission factors used for avoided driving, from 0.25 kg CO&#8322;e per mile for motorcycles (n=3) to 0.55 for pickup trucks (n=6); sedans and compacts are 0.4 (n=10) and SUVs and crossovers 0.5 (n=11). Source: EPA Emission Factors (Feb 2024); DEFRA 2024.</p>
+    </div>
+    <div class="ig-tags"><span class="ig-tag ghg">GHG accounting</span></div>
+    <div class="ig-foot"><a href="/files/fig3_emission_factors.png" download>fig3_emission_factors.png</a></div>
+  </div>
+  <div class="ig-card">
+    <div class="ig-img-wrap"><img src="/files/fig2_ghg_breakdown.png" alt="GHG avoided versus food and delivery footprint" /></div>
+    <div class="ig-body">
+      <p class="ig-title">GHG Avoided vs. Food &amp; Delivery Footprint</p>
+      <p class="ig-desc">Biking avoided 38.4 kg CO&#8322;e, while food production (37.6 kg) and delivery transport (7.86 kg, 26.2-mile round trip by EV) produced more. The net is &minus;4.7 kg without the illustrative breakfast credit and +9.8 kg with it.</p>
+    </div>
+    <div class="ig-tags"><span class="ig-tag sus">Sustainability</span><span class="ig-tag ghg">GHG accounting</span></div>
+    <div class="ig-foot"><a href="/files/fig2_ghg_breakdown.png" download>fig2_ghg_breakdown.png</a></div>
+  </div>
+  <div class="ig-card">
+    <div class="ig-img-wrap"><img src="/files/fig8_sensitivity_case_studies.png" alt="Sensitivity to delivery distance and order size" /></div>
+    <div class="ig-body">
+      <p class="ig-title">Sensitivity: Delivery Distance &amp; Order Size</p>
+      <p class="ig-desc">The net result is sensitive to logistics: it is &minus;4.7 kg CO&#8322;e in the baseline, &minus;1.7 kg with a uniform order, +2.8 kg with a 1-mile delivery, and +5.9 kg with both. Negative values mean net emission.</p>
+    </div>
+    <div class="ig-tags"><span class="ig-tag ghg">GHG accounting</span></div>
+    <div class="ig-foot"><a href="/files/fig8_sensitivity_case_studies.png" download>fig8_sensitivity_case_studies.png</a></div>
+  </div>
+  <div class="ig-card">
+    <div class="ig-img-wrap"><img src="/files/fig4_summer_scaling.png" alt="Net avoided emissions for the Summer 2026 term" /></div>
+    <div class="ig-body">
+      <p class="ig-title">Net Avoided Emissions &mdash; Summer 2026 Term</p>
+      <p class="ig-desc">Commute-only avoided emissions were 41 kg CO&#8322;e for this event and 163 kg for the four-event summer programme (May&ndash;Aug). Counting food and delivery, the net is &minus;5 kg and &minus;19 kg.</p>
+    </div>
+    <div class="ig-tags"><span class="ig-tag sus">Sustainability</span><span class="ig-tag ghg">GHG accounting</span></div>
+    <div class="ig-foot"><a href="/files/fig4_summer_scaling.png" download>fig4_summer_scaling.png</a></div>
   </div>
 </div>
